@@ -1,0 +1,2767 @@
+Set Number 0001
+C	aːčimeːw	he tells of him
+F	aːčimeːwa	he tells him
+M	aːčemæw	he tells about him
+O	aːčim	tell of someone
+
+
+Set Number 0002
+C	aːčimikosiw	he is talked about
+F	aːčimekosiwa	he is told about
+
+
+Set Number 0003
+C	aːčimoːwin	story
+F	aːčimoːni	tale
+M	aːčemwan	story, report
+
+
+Set Number 0004
+C	aːčimostaweːw	he tells him news
+F	aːčimohtaweːwa	he tells it for him, speaks for him
+M	aːčemiːqtawæw	he tells him a story
+
+
+Set Number 0005
+C	aːčimostaːtoːwak	they narrate to each other
+M	aːčemiːqtatowak	they tell each other stories
+
+
+Set Number 0006
+C	aːčimoːw	he tells his (own) story, he narrates
+F	aːčimowa	he narrates
+M	aːčemow	he narrates, reports an event
+
+
+Set Number 0007
+C	aːhkik	seal
+O	aːskik	seal
+
+
+Set Number 0008
+C	aːhkwaːtisiw	he is fierce, savage
+O	aːkkawaːtisi	appear menacing
+
+
+Set Number 0009
+C	aːhkwanwi	it is acrid, painful, severe
+F	aːhkwatwi	it is a weapon
+
+
+Set Number 0013
+C	aːhkosiw	he is sick
+O	aːkkosi	be sick
+
+
+Set Number 0014
+C	aːhkosiwin	sickness
+O	aːkkosiwin	sickness
+
+
+Set Number 0015
+F	aːhpaweːwa	he dreams
+O	aːppaweː	have an ominous dream
+
+
+Set Number 0016
+F	aːhpeči	for good, all the time
+O	aːppiči	completely, entirely
+
+
+Set Number 0017
+F	aːhpene	all alike
+M	aːhpen	uniformly, always the same
+M	aːyaːhpen	uniformly, always the same
+O	aːppineː	always the same, ever since
+
+
+Set Number 0018
+F	aːhpetoseːwa	he walks all the time
+M	aːyahpeːhtohnæw	he walks on at that pace
+O	aːppitosseː	walk as fast as possible
+
+
+Set Number 0019
+C	aːkawaːsteːsimoːw	he lies down in the shade
+O	aːkawaːtteːššimoːn	be in the shadow
+
+
+Set Number 0020
+M	aːkuaqtæːhsen	he is in the shade
+O	aːkawaːtteːššin	make shadow with one's body
+
+
+Set Number 0021
+M	aːkuaqtæːhnen	it is in the shade
+O	aːkawaːtteːssin	cast a shadow
+
+
+Set Number 0022
+C	aːkawaːsteːhon	umbrella, wagon cover
+O	aːkawaːtteːqon	parasol, umbrella
+
+
+Set Number 0023
+C	aːkawaːsteːskaweːw	he overshadows him
+M	aːkuaqnæːskawæw	he stands so as to shade him
+O	aːkawaːtteːškaw	cover someone with one's shadow
+
+
+Set Number 0025
+C	aːkawaːsteːham	he shades, shelters it
+M	aːkuaqnæham	he shades or shelters it
+
+
+Set Number 0026
+C	aːkawaːsteːhweːw	he shades him
+M	aːkuaqnæhæw	he shades him
+
+
+Set Number 0027
+C	aːkoːham	he shields it
+O	aːkoːqaːn	close off something from view
+
+
+Set Number 0028
+C	aːkoːhweːw	he covers, conceals him
+O	aːkoːqw	close off someone from view
+
+
+Set Number 0029
+M	aːkem	snowshoe
+O	aːkam	snowshoe
+
+
+Set Number 0031
+M	aːkemoːhnæw	he walks on snowshoes
+O	aːkamosseː	walk in snowshoes
+
+
+Set Number 0032
+C	aːkwaːyaːstan	it blows ashore, sails to land
+O	aːkwaːyaːssin	it comes, is blown ashore
+
+
+Set Number 0033
+C	aːyahkonaːw	bread, bannock
+O	aːnakkonaː	sea-bread, biscuit
+
+
+Set Number 0034
+M	aːnahkwat	there is a cloud
+O	aːnakkwat	it is cloudy
+
+
+Set Number 0035
+M	aːnahkwat	cloud
+O	aːnakkotw	cloud
+
+
+Set Number 0036
+C	aːyiman	it is difficult
+O	aːnimat	it is painful, horrible
+
+
+Set Number 0037
+C	aːyimeːyihtam	he thinks it difficult
+O	aːnimeːntam	suffer in one's thoughts
+
+
+Set Number 0038
+C	aːyimisiw	he is difficult, troublesome
+F	aːnemesiwa	he is in a plight
+M	aːnemæsew	he is in a bad state, dangerously ill
+
+
+Set Number 0039
+C	aːyimiheːw	he gives him trouble
+F	aːnemiheːwa	he puts him to straits
+M	aːnemehæːw	he scolds him severely
+O	aːnimiq	make someone suffer
+
+
+Set Number 0040
+C	aːyimimeːw	he gives him difficult instructions
+F	aːnemimeːwa	he scolds him hard
+
+
+Set Number 0041
+C	aːyweːpiw	he rests
+O	aːnweːpi	rest
+
+
+Set Number 0042
+C	aːyweːpiwin	ease, rest
+O	aːnweːpiwin	rest, repose
+
+
+Set Number 0043
+C	aːmačiweːpahtaːw	he runs uphill
+O	aːmačiweːpattoː	run up a mountain
+
+
+Set Number 0044
+C	aːmačiweːw	he goes uphill
+O	aːmačiweː	go up a mountain
+
+
+Set Number 0045
+C	aːmi	almost
+F	aːmi	manage to, be wont to
+M	aːm	almost
+
+
+Set Number 0046
+C	aːmiːw	she spawns
+O	aːmiː	(fish) is spawning
+
+
+Set Number 0047
+C	aːmoːs	bee
+M	aːmoːhsæh	small bee
+O	aːmoːnq	bee
+
+
+Set Number 0048
+C	aːmoːw	bee
+M	aːmoːw	bee, especially of larger species
+O	aːmoː	bee
+
+
+Set Number 0049
+F	aːhpatahowa	he walks with a cane
+M	aːhpatahow	he walks using a cane
+
+
+Set Number 0050
+M	aːhpatahonan	canes
+
+
+Set Number 0051
+C	aːhči	in a different place; more
+F	aːči	in addition, again
+O	aːnč	over again
+
+
+Set Number 0052
+C	aːhčiːw	he moves
+O	aːnčiː	move/change location
+
+
+Set Number 0053
+C	aːhčiheːw	he alters, changes him
+O	aːnčiq	change
+
+
+Set Number 0054
+F	aːčišinwa	he moves his lying
+O	aːnčiššin	lie down elsewhere
+
+
+Set Number 0055
+C	aːhčihtaːw	he alters, changes it
+O	aːnčittoːn	change something
+
+
+Set Number 0056
+C	aːhčihtin	it catches, fastens
+O	aːnčissin	lie elsewhere
+
+
+Set Number 0057
+C	aːhčinaːkosiw	his appearance is changed
+O	aːnčinaːkosi	appear different, change
+
+
+Set Number 0058
+C	aːhčinaːkoheːw	he changes, disguises him
+O	aːnčinaːkwiq	change someone's appearance
+
+
+Set Number 0059
+C	aːhčinaːkohtaːw	he changes its appearance
+O	aːnčinaːkwittoːn	change the appearance of something
+
+
+Set Number 0060
+C	aːniskeː	successively, one joining to the other
+M	aːnæhkow	in continuation, in adjunction
+O	aːnikkeː	in succession
+
+
+Set Number 0061
+C	aːniskoːhpitam	he ties it (them) end to end
+O	aːnikkoːppitoːn	tie together; tie in a row
+
+
+Set Number 0062
+C	aːniskoːhtaːw	he lengthens it by tying
+O	aːnikkoːttoːn	lengthen something, add to it
+
+
+Set Number 0063
+C	aːhtapiw	he moves as he sits, sits elsewhere
+F	aːtapiwa	he moves his seat
+O	aːntapi	sit elsewhere; change seat
+
+
+Set Number 0066
+C	aːhtaskeːw	he changes his abode, his country
+O	aːntakkiː	go to live in another country
+
+
+Set Number 0067
+O	aːnteːkkw	crow
+
+
+Set Number 0068
+C	aːhtokeːw	he moves camp
+F	aːčikeːwa	he moves his dwelling
+
+
+Set Number 0069
+C	aːnweːhtam	he disbelieves it
+F	aːnweːhtamwa	he disbelieves, refuses it
+
+
+Set Number 0070
+C	aːnweːhtaweːw	he disbelieves him
+F	aːnweːhtaweːwa	he disbelieves, refuses him
+M	aːniːhtawæw	he turns a deaf ear to him
+
+
+Set Number 0071
+C	aːnweːyimeːw	he finds fault, blames him
+F	aːnweːnemeːwa	he thinks him bad
+M	aːniːnemæw	he finds serious fault with him
+O	aːnweːnim	criticize; despise
+
+
+Set Number 0072
+F	aːnweːnetaːkosiwa	he is thought of as a failure
+O	aːnweːntaːkosi	be reproachable; be useless
+
+
+Set Number 0073
+M	aːniːnehtam	he finds serious fault with it
+O	aːnweːntaːn	find fault with something
+
+
+Set Number 0074
+C	aːpačihčikan	tool
+O	aːpačiččikan	tool
+
+
+Set Number 0075
+C	aːpačiheːw	he uses him; he does him service
+O	aːpačiq	use, put to use
+
+
+Set Number 0076
+C	aːpačihtaːw	he uses it
+O	aːpačittoːn	use, put to use
+
+
+Set Number 0077
+C	aːpačihtaːwin	tool
+O	aːpačittoːwin	using something
+
+
+Set Number 0078
+C	aːpaham	he loosens it by tool
+O	aːpaqaːn	untie something
+
+
+Set Number 0079
+C	aːpahweːw	he unharnesses him, unties him by tool
+O	aːpoqw	untie someone
+
+
+Set Number 0080
+C	aːpatan	it is useful
+O	aːpatat	be useful; be used
+
+
+Set Number 0081
+C	aːpatisiw	he is useful
+O	aːpatisi	be useful; be used
+
+
+Set Number 0082
+M	aːpæhtawaskenæːw	he is half full
+O	aːpittoːškineː	half full (of solid)
+
+
+Set Number 0083
+M	aːpæhtawaskenæːw	it is half full
+O	aːpittoːškineː	half full (of solid)
+
+
+Set Number 0084
+M	aːpæhtopiːw	he is half full of liquid
+O	aːpittoːpiː	half full (of liquid)
+
+
+Set Number 0085
+M	aːpæhtopiːw	it is half full (of liquid)
+O	aːpittoːpiː	half full (of liquid)
+
+
+Set Number 0086
+M	aːpæhtawesew	half-breed
+O	aːpittawisi	half breed
+
+
+Set Number 0087
+C	aːpihtaw	half
+F	aːpehtawi	halfway, half
+M	aːpæhtaw	half
+
+
+Set Number 0088
+C	aːpihtawi	half
+C	aːpihtaː	half
+O	aːpittawi	half
+
+
+Set Number 0089
+C	aːpisiːsin	he revives
+M	aːpeseːhsen	he revives, he comes back to life
+O	aːpisiːššin	he revives
+
+
+Set Number 0090
+C	aːpisiːhkwasiw	he recovers from nightmare
+O	aːpisiːnkošši	awake from a deep sleep
+
+
+Set Number 0091
+C	aːpihkonam	he unties, undoes it
+F	aːpiškonamwa	he unties it
+
+
+Set Number 0092
+C	aːpihkoneːw	he unties him
+F	aːpiškoneːwa	he unties him
+
+
+Set Number 0093
+C	aːpihkopiteːw	he pulls him untied
+O	aːpiskopin	untie someone (from somewhere)
+
+
+Set Number 0095
+C	aːpotinam	he turns it inside out
+M	aːpotænam	he turns it inside out
+O	aːpotinaːn	turn someone over, inside out
+
+
+Set Number 0096
+M	aːpiːkenam	he unfolds it as cloth
+O	aːpiːkenank	he unwraps it
+
+
+Set Number 0097
+M	aːpiːkenæw	he unfolds him as cloth
+O	aːpiːkin	unfold someone as cloth
+
+
+Set Number 0098
+C	aːsosin	he leans on it
+O	aːssoššin	lean against something
+
+
+Set Number 0099
+F	aːtawaːšinwa	he lies on his back
+O	aːttawaːššin	be/lie right side up
+
+
+Set Number 0100
+F	aːtawaːsenwi	it lies on its back
+O	aːttawaːssin	be/lie right side up
+
+
+Set Number 0101
+O	aːttawaːssitoːn	turn/place right side up
+
+
+Set Number 0104
+C	aːstawiːw	he (pipe) goes out
+M	aːqtawæw	he has his fire gone out
+O	aːttaweː	his fire goes out
+
+
+Set Number 0106
+M	aːqtæham	he extinguishes it by tool
+O	aːtteːqaːn	put out (e.g. light, fire)
+
+
+Set Number 0107
+C	aːstaweːhikeːw	he extinguishes a fire
+M	aːqtæhekæːw	he puts out the fire, the light
+O	aːtteːqikeː	put out (e.g. light, fire)
+
+
+Set Number 0108
+C	aːsteːsin	he rests
+O	aːtteːššin	sober up
+
+
+Set Number 0109
+C	aːsteːpeːw	he becomes sober
+O	aːtteːpiː	become sober
+
+
+Set Number 0110
+M	aːqtæːskam	he extinguishes it by stepping on it
+O	aːtteːškank	he extinguishes it with his foot
+
+
+Set Number 0111
+M	aːqtæw	it ceases to burn, goes out
+O	aːtteː	be extinguished (e.g. light, fire)
+
+
+Set Number 0112
+C	aːstam	come here
+F	aːsami	upstream
+
+
+Set Number 0113
+C	aːsiyaːn	breech clout
+F	aːsiyaːni	breech clout
+M	aːseyan	breech clout
+O	aːsiyaːn	breech clout; diaper
+
+
+Set Number 0114
+C	aːsowaham	he crosses it by canoe
+M	aːsuaham	he crosses it by a medium
+O	aːšawaqam	cross the water by boat
+
+
+Set Number 0115
+F	aːšoːhowa	he paddles across
+M	aːsuahow	he paddles, swims across
+
+
+Set Number 0116
+C	aːsowahoyeːw	he ferries him across
+M	aːsuahonæw	he paddles him across
+O	aːsawaqon	ferry someone across
+
+
+Set Number 0117
+M	aːsuahotaw	he paddles it across, ferries it over
+O	aːšawaqatoːn	ferry something across
+
+
+Set Number 0118
+M	aːsawakaːm	at the opposite side
+O	aːšawakaːm	on the opposite shore
+
+
+Set Number 0119
+C	aːsaw	at the far side, beyond
+F	aːšoːwi	over, beyond an obstruction or expanse
+M	aːsaw	beyond, across, on the other side
+O	aːšoː	next (of periods of time)
+
+
+Set Number 0120
+C	aːsay	already
+O	aːši	already, now
+
+
+Set Number 0121
+M	aːsepæh	rock, cliff
+O	aːšipikk	rock, cliff
+
+
+Set Number 0122
+C	aːsiteː	turn about, in turn
+F	aːšita	in return, in turn
+M	aːset	in turn, in return
+O	aːšta	from place to place
+
+
+Set Number 0123
+C	aːsiteːmeːw	he contradicts him, talks back
+O	aːšiteːm	gainsay someone, talk back
+
+
+Set Number 0124
+C	aːsiteːyaːhtik	cross of wood
+O	aːšiteːyaːttik	cross of wood
+
+
+Set Number 0126
+C	aːsokanihkeːw	he makes a bridge; he fords
+O	aːšokanikkeː	make a bridge, wharf
+
+
+Set Number 0127
+C	aːsokan	bridge
+M	aːsokan	bridge
+O	aːšikan	bridge, dock
+
+
+Set Number 0128
+M	aːsokæw	he crosses a bridge, ford
+O	aːsokeː	cross a river on a bridge
+
+
+Set Number 0129
+F	aːtesoːhkaːkana	sacred story
+M	aːtæqnoːhkakan	sacred story
+
+
+Set Number 0130
+C	aːtayoːhkaweːw	he tells him a sacred story
+F	aːtesoːhkaweːwa	he tells him a sacred story
+M	aːtæqnuːhkuwæw	he tells him a sacred story
+
+
+Set Number 0131
+F	aːtesoːhkaːsowa	he tells legends of him
+M	aːtæqnoːhkasow	he is the subject of a sacred story
+
+
+Set Number 0132
+C	aːtayoːhkaːteːw	he tells the sacred story of him
+F	aːtesoːhkaːneːwa	he tells legends of him
+
+
+Set Number 0133
+C	aːtayoːhkeːw	he tells a sacred story
+M	aːtæqnoːhkæw	he tells a sacred story
+O	aːtissoːkkeː	tell a story
+
+
+Set Number 0134
+C	aːtayoːhkeːwin	sacred story
+O	aːtissoːkkeːwin	tale telling, recounting legends
+
+
+Set Number 0135
+C	aːtotamaweːw	he tells of it for him
+F	aːtotamaweːwa	he tells it to him
+
+
+Set Number 0136
+C	aːtotam	he tells of it
+F	aːtotamwa	he tells it
+M	aːtotam	he tells of it
+
+
+Set Number 0137
+C	aːtisin	he is blocked
+C	aːčisin	he is blocked
+O	aːtiššin	be marooned, cut off by obstacle
+
+
+Set Number 0138
+C	aːtaweːyimeːw	he disdains, rejects him
+F	aːnaweːnemeːwa	he gives him up
+M	aːnawænemæw	he despairs of him
+O	aːnaweːnim	think someone unfitted
+
+
+Set Number 0139
+C	aːtaweːyihtam	he disallows it, rejects it
+M	aːnawænehtam	he despairs of it
+
+
+Set Number 0140
+F	aːnawiheːwa	he fails to get him
+M	aːnawehæːw	he fails to deal with him, to get him
+O	aːnawiq	try in vain to do something to someone
+
+
+Set Number 0141
+F	aːnawihtoːwa	he fails to get it
+M	aːnaweːhtaw	he fails to deal with it, to get it
+
+
+Set Number 0142
+C	aːtiht	some, several
+F	aːneta	some of them
+M	aːnæh	some, some of them
+O	aːnint	some
+
+
+Set Number 0143
+F	aːnwi	unavailingly, fail to
+O	aːno	have tried in vain
+
+
+Set Number 0144
+C	aːwaheːw	he carries, hauls them
+O	aːwan	drag, haul
+
+
+Set Number 0145
+C	aːwan	it is the same; it is
+O	aːwan	it is
+
+
+Set Number 0146
+C	aːwataːw	he carries, transports it
+O	aːwatoːn	drag, haul
+
+
+Set Number 0147
+M	aːwæːnemæw	he thinks him to be (so and so)
+O	aːweːnim	consider to be
+
+
+Set Number 0148
+M	aːwehæw	he treats him as (so and so)
+O	aːwiq	make someone be this or that
+
+
+Set Number 0149
+C	aːwiːw	he is the same; he is
+M	aːwew	he is (so and so)
+O	aːwi	be
+
+
+Set Number 0150
+C	aːyiːtawiskanaw	at both sides of the road
+M	aːyiːtawiːhkanaw	at both sides of the road
+
+
+Set Number 0151
+C	ačiči	upside down
+O	ačiči	upside down
+
+
+Set Number 0152
+C	ačičisin	he lies face down
+O	ačičiššin	lie face down
+
+
+Set Number 0153
+C	ačičikaːpawiw	he stands on his head
+M	ačeːčekapowew	he stands upside down
+
+
+Set Number 0154
+C	ačiyaw	for a short time
+O	ačina	for a little while
+
+
+Set Number 0155
+C	ačitakočin	he hangs his head downwards
+O	ačitakoːčin	hang upside down
+
+
+Set Number 0157
+C	aseːmaːw	tobacco
+F	aseːmaːwa	tobacco
+O	asseːmaː	tobacco
+
+
+Set Number 0158
+C	asaːkeːw	lobster, crab
+F	ašaːhkiwa	crawfish
+O	eššaːkeːšši	crawfish
+
+
+Set Number 0159
+C	asameːw	he gives him food
+F	ašameːwa	he feeds him
+M	ahsaːmæːw	he feeds him, he gives him food
+O	aššam	feed
+
+
+Set Number 0160
+C	asahkeːw	he feeds people
+O	aššankeː	feed people
+
+
+Set Number 0161
+M	ahsaːhtam	he gives it food, feeds it
+O	aššantaːn	feed something
+
+
+Set Number 0163
+C	ahčaːpiy	bow
+O	aččaːp	bow-string
+
+
+Set Number 0164
+C	ahtay	fur, pelt
+F	asaya	skin
+
+
+Set Number 0165
+C	akaːm	across, at the far side
+F	akaːm	across
+
+
+Set Number 0166
+C	akaːmihk	on the far side
+F	akaːmeːheki	on the farther shore
+O	akaːmink	across the water on other side of lake
+
+
+Set Number 0167
+C	akaːwaːtam	he desires it
+F	akaːwaːtamwa	he longs for it
+M	akaːwaːtam	he longs for it
+
+
+Set Number 0168
+C	akaːwaːteːw	he desires him/her
+F	akaːwaːneːwa	he longs for him
+M	akaːwaːnæːw	he longs for him
+O	ekaːwaːnaːt	he longs for him
+
+
+Set Number 0172
+C	akikoskaːw	there is an epidemic of colds
+O	akikokkaː	have a cold
+
+
+Set Number 0173
+C	akimeːw	he counts him (them)
+M	akeːmæːw	he counts him
+O	akim	count, read
+
+
+Set Number 0174
+M	akeːhčekasow	he is counted
+O	akinčikaːso	he is counted
+
+
+Set Number 0175
+M	akeːhčekatæːw	it is counted
+O	akinčikaːteː	it is counted
+
+
+Set Number 0176
+C	akihtaːsow	he counts
+M	akeːhtaqsow	he counts
+O	akintaːsso	count, read
+
+
+Set Number 0177
+C	akintaːsoːwin	a number, numbering
+O	akintaːssowin	account, reading
+
+
+Set Number 0178
+C	akihtamaweːw	he counts it for him
+O	akintamaw	count, read for or to someone
+
+
+Set Number 0179
+C	akihtam	he counts it
+M	akeːhtam	he counts it (them)
+O	akintaːn	count, read
+
+
+Set Number 0181
+C	akočikan	shelf, cupboard
+F	akoːčikani	hanger
+
+
+Set Number 0182
+C	akočin	he hangs
+F	akoːčinwa	he hangs
+M	akoːčen	he hangs, is suspended
+O	akoːčin	hang
+
+
+Set Number 0183
+C	akohkeːw	he sticks/clings to something
+O	akokkeː	stick
+
+
+Set Number 0184
+C	akohp	blanket
+C	akohpis	wagon-robe
+M	akoːm	black broadcloth
+
+
+Set Number 0185
+C	akoːyeːw	he hangs him up
+M	akoːnæːw	he hangs him up
+O	akoːn	hang
+
+
+Set Number 0186
+C	akosiːw	he is perched up on something
+F	akoːsiːwa	he climbs
+
+
+Set Number 0187
+M	akoːsewæw	he hangs people up
+O	akošiweː	hang people up
+
+
+Set Number 0188
+C	akotaːw	he hangs it up
+C	akoːtaːw	he hangs it up
+F	akoːtoːwa	he hangs it up
+M	akoːtaːw	he hangs it up
+O	akoːtoːn	hang something
+
+
+Set Number 0189
+C	akotaweːw	he hangs it up for him
+M	akuːtuwæw	he hangs it up for him
+O	akoːtaw	hang up something for someone
+
+
+Set Number 0190
+C	akotaskihkwaːn	sticks for hanging kettle
+O	ekoːtekkikkwaːn	hook (or limb) on the kettle hanger
+
+
+Set Number 0191
+C	akoteːw	it hangs
+F	akoːteːwi	it hangs
+M	akoːtæːw	it hangs, is suspended
+O	akoːteː	hang
+
+
+Set Number 0192
+C	akoteːw	he hangs him up
+O	akoːn	hang someone up
+
+
+Set Number 0194
+C	akwaːweːw	he puts meat or fish on drying stage
+O	akwaːweː	hang clothes (to dry)
+
+
+Set Number 0195
+M	akuahkihnæw	it lies or clings fast to a tree
+O	akwaːkkossin	stick, cling
+
+
+Set Number 0196
+C	akopiteːw	he ties a compress on him
+F	akwapineːwa	he bandages him
+M	akuahpenæw	he ties him fast, he harnesses him
+
+
+Set Number 0197
+C	akwanaham	he covers it
+O	ekwaneqank	he covers it
+
+
+Set Number 0198
+C	akwanahweːw	he covers him
+O	akonaqw	cover someone
+
+
+Set Number 0199
+F	akwanakoːteːwi	it only hangs
+M	akuanakotæːw	it projects, sticks out
+
+
+Set Number 0200
+M	akuanæːmæːw	he takes him in his mouth
+O	akwaneːm	put animate object in the mouth
+
+
+Set Number 0201
+M	akuanæːhčekan	chewing tobacco (thing held in mouth)
+O	akwaneːnčikan	chew of tobacco
+
+
+Set Number 0202
+M	akuanæːhtam	he takes or holds it in his mouth
+O	akwaneːntaːn	put something in the mouth
+
+
+Set Number 0203
+M	akuah	woodchuck
+M	akuahkoːhsæh	gopher, small woodchuck
+
+
+Set Number 0204
+C	akwaːham	he takes it out of the water
+M	akuaham	he takes it out of a vessel by tool
+
+
+Set Number 0205
+C	akwaːhweːw	he takes him from water/fire by tool
+F	akwaːhweːwa	he dips him out
+M	akuahæːw	he takes him out of a vessel by tool
+
+
+Set Number 0206
+C	akwaːkohtin	it is rusty, mouldy
+O	akwaːkwissin	it is mouldy, rusty
+
+
+Set Number 0207
+C	akwaːnam	he takes it from water/fire by hand
+M	akuanam	he takes it out of vessel by hand
+
+
+Set Number 0208
+C	akwaːneːw	he takes him from water/fire by hand
+M	akuanæːw	he removes him from vessel by hand
+O	ekwaːwenaːt	he takes him out of the water
+
+
+Set Number 0209
+M	akuapiːham	he takes it out of a liquid by tool
+O	akwaːpiːqaːn	draw something out of a kettle, etc.
+
+
+Set Number 0210
+F	akwaːpyeːneːwa	he lifts him from the water
+M	akuapiːnæːw	he removes him from liquid by hand
+
+
+Set Number 0211
+M	akuahsemæw	he places him outside a vessel or medium
+O	akwaːššim	remove from fire
+
+
+Set Number 0212
+F	akwaːsenwi	it lies beached
+O	akwaːssin	be removed from fire
+
+
+Set Number 0213
+M	akuahnetaw	he places it outside a vessel or medium
+O	akwaːssitoːn	remove something from fire
+
+
+Set Number 0214
+C	akwaːpiteːw	he drags him ashore
+O	akwaːpin	draw someone out of water
+
+
+Set Number 0215
+M	akuaːqtaw	he gets out of the water
+O	akwaːttaː	come out of the water
+
+
+Set Number 0216
+M	akuawæːpenam	he flings it by hand out of a vessel
+O	ekwaːweːpenank	he throws it out of a medium by hand
+
+
+Set Number 0217
+M	akuawæːpenæw	he flings him by hand out of vessel
+O	ekwaːweːpenaːt	he throws him out of a medium by hand
+
+
+Set Number 0218
+M	akuayæːqsew	he is blown to the shore
+O	akwaːyaːšši	he sails to shore
+
+
+Set Number 0219
+M	akuayæːqnen	it is blown to the shore
+O	akwaːyaːssin	it is blown ashore
+
+
+Set Number 0220
+C	akonam	he puts it on/over something
+F	akonamwa	he applies it as a poultice
+
+
+Set Number 0221
+C	akoneːw	he puts him on/over something
+O	akwin	wear, put on something animate
+
+
+Set Number 0222
+F	akwiheːwa	he covers him
+M	akiːhæːw	he clothes him
+O	ekwiqaːt	he clothes him
+
+
+Set Number 0223
+C	akokwaːčikan	something sewn on
+O	akokwaːčikan	piece of material to be sewn on
+
+
+Set Number 0224
+C	akokwaːsoːw	he is sewn on
+O	akokwaːsso	sew one object to another
+
+
+Set Number 0225
+C	akokwaːtam	she sews it on
+O	akokwaːtaːn	sew something on (something else)
+
+
+Set Number 0226
+C	akokwaːteːw	she sews him on
+O	akokwaːn	sew on something animate
+
+
+Set Number 0228
+C	akomow	he floats, sits on the water
+O	akomo	float, soar (as a bird)
+
+
+Set Number 0229
+C	akwanaːn	shawl
+M	akiːnaːn	clothing
+
+
+Set Number 0230
+C	akohčimeːw	he puts him into water
+M	akiːhčemæw	he puts him in water, he soaks him
+O	akwiːnčim	float/soak
+
+
+Set Number 0231
+C	akohčin	he is in water
+M	akiːhčen	he is in water, he is soaking wet
+O	akwiːnčin	float
+
+
+Set Number 0233
+F	akwiteːwi	it lies soaking
+M	akiːhtæw	it is in or on water, soaking, afloat
+O	akwiːnteː	float
+
+
+Set Number 0234
+C	akopison	compress
+O	akopison	plaster on a wound
+
+
+Set Number 0235
+C	akopisoːw	he ties a compress on himself
+O	akopiso	have a plaster on a wound
+
+
+Set Number 0236
+C	akositeːskaweːw	he steps on his foot
+M	akiːsetæːskawæw	he steps on the other's foot
+
+
+Set Number 0237
+F	akwiːwa	he covers himself
+M	akoːw	he puts on a robe or blanket
+
+
+Set Number 0238
+C	akoːwin	blanketing, piece of cloth goods
+O	akwiwin	a garment
+
+
+Set Number 0240
+C	ayamihaːw	he goes to church
+M	anaːmehaːw	he practises the christian religion
+O	anamiqaː	pray
+
+
+Set Number 0241
+C	ayamiheːkaːsoːw	he is a hypocrite, pretends to pray
+O	anamiqeːkkaːso	pretend to pray, pretend to be christian
+
+
+Set Number 0242
+C	ayamiheːstaweːw	he prays to him, worships him
+O	anamiqeːttaw	bless someone
+
+
+Set Number 0243
+C	ayamiheːwaːhtik	a crucifix
+M	anaːmehæːwaːhtek	christian cross
+
+
+Set Number 0244
+C	ayamiheːwin	christian religion
+M	anaːmehæːn	the christian religion, christian service
+O	anamiqeːwin	prayer
+
+
+Set Number 0245
+C	ayamiheːwikamik	church
+M	anaːmehæːwikamek	church building
+O	anamiqeːwikamikw	church
+
+
+Set Number 0246
+C	ayičiːmin	pea
+M	anæːčeːmen	pea
+O	oničiːmin	pea
+
+
+Set Number 0247
+C	ayiːsi	ordinary
+F	aneši	common
+M	anæːhn	unseasoned
+O	anišši	ordinary, unseasoned
+
+
+Set Number 0248
+C	ayiːsiyiniw	human being, indian
+C	ayiːsiːnaw	human being
+F	anešineniːha	common man
+
+
+Set Number 0249
+F	aniweːwi	much
+M	aniːw	farther, beyond, more, too far
+
+
+Set Number 0250
+F	aniweškamwa	he walks much on it
+O	aniwiškaːn	precede, overcome, surpass something
+
+
+Set Number 0251
+C	ayiwiskaweːw	he is taller than someone else
+O	aniwiškaw	precede, surpass someone
+
+
+Set Number 0252
+C	ayiwiheːw	he outdoes him
+O	aniwiq	precede, surpass, beat someone
+
+
+Set Number 0253
+C	ayiwikimeːw	he outgrows him
+O	aniwikim	outgrow someone
+
+
+Set Number 0254
+C	ayiwikihtam	he outgrows it
+O	aniwikintaːn	outgrow something
+
+
+Set Number 0255
+C	ayoːskan	raspberry
+M	anoːhkan	raspberry
+
+
+Set Number 0256
+C	aywaːstin	it is calm, smooth
+O	anwaːttin	it is calm, no wind
+
+
+Set Number 0257
+C	ayweːpiw	he takes a rest
+O	anweːpi	rest
+
+
+Set Number 0258
+M	amaːčehæw	he wakes him
+O	omačiq	wake someone up accidentally
+
+
+Set Number 0260
+M	amaːtenæw	he wakes him by touching him
+O	omatin	wake someone up
+
+
+Set Number 0261
+C	amatisoːw	he is apprehensive of danger
+O	amanisso	be scared/alarmed
+
+
+Set Number 0262
+C	amisk	beaver
+F	amehkwa	beaver
+O	amikkw	beaver
+
+
+Set Number 0263
+C	amiskosip	beaver duck
+O	amikkošip	beaver duck
+
+
+Set Number 0264
+F	amweːwa	he eats him
+M	miːw	he eats him
+O	amw	eat
+
+
+Set Number 0266
+M	anaːhkyanæːhkæw	he makes mats
+O	anaːkkanikeː	make a mat
+
+
+Set Number 0267
+C	anaːskaːn	mat, matting
+F	anaːhkani	mat
+M	anaːhkyan	mat, floor mat
+
+
+Set Number 0268
+C	anaːskeːw	he lays mats
+M	anaːhkow	he lays a mat or mats
+
+
+Set Number 0269
+F	aniːpi	elm
+M	aneːp	rock elm
+O	aniːpy	elm-tree
+
+
+Set Number 0270
+C	niːpiyaːhtik	green willow
+M	aneːpaːhtek	elm tree
+
+
+Set Number 0271
+C	niːpiy	leaf
+C	niːpiːsa	leaves, tea (pl)
+O	aniːpiːšš	leaf
+
+
+Set Number 0272
+C	niːpiːsaːpow	tea
+O	eniːpiːššaːpoː	tea
+
+
+Set Number 0273
+F	aniheːwa	he defeats him
+M	aneːhæːw	he wins from him
+
+
+Set Number 0274
+F	anihetiwaki	they defeat each other
+M	aneːhetowak	they win one from the other
+
+
+Set Number 0275
+F	anihiweːwa	he defeats people
+M	aneːhewæw	he wins from people
+
+
+Set Number 0276
+M	ahsaːhpenæw	he ties him in a bundle or sheaf
+O	ansappin	bind together
+
+
+Set Number 0278
+F	apaːsesowa	he suns himself
+M	apaːqnahsow	he is warmed by the sun
+
+
+Set Number 0279
+M	apaːhkwačekæːw	he thatches
+O	appakkoːčikeː	make a roof
+
+
+Set Number 0280
+C	apahkwaːn	thatch
+M	apaːhkwan	thatch
+O	epakkwaːn	thatch
+
+
+Set Number 0281
+C	apahkwaːtam	he roofs it
+M	apaːhkwatam	he uses it for thatching
+
+
+Set Number 0282
+M	apaːhkwatæw	it is thatched
+O	appakkoːteː	be covered, roofed
+
+
+Set Number 0283
+C	apahkway	tenting
+F	apahkoːhaya	small reed mat
+F	apahkwaya	flag reed
+M	apaːhkiy	reed, bullrush
+O	appakkway	mat, lodge mat
+
+
+Set Number 0284
+C	apahkweːw	he thatches, covers dwelling
+F	apahkweːwa	he thatches
+M	apaːhkow	he thatches with reeds, he thatches
+
+
+Set Number 0285
+C	apasoy	tent-pole
+M	apaːhšiy	tent-pole, wigwam pole
+O	apašy	squared timber, rafter, stud
+
+
+Set Number 0286
+M	apæːsam	he warms it up (as, on a stove)
+O	apisaːn	warm up
+
+
+Set Number 0287
+C	apisoːw	he warms himself
+F	apesoːhiwa	he is warm
+
+
+Set Number 0288
+C	apiːstam	he sits near it
+F	apihtamwa	he sits in relation to it
+M	apeːqtam	he sits near to it, he dwells in it
+O	apiːttaːn	inhabit, dwell in something
+
+
+Set Number 0289
+M	apeːqtawæw	he sits near to him
+O	apiːttaw	dwell in someone
+
+
+Set Number 0290
+F	apiheːwa	he makes him sit
+M	apeːhæːw	he makes him sit
+
+
+Set Number 0291
+C	apihkaːn	braid
+F	apihkaːni	packstrap
+M	apeːhkan	packstrap, harness
+O	epikkan	pack strap, tumpline
+
+
+Set Number 0292
+C	apiw	he sits/is there
+F	apiwa	he sits
+M	apeːw	he is there, he is in place, he sits
+O	api	be in a place, lie dead
+
+
+Set Number 0293
+C	apiwin	seat, settee
+O	apiwin	habitation
+
+
+Set Number 0295
+F	apwaːčikani	roasting-scaffold, spit
+M	apuačekan	roasting frame
+
+
+Set Number 0297
+C	apwaːnaːsk	spit
+O	apwaːnaːkk	spit for roasting
+
+
+Set Number 0298
+C	apwaːn	roasted meat
+M	apuan	roast
+
+
+Set Number 0299
+F	apwaːtamwa	he roasts it
+M	apuatam	he makes a roast of it
+
+
+Set Number 0300
+F	apwaːneːwa	he roasts him
+M	apuanæːw	he makes a roast of him
+
+
+Set Number 0301
+C	apweːsiw	he sweats
+O	apweːso	perspire, sweat
+
+
+Set Number 0302
+C	apweːw	he makes a roast
+M	apoːw	he roasts something
+O	apweːn	roast, cook on coals
+
+
+Set Number 0304
+C	apoy	paddle, shovel
+O	apwy	paddle, propeller
+
+
+Set Number 0305
+M	aqčekaːtæːw	it is had, placed, put in a place
+O	eččikaːteː	it is placed
+
+
+Set Number 0306
+C	asčikeːw	he places things there, he bets
+F	ahčikeːwa	he places things
+M	aqčekæːw	he bets, makes a bet
+O	aččikeː	he places a bet
+
+
+Set Number 0307
+F	asapaːpi	thread, cord, string
+O	assapaːpy	rope
+
+
+Set Number 0308
+C	ayapaːpis	bag-net for game
+O	essapaːpiːns	thread
+
+
+Set Number 0309
+C	ahyapiy	net
+M	aqnap	net
+O	assapy	net
+
+
+Set Number 0310
+M	aqnapehkæw	he makes nets
+O	assapiːkkeː	make nets
+
+
+Set Number 0311
+C	ayeːw	he places, sets him
+F	aseːwa	he places him, he has him
+M	aqnæw	he has him at his disposal, places him
+O	ass	put, place
+
+
+Set Number 0312
+C	asaːweːw	spotfish
+M	iːqsawæw	perch (fish)
+O	assaːweː	perch (a kind of fish)
+
+
+Set Number 0313
+F	asenaːmiši	hard maple
+O	assinaːmišy	maple
+
+
+Set Number 0314
+C	asiniy	stone
+F	aseni	stone
+M	aqsæn	stone
+O	assiny	stone
+
+
+Set Number 0315
+C	asiniːs	stone of peach
+M	aqsaneːhsæh	little stone, pebble
+M	aqsæneːhsæh	little stone, pebble
+O	assiniːns	small stone, pebble
+
+
+Set Number 0316
+C	asiniːwačiy	rock cliff, the rocky mountains
+O	assiniwačiw	rocky mountains
+
+
+Set Number 0317
+C	asiniːwiw	become stone, be petrified
+F	aseniːwiwa	he is stone
+O	assiniːwi	become stone, be petrified
+
+
+Set Number 0318
+C	asiniːskaːw	stones abound, it is rocky
+O	assiniːkkaː	it is stony, full of stones
+
+
+Set Number 0319
+M	iːqsawæːhsen	he lies on his side (redup)
+O	aššaweːššin	be on one's side
+
+
+Set Number 0320
+C	asiči	also, together with
+F	ašiči	nearly, near
+
+
+Set Number 0321
+M	aqsekan	bass (species of fish)
+O	aššikan	bass (probably the black bass)
+
+
+Set Number 0322
+C	asit	together
+F	ašit	near, nearly
+M	aqset	near
+
+
+Set Number 0323
+C	asitinam	he holds, mixes it with something
+M	aqsetænam	he holds it close to something
+
+
+Set Number 0324
+C	asitineːw	he places him with something
+M	aqsetænæw	he holds him close to something
+
+
+Set Number 0325
+M	aqtaːqsow	he makes a deposit, places something in pawn
+O	attaːsso	store something
+
+
+Set Number 0326
+M	aqtaːqswan	cupboard
+O	ataːssowin	cupboard, pantry
+
+
+Set Number 0327
+C	astaːw	he places it there
+F	ahtoːwa	he places it, he has it
+M	aqtaw	he places it; (hen) lays an egg
+
+
+Set Number 0328
+C	astamaweːw	he places things for him, bets with him
+O	attamaw	place something on or for someone
+
+
+Set Number 0329
+C	astaweːw	he places things for him, bets with him
+F	ahtaweːwa	he places, has it for him
+M	aqtawæːw	he gambles, competes with him
+O	ettawaːt	he contends, bets, gambles with him
+
+
+Set Number 0330
+C	astaːtoːwak	they bet, place things for e.o.
+F	ahtaːtiwaki	they place, have it for each other
+M	aqtatowak	they gamble, they compete
+O	ettaːtuwak	they contend, bet, gamble
+
+
+Set Number 0331
+C	astwaːkeːw	he stakes something
+O	attaːkeː	play at a game/gamble
+
+
+Set Number 0332
+C	astaːw	it is there
+F	ahteːwi	it is there
+M	aqtæw	it is in a fixed place, in place, there
+O	atteː	be somewhere
+
+
+Set Number 0333
+C	astis	sinew
+M	aqtæh	sinew
+
+
+Set Number 0334
+C	astiseːwak	lengthwise muscle on back
+M	aqtæːhsiwakon	lengthwise back muscle(s) of animal
+
+
+Set Number 0337
+C	astaːskamik	moss
+M	aqnaːhkamek	moss
+O	assaːkkamik	moss (on the ground)
+
+
+Set Number 0341
+F	asaːkiːwa	sauk
+M	asaːkeːw	sauk
+
+
+Set Number 0342
+M	asaːtiy	poplar
+O	osaːty	poplar
+
+
+Set Number 0344
+C	asiwačikan	container, vessel; jar
+M	aseːwačekan	seeder, sower
+
+
+Set Number 0345
+C	asiwačikeːw	he puts things in
+M	aseːwačekæːw	he sows or plants
+
+
+Set Number 0346
+C	asiwaheːw	he puts him in
+M	aseːwanæw	he sows him
+
+
+Set Number 0347
+C	asiwataːw	he puts it in
+M	aseːwataw	he sows or plants it
+
+
+Set Number 0348
+C	asikan	stocking, sock
+O	ašikan	sock, stocking
+
+
+Set Number 0349
+C	asiskiy	clay
+F	ašiškiwi	mud
+M	ačeːskew	mud
+O	ašaški	mud
+
+
+Set Number 0350
+C	asiskiːwiw	he is muddy
+M	ačeːskewew	he is muddy
+
+
+Set Number 0351
+C	asiskiːwiw	it is covered with clay
+M	ačeːskewew	it is muddy
+
+
+Set Number 0352
+C	askaːhtik	green wood
+M	askaːhtek	green stick, stick of fresh wood
+O	aškaːttik	piece of green wood
+
+
+Set Number 0353
+M	askæːn	it is raw, uncooked
+O	aškin	it is raw
+
+
+Set Number 0354
+C	aski	fresh, green
+F	aški	fresh
+M	askeːh	raw, green
+O	aški	raw, fresh
+
+
+Set Number 0355
+M	askeːhkoman	tin
+O	aškikkomaːn	lead
+
+
+Set Number 0356
+C	askihtin	it is raw, uncooked
+M	askeːhnen	it is fresh, raw
+
+
+Set Number 0357
+F	aškikiwa	he is young, fresh, new
+O	oškiki	be a new growth (trees)
+
+
+Set Number 0358
+F	aškipak	green
+M	askeːpak	green
+
+
+Set Number 0359
+C	askipoːw	he eats raw
+M	askeːpow	he eats raw things
+
+
+Set Number 0360
+C	askipwaːw	wild potato
+F	aškipweːha	sweet potato
+M	askiːpuaw	sweetroot
+
+
+Set Number 0361
+C	askoːw	follow, after
+O	aškwaː	after, through
+
+
+Set Number 0362
+C	askoːč	after, next
+O	aškwaːč	the last time
+
+
+Set Number 0363
+F	aški	at first
+O	aški	first, beginning
+
+
+Set Number 0364
+C	askaːw	it is raw
+M	askiːw	it is raw
+
+
+Set Number 0365
+C	askeːkin	raw leather, undressed hide
+O	aškiːkin	rawhide
+
+
+Set Number 0366
+C	aseːham	he pushes it back, back-waters
+M	asiːham	he pushes it back by tool
+
+
+Set Number 0367
+M	esæːhkawæw	he goes back toward him
+O	ašeːkkaw	push someone back
+
+
+Set Number 0368
+C	aseːhtahaːhteːw	he tracks/trails him back
+M	asiːhtahaːhnæw	he follows the trail of him back
+
+
+Set Number 0369
+C	aseːkaːpawiw	he stands back
+M	asiːkaːpowew	he stands back
+O	ašeːkaːpawi	step back
+
+
+Set Number 0370
+C	aseːnamaweːw	he forgives him
+O	ašeːnamaw	return something to someone
+
+
+Set Number 0371
+C	aseːnam	he returns it
+M	asiːnam	he pushes it back by hand
+O	ašeːnaːn	return something
+
+
+Set Number 0372
+C	aseːneːw	he rejects him, puts him back
+M	asiːnæːw	he pushes him back by hand
+O	ašeːn	return someone, send them back
+
+
+Set Number 0373
+C	aseːpahtaːw	he runs back
+M	asiːpahtaw	he runs back or backwards
+O	ašeːpattoː	run backwards
+
+
+Set Number 0374
+C	aseːpoyeːw	he paddles backwards, rows
+O	ašeːpoyeː	row in a canoe or boat
+
+
+Set Number 0375
+C	aseːhaːw	he flies back
+O	ašeːsseː	slide back
+
+
+Set Number 0376
+M	asiːqtaw	he moves backwards, he backs out
+O	ašeːttaː	move backwards, draw back
+
+
+Set Number 0377
+C	aseːskaweːw	he forces him back by advancing
+O	ašeːškaw	push someone back
+
+
+Set Number 0378
+C	aseːweːpinam	he throws it backwards
+M	asiːwæːpenam	he flings it back from his hand
+
+
+Set Number 0379
+C	aseːweːpineːw	he flings him back
+M	asiːwæːpenæw	he flings him back from his hand
+
+
+Set Number 0380
+C	aseːhteːw	he walks back
+M	asiahnæw	he walks back, backwards
+
+
+Set Number 0381
+O	ašeːyaːšši	be driven back by the wind
+
+
+Set Number 0382
+O	ašeːyaːssin	be driven back by wind
+
+
+Set Number 0383
+C	ataːwaːkan	fur
+O	ataːwaːkan	object of exchange; fur or skins
+
+
+Set Number 0384
+M	ataːwaːw	ottawa
+O	otaːwaː	odawa (a member of the odawa band)
+
+
+Set Number 0385
+M	ataːwamæw	he borrows from him
+O	ataːwam	borrow from someone
+
+
+Set Number 0386
+C	ataweːw	he trades, buys
+F	ataːweːwa	he sells
+M	ataːwæːw	he borrows, gets credit
+O	ataːweː	trade, sell
+
+
+Set Number 0387
+C	ataːweːwikamik	store, trading house
+M	ataːwæːwikamek	store, shop
+O	ataːweːwikamikw	store
+
+
+Set Number 0388
+M	ataːwæːwenæniw	storekeeper
+O	etaːweːwenini	trader, storekeeper
+
+
+Set Number 0389
+C	atihkameːk	whitefish
+O	atikkomeːkw	whitefish
+
+
+Set Number 0390
+C	atihk	caribou, goat
+M	atæːh	caribou
+
+
+Set Number 0391
+M	atæːhsam	he dyes, colors it
+O	etissank	he dyes it, paints it
+
+
+Set Number 0392
+C	atisoːw	he is ripe, tanned, dyed
+M	atæːhsow	he is dyed, colored
+
+
+Set Number 0393
+C	atisweːw	he dyes him
+M	atæːhsiw	he dyes him
+
+
+Set Number 0394
+C	atihteːw	it is ripe, colored
+M	atæːhtæw	it is dyed, colored
+O	atitteː	it is dyed
+
+
+Set Number 0395
+C	atimeːw	he overtakes him
+M	atæːmæːw	he overtakes him
+O	atim	catch up, overtake someone
+
+
+Set Number 0396
+M	atæːhtam	he overtakes it
+O	atintaːn	overtake something
+
+
+Set Number 0398
+C	atoːspoːw	he eats something along with meat
+F	atoːhpowa	he eats on things
+M	atoːhpow	he eats from on top of something
+
+
+Set Number 0400
+C	ataːmaskamik	under the earth
+F	naːmahkamiki	underground
+O	naːmakkamik	under the ground
+
+
+Set Number 0401
+C	itaːmaːskiːhk	under the ground
+M	anaːmahkyah	underneath, underground
+O	anaːmakkink	under ground
+
+
+Set Number 0403
+C	ataːmeːyimeːw	he suspects, blames him
+O	anaːmeːnim	suspect, accuse someone
+
+
+Set Number 0404
+C	ataːmeːyihtam	he suspects, blames it
+O	ataːmeːntaːn	suspect, blame something
+
+
+Set Number 0405
+C	ataːmihtak	under the boards
+O	anaːmissak	under the boards, under the floor
+
+
+Set Number 0406
+C	ataːmihk	under, below, inside
+F	naːmeki	on the inside
+O	anaːmink	under, beneath
+
+
+Set Number 0407
+C	ataːmipeːk	under the water
+M	anaːmepik	under the water
+
+
+Set Number 0408
+F	naːmepyeːki	under the water
+O	anaːmipiːnk	in, under the water
+
+
+Set Number 0409
+C	itaːmi	underneath, inside
+O	anaːmi	under, beneath
+
+
+Set Number 0410
+M	anaːmiːhtem	under the deep water
+O	anaːmiːntim	in the water, in the depth
+
+
+Set Number 0411
+C	ataːmimeːw	he accuses him, blames him
+O	anaːmim	blame someone
+
+
+Set Number 0412
+C	ataːmotak	under the canoe
+M	anaːmonak	under the canoe
+
+
+Set Number 0413
+C	ataːhk	star
+F	anaːkwa	star
+M	anaːh	star
+O	anankw	star
+
+
+Set Number 0414
+C	ačaːhkos	star (dim)
+F	anaːkoːha	star (dim)
+M	anaːhkoːhsæh	little star
+O	anaːnkoːns	little star
+
+
+Set Number 0415
+C	atamiskaweːw	he greets him, bids him farewell
+F	anemehkaweːwa	he greets him
+M	anaːmæhkawæːw	he greets him, bids him goodbye
+O	animikkaw	greet, salute
+
+
+Set Number 0416
+C	atohoːw	he chokes on a bone
+O	anawo	choke (on a bone)
+
+
+Set Number 0417
+C	atimapiw	he sits facing yon way
+F	anemapiwa	he sits yon way
+M	anæːmapew	he is placed face down, sits facing away
+
+
+Set Number 0418
+C	atimi	going yon way
+F	anemi	along, yon way
+M	enem	on the way
+
+
+Set Number 0419
+C	atimisin	he lies facing yon way
+M	anæːmehsen	he lies face down
+
+
+Set Number 0420
+F	anemisenwi	it lies yon way
+M	anæːmehnæn	it lies facing away or face down
+
+
+Set Number 0421
+C	atimipahtaːw	he runs yon way
+M	anæːmepaːhtaw	he runs off yon way
+O	inimipattoː	run off
+
+
+Set Number 0422
+M	anæːmepesow	he speeds off yon way
+O	inimipiso	go, travel (away from observer)
+
+
+Set Number 0423
+M	anæːmepetæːw	it speeds or moves off yon way
+O	inimipiteː	go, travel (away from observer)
+
+
+Set Number 0425
+C	atim	dog; horse
+M	anæːm	dog (archaic vocative)
+O	animw	dog
+
+
+Set Number 0426
+F	anemweːweːšinwa	his steps go sounding off
+O	animweːweːššin	be heard going away
+
+
+Set Number 0427
+F	anemweːweːsenwi	it goes off with noise
+M	anæːmiːwæːhnen	it goes off sounding yon way
+
+
+Set Number 0428
+C	atimweːwitam	he noises it going yon way
+O	animweːwitam	go away talking
+
+
+Set Number 0429
+C	ačimosis	puppy
+F	anemoːha	dog (dim)
+F	anemoːheːha	dog (dim)
+M	anæːmoːhseːhsæh	little puppy, tiny little dog
+M	anæːmoːhsæh	puppy, little dog
+O	animošš	dog
+
+
+Set Number 0430
+M	anæːmikamek	dog kennel
+O	animokamikw	doghouse, kennel
+
+
+Set Number 0431
+C	atimohteːw	he walks your way
+M	anæːmohnæw	he walks off yon way
+O	enimusseː	he walks yon way
+
+
+Set Number 0433
+C	askamaweːw	he lies in wait watching for him
+F	ahkamaweːwa	he lies in wait for him
+O	akkamaw	lie in wait (ambush) for someone
+
+
+Set Number 0434
+F	ahkawaːpameːwa	he watches over him
+O	akkawaːpam	be on watch, look out for someone
+
+
+Set Number 0435
+F	ahkawaːpatamwa	he watches over it
+O	akkawaːpantaːn	be on watch for something
+
+
+Set Number 0436
+F	ahkawaːpiwa	he watches
+O	akkawaːpi	stand guard
+
+
+Set Number 0439
+C	atoskaːtam	he works at it
+O	anokkaːtaːn	serve, take care of something
+
+
+Set Number 0440
+C	atoskaːteːw	he works at him
+F	anohkaːneːwa	he sets him to work, gives him a job
+O	anokkaːn	make use of someone
+
+
+Set Number 0441
+C	atoskaheːw	he puts him to work
+M	anohkiːhæːw	he makes him work, sets him working
+O	anokkiːq	make, get to work
+
+
+Set Number 0442
+M	anohkiːhtaw	he makes it work, sets it working
+O	anokkiːttoːn	cause, get something to work
+
+
+Set Number 0443
+C	atoskeːmakan	it works
+M	anohkiːmakat	it works, does work
+O	anokkiːmakat	it works, does work
+
+
+Set Number 0444
+M	anohkiːqtamowæːw	he works at it for him
+O	anokkiːttamaw	make, get something to work for someone
+
+
+Set Number 0445
+M	anohkiːqtam	he works at it
+O	anokkiːttaːn	serve, take care of something
+
+
+Set Number 0446
+C	atoskeːstaweːw	he works in his place
+M	anohkiːqtawæw	he works at him, he works for him
+O	anokkiːttaw	work for someone
+
+
+Set Number 0447
+M	anohkiːqtasow	he does his work
+O	anokkiːttaːso	work for self
+
+
+Set Number 0448
+C	atoskeːw	he works
+F	anohkyeːwa	he works
+M	anohkiːw	he works
+O	anokkiː	work
+
+
+Set Number 0449
+C	atoskeːwin	work
+M	anohkiːwen	work
+O	enokkiːwin	work
+
+
+Set Number 0451
+C	atos	arrow snake (dim)
+M	anuah	pine snake
+
+
+Set Number 0452
+C	ačosis	arrow
+M	anoːhsan	buckshot
+M	anoːhseːhsan	fine shot (dim pl)
+
+
+Set Number 0453
+C	atow	arrow
+M	aniːh	bullet, missile
+O	anwy	bullet
+
+
+Set Number 0454
+M	aniːhtiy	spear, fish spear
+O	anitty	spear
+
+
+Set Number 0455
+M	anoːsewæw	he directs, orders, employs people
+O	anoːšiweː	hire people
+
+
+Set Number 0456
+C	atoteːw	he commands/employs him
+M	anoːnæːw	he orders him, employs him
+O	anoːn	hire someone, ask (a favour)
+
+
+Set Number 0457
+C	awaːsis	child
+O	awaːsišš	child
+
+
+Set Number 0458
+C	awačinikaːteːw	he carries him off on his shoulders
+M	awaːčenekaːnæːw	he carries him off on his shoulder
+
+
+Set Number 0459
+M	awaːnepiːqnen	there is a misty rain
+O	awanipiːssaː	drizzle during a mist
+
+
+Set Number 0460
+M	awaːn	fog
+O	awan	fog
+
+
+Set Number 0461
+C	awan	it is foggy
+M	awaːn	there is a fog
+O	awan	be misty/foggy
+
+
+Set Number 0462
+C	awasoːw	he warms himself
+F	awasowa	he warms himself
+M	awaːsow	he warms himself (by the fire)
+O	awaso	warm oneself
+
+
+Set Number 0463
+F	awataːpowaneːwa	he fetches food for him
+M	awaːtaːpowanæːw	he takes a gift of food to him
+
+
+Set Number 0464
+C	awataːw	he carries it off
+F	awatoːwa	he carries it away with him
+M	awaːtaːw	he takes it away with him
+O	awatoːn	carry, convey something
+
+
+Set Number 0465
+F	awataweːwa	he carries it away for him
+M	awaːtuwæw	he takes it off to him
+
+
+Set Number 0466
+C	awateːw	he carries him off
+F	awaneːwa	he carries him away with him
+M	awaːnæːw	he takes him away with him
+O	awan	carry off
+
+
+Set Number 0467
+M	awæːhseh	bear
+O	aweːssiːnq	animal
+
+
+Set Number 0468
+C	aweːna	who
+F	weːneːha	who
+O	aweːneːn	who
+
+
+Set Number 0470
+F	aweːwa	he uses him
+M	awæːw	he uses him
+O	aw	use someone
+
+
+Set Number 0471
+C	awiheːw	he lends to him
+F	awiheːwa	he lends something to him
+M	aweːhæːw	he lends him something
+O	awiq	lend to someone
+
+
+Set Number 0472
+C	awihiweːw	he lends to people
+F	awihiweːwa	he lends to people
+M	aweːhewæw	he lends to people
+O	awiqiweːn	lend something
+
+
+Set Number 0473
+C	awihiweːwin	lending
+O	awiqiweːwin	lending
+
+
+Set Number 0474
+F	oːtamwa	he treats it, uses it
+M	oːtam	he uses something on it
+
+
+Set Number 0477
+C	askihk	kettle
+F	ahkohkwa	kettle, drum
+M	ahkæːh	kettle, pot, pail
+O	akkikkw	kettle
+
+
+Set Number 0478
+C	askihkohkeːw	he makes a kettle
+M	ahkæːhkohkæw	he makes kettles
+
+
+Set Number 0479
+C	askihkos	small kettle
+F	ahkohkoːha	kettle (dim)
+M	ahkæːhkoːhsæh	small kettle or pail, can, tin
+
+
+Set Number 0480
+M	ahkæːhkopenaːkan	basket
+O	ekkokkupinaːkan	basket
+
+
+Set Number 0481
+F	ahkasamwa	he burns it up
+M	ehkæːsam	he boils it down to dryness
+
+
+Set Number 0482
+F	ahkasweːwa	he burns him up
+M	ehkæːsiːw	he boils him down to dryness
+
+
+Set Number 0483
+F	ahkwaːčimowa	he narrates so far
+M	ahkuačemow	he narrates so far
+
+
+Set Number 0484
+M	ehkuahtawakan	ladder
+O	akkwaːntawaːkan	ladder
+
+
+Set Number 0485
+M	ehkuahtawæpahtaw	he runs up climbing
+O	akkwaːntaweːpattoː	run upstairs
+
+
+Set Number 0486
+C	iskwaːhtaweːw	he climbs up
+M	ehkuahtawæw	he climbs up
+O	akkwaːntaweː	ascend, climb up
+
+
+Set Number 0487
+M	ahkuapiːkat	it is so long a string
+O	akkwaːpiːkat	it is so long a string
+
+
+Set Number 0488
+M	ahkuapiːkesew	he is so long a string
+O	akkwaːpiːkisi	be a certain length (stringlike)
+
+
+Set Number 0489
+C	iskwaːw	it is so long
+F	ahkwaːwi	it is so long
+M	ahkiːw	it is so long
+O	akkwaː	be so high/long tall
+
+
+Set Number 0490
+M	ahkuahkwat	it is so long a solid, it is so long a stick
+O	akkwaːkkot	be a certain length (of something wooden)
+
+
+Set Number 0491
+C	iskwaːskosiw	he is so long a stick
+M	ahkuahkosew	he is so long a solid
+O	akkwaːkkosi	be of a certain length, of something wooden
+
+
+Set Number 0492
+F	ahkwanahkatwi	it has the top so far
+M	ahkuanahkwat	the tree tops go so far
+
+
+Set Number 0493
+C	askoːweːw	he follows behind him
+M	ahkoːwæːw	he comes next after him
+
+
+Set Number 0494
+C	askoːtoːwak	they follow one upon another
+M	ahkoːtowak	they go in line
+
+
+Set Number 0495
+F	ahkomiːwa	he is so far in the water
+O	akkomo	be a certain distance in the water
+
+
+Set Number 0496
+C	iskipeːw	it is flooded
+F	ahkopyeːwi	it is flooded so far
+M	ahkuːpiːw	at water's edge (ch conj only)
+
+
+Set Number 0497
+C	iskosiw	he is so long
+M	ahkoːsew	he is so tall, so long
+O	akkoːsi	be so tall, long, high
+
+
+Set Number 0498
+C	isko	to this point, so far, up to
+F	ahkwi	so far
+O	akko	so far; so long
+
+
+Set Number 0499
+F	ahkwiːtemyaːwi	it flows so deep
+M	ahkiːhtemiw	the water is so deep
+
+
+Set Number 0500
+F	ahkwiːwa	he is so long, goes so far
+M	ahkoːw	he is so long
+
+
+Set Number 0501
+F	ahkwišinwa	he goes so far
+M	ahkiːhsen	it extends so far
+
+
+Set Number 0502
+F	ahkwisenwi	it goes so far
+M	ahkiːhnen	it extends so far
+
+
+Set Number 0503
+F	ahkiːki	on earth
+O	akkink	on earth
+
+
+Set Number 0504
+C	askiy	land, country
+F	ahkiː	land
+M	ahkeːw	land, earth; summer, year (archaic)
+O	akky	land
+
+
+Set Number 0505
+C	askiːwan	it is earth, summer, year
+O	akkiːwan	it is, there is earth
+
+
+Set Number 0506
+M	ahkiːwikamek	cellar
+O	akkiːwikamikw	roothouse
+
+
+Set Number 0507
+C	askiːwiw	it is earth, summer, year
+F	ahkiːwiwi	it is land
+M	ahkeːwew	it is land, earth; there is an earth
+
+
+Set Number 0508
+C	aspaːpoːweːw	he uses seasoning
+M	ahpaːpowæw	he uses seasoning
+
+
+Set Number 0509
+M	ahpaːkesow	he throws himself onto something
+O	appakiso	throw oneself
+
+
+Set Number 0510
+F	ahpapiwa	he sits on something
+O	appapi	sit on
+
+
+Set Number 0511
+C	aspapiwin	saddle
+F	ahpapiːni	chair, seat
+O	appapiwin	chair
+
+
+Set Number 0512
+C	aspeːyimoːw	he trusts, places confidence
+F	ahpeːnemowa	he places trust in something
+M	ahpæːnemow	he has hope, places reliance
+O	appeːnimoːn	rely on something
+
+
+Set Number 0513
+C	aspeːyimoːwin	hope, trust, reliance
+O	appeːnimoːwin	hope, trust, reliance
+
+
+Set Number 0514
+C	aspin	away, ago, gone
+F	ahpeneːwe	always
+M	ahpæːn	always, all the time
+O	eppaneː	always
+
+
+Set Number 0515
+C	aspiskweːsimon	pillow
+F	ahpehkweːšimoːni	pillow
+O	appikkweːššimon	pillow
+
+
+Set Number 0516
+C	aspiskweːsimoːw	he lies with his head on something
+O	appikkweːššimoːn	lay one's head on something
+
+
+Set Number 0517
+C	ispiːhči	meanwhile, beforehand, so far
+M	ahpeč	so far, so long, to such a degree
+M	ahpeːč	so far, so long, to such a degree
+
+
+Set Number 0518
+F	ahpiːhči	to such extent
+O	appiːčči	in the process of
+
+
+Set Number 0519
+F	ahpiːhčikenwi	it is so effective, old, powerful
+M	ahpeːhčekæn	it grows or has grown so far
+
+
+Set Number 0520
+F	ahpiːhčikiwa	he is so effective, old, powerful
+O	appiːččiki	be in the process of
+
+
+Set Number 0521
+M	ahpeːhčeqtaw	he moves so fast
+O	appiːččittaː	be fully occupied with something
+
+
+Set Number 0522
+F	ahpiːhčiːhkaweːwa	he is so long busy with him
+M	ahpiːhčiahkawæw	he deals with him to that point
+
+
+Set Number 0523
+C	ispiːhčaːw	it is so big, so large, long
+O	appiːččaː	be of such a distance
+
+
+Set Number 0524
+M	ahpeːhsæhkaw	it goes, moves so soon, so fast
+O	appiːssikkaː	it is coming on
+
+
+Set Number 0525
+C	ispisiskaːw	he goes so fast
+M	ahpeːhsæhkaw	he moves so soon,so fast
+O	appissikkaː	walk as fast as possible
+
+
+Set Number 0526
+C	ispiːhtan	it is so far in the year
+M	ahpeːhtat	it is so intense, powerful, costly
+
+
+Set Number 0527
+C	ispiːhteːyimeːw	he regards him so
+F	ahpiːhteːnemeːwa	he thinks so much of him
+M	ahpeːhtenemæːw	he thinks so highly of him
+O	appiːtteːnim	esteem, respect someone
+
+
+Set Number 0528
+C	ispiːhteːyihtaːkwan	it is so regarded
+F	ahpiːhteːnetaːkwatwi	it is thought so much of
+O	appiːhteːntaːkwat	it is worth
+
+
+Set Number 0529
+C	ispiːhteːyihtaːkosiw	he is so regarded
+O	appiːtteːntaːkosi	be worthy, be valued
+
+
+Set Number 0530
+C	ispiːhteːyihtam	he regards it so
+F	ahpiːhteːnetamwa	he thinks so much of it
+M	ahpeːhteneːhtam	he thinks so highly of it
+O	appiːtteːntaːn	esteem, value something
+
+
+Set Number 0531
+M	ahpeːhtæːntwah	he stays away so long
+O	appiːtteːnti	be away a certain length of time
+
+
+Set Number 0532
+C	ispiːhtinikwan	it is so heavy
+M	ahpeːhtenækwat	it is so heavy, so costly
+O	appiːttinikwat	it weighs so much
+
+
+Set Number 0533
+M	ahpeːhtenækosew	he is so heavy, so costly
+O	appiːttanikosi	be of a certain weight
+
+
+Set Number 0534
+C	ispiːhtisiw	he is so old
+F	ahpiːhtesiwa	he takes so long, he is so old
+M	ahpeːhtesow	he is so powerful, so costly, so old
+O	appiːttisi	be of such an age
+
+
+Set Number 0535
+F	ahpiːhtesiweni	age
+M	ahpeːhtesewen	power
+
+
+Set Number 0536
+F	ahpiːhteteːwi	it is cooked so far
+O	appiːttiteː	be in process of being cooked
+
+
+Set Number 0537
+F	ahpiːhtoseːwa	he walks so long
+M	ahpeːhtohnæw	he walks so far, so fast
+
+
+Set Number 0538
+C	aspisimoːw	he uses it for pillow or bed
+O	appiššimon	lie on
+
+
+Set Number 0539
+C	aspisimoːwin	a pillow, a bed
+O	appiššimowin	mattress
+
+
+Set Number 0540
+C	ispiy	when
+O	appiː	when
+
+
+Set Number 0542
+C	aya	someone
+M	ayaːh	sort, kind, specimen
+
+
+Set Number 0543
+C	ayaːkwaːmisiw	he is careful
+M	ayaːkuamesow	he is on his guard
+
+
+Set Number 0544
+C	ayaːkwaːmimeːw	he warns cautions him
+M	ayaːkuamemæw	he warns him
+
+
+Set Number 0546
+C	iyaːpeːw	male
+M	ayaːpæːw	male, stag, buck
+O	ayaːpeː	male
+
+
+Set Number 0547
+C	ayaːpihtawakaːm	halfway across
+M	ayaːpæhtawakam	halfway across a space
+
+
+Set Number 0548
+F	ayaːpehtawi	halfway, half
+M	ayaːpæhtaw	half and half, halfway
+O	ayaːpittaː	half each
+
+
+Set Number 0550
+C	ayaːw	he is there, he is
+O	ayaː	be in a certain place
+
+
+Set Number 0551
+C	ayaːw	he has it
+F	ayoːwa	he uses it
+O	ayoːn	make use of something
+
+
+Set Number 0552
+C	ayaːweːw	he has him
+O	ayaːw	have
+
+
+Set Number 0553
+C	ayaːwin	place of residence, state of being
+O	ayaːwin	existence
+
+
+Set Number 0554
+F	ayoːtiwaki	they use something on each other
+M	iːyotowak	they copulate with each other (red)
+
+
+Set Number 0555
+C	ayeːskwapiw	he is stiff from sitting
+F	ayiːhkwapiwa	he is tired of sitting
+
+
+Set Number 0556
+C	ayeːskosiw	he is tired
+O	ayeːkkosi	be tired
+
+
+Set Number 0557
+C	ayeːskosiwin	weariness, fatigue
+O	ayeːkkosiwin	tiredness, fatigue
+
+
+Set Number 0558
+C	ayeːskoheːw	he tires him
+F	ayiːhkwiheːwa	he tires him
+O	ayeːkkoq	tire, cause to be tired
+
+
+Set Number 0559
+C	ayi	such and such a thing
+M	iːh	such a thing
+O	ayi	thing, object
+
+
+Set Number 0563
+F	ayoːweni	tool
+M	ayoːwen	tool
+O	ayoːwin	any object used or employed
+
+

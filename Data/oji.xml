@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon lang="oji" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lexicon.xsd">
+<entry><form>aːčikkinikan</form><pos>n</pos><sense><def><en>room, enclosure</en></def></sense></entry>
+<entry><form>aːčim</form><pos>v</pos><sense><def><en>tell of someone</en></def></sense></entry>
+<entry><form>aːkam</form><pos>n</pos><sense><def><en>snowshoe</en></def></sense></entry>
+<entry><form>aːkamosseː</form><pos>v</pos><sense><def><en>walk in snowshoes</en></def></sense></entry>
+<entry><form>aːkawaːpiːkipič</form><pos>v</pos><sense><def><en>closeikee shut shelter against elements</en></def></sense></entry>
+<entry><form>aːkawaːpiːkipit</form><pos>v</pos><sense><def><en>closeoon shut shelter against elements</en></def></sense></entry>
+<entry><form>aːkawaːtteːqon</form><pos>n</pos><sense><def><en>parasol, umbrella</en></def></sense></entry>
+<entry><form>aːkawaːtteːškaw</form><pos>v</pos><sense><def><en>cover someone with one's shadow</en></def></sense></entry>
+<entry><form>aːkawaːtteːššimoːn</form><pos>v</pos><sense><def><en>be in the shadow</en></def></sense></entry>
+<entry><form>aːkawaːtteːššin</form><pos>v</pos><sense><def><en>make shadow with one's body</en></def></sense></entry>
+<entry><form>aːkawaːtteːssin</form><pos>v</pos><sense><def><en>cast a shadow</en></def></sense></entry>
+<entry><form>aːkkaː</form><pos>NIL</pos><sense><def><en>what a hell of a place]</en></def></sense></entry>
+<entry><form>aːkkawaːčipiso</form><pos>v</pos><sense><def><en>move dangerously</en></def></sense></entry>
+<entry><form>aːkkawaːtat</form><pos>v</pos><sense><def><en>appear menacing</en></def></sense></entry>
+<entry><form>aːkkawaːteːntaː</form><pos>v</pos><sense><def><en>menacekosi be fierce, look threatening</en></def></sense></entry>
+<entry><form>aːkkawaːtisi</form><pos>v</pos><sense><def><en>appear menacing</en></def></sense></entry>
+<entry><form>aːkkičininčiːn</form><pos>v</pos><sense><def><en>force someone's clenched fingers apart</en></def></sense></entry>
+<entry><form>aːkkitinaːn</form><pos>v</pos><sense><def><en>force something away from something else</en></def></sense></entry>
+<entry><form>aːkkoškateː</form><pos>v</pos><sense><def><en>have a stomach-sick-ache</en></def></sense></entry>
+<entry><form>aːkkoškateːkkaːso</form><pos>v</pos><sense><def><en>pretend to have stomach ache</en></def></sense></entry>
+<entry><form>aːkkoškateːškaw</form><pos>v</pos><sense><def><en>cause someone to have a stomach-sick-ache</en></def></sense></entry>
+<entry><form>aːkkosi</form><pos>v</pos><sense><def><en>be sick</en></def></sense></entry>
+<entry><form>aːkkosiːkkaːso</form><pos>v</pos><sense><def><en>pretend to be sick</en></def></sense></entry>
+<entry><form>aːkkosiːškaw</form><pos>v</pos><sense><def><en>make someone sick</en></def></sense></entry>
+<entry><form>aːkkosiːwikamikw</form><pos>n</pos><sense><def><en>hospital (lit. sick house)</en></def></sense></entry>
+<entry><form>aːkkosiːwinaːkosi</form><pos>v</pos><sense><def><en>appear to be sick, look sick</en></def></sense></entry>
+<entry><form>aːkkosin</form><pos>v</pos><sense><def><en>have pain in some part of body</en></def></sense></entry>
+<entry><form>aːkkosiwin</form><pos>n</pos><sense><def><en>sickness</en></def></sense></entry>
+<entry><form>aːkoːqaːn</form><pos>v</pos><sense><def><en>close off something from view</en></def></sense></entry>
+<entry><form>aːkoːqan</form><pos>v</pos><sense><def><en>cover one's nakedness with something</en></def></sense></entry>
+<entry><form>aːkoːqw</form><pos>v</pos><sense><def><en>close off someone from view</en></def></sense></entry>
+<entry><form>aːkokkweːn</form><pos>v</pos><sense><def><en>hug someone, put arm around neck</en></def></sense></entry>
+<entry><form>aːkokkweːppin</form><pos>v</pos><sense><def><en>tie someone by the neck</en></def></sense></entry>
+<entry><form>aːkonweːttaw</form><pos>v</pos><sense><def><en>disagree with someone</en></def></sense></entry>
+<entry><form>aːkukweːnaːt</form><pos>v</pos><sense><def><en>he hugs him</en></def></sense></entry>
+<entry><form>aːkuwiːtta</form><pos>NIL</pos><sense><def><en>additional, extra</en></def></sense></entry>
+<entry><form>aːkwaːyaːssin</form><pos>v</pos><sense><def><en>it comes, is blown ashore</en></def></sense></entry>
+<entry><form>aːmačiweː</form><pos>v</pos><sense><def><en>go up a mountain</en></def></sense></entry>
+<entry><form>aːmačiweːpattoː</form><pos>v</pos><sense><def><en>run up a mountain</en></def></sense></entry>
+<entry><form>aːmiː</form><pos>v</pos><sense><def><en>(fish) is spawning</en></def></sense></entry>
+<entry><form>aːmoː</form><pos>n</pos><sense><def><en>bee</en></def></sense></entry>
+<entry><form>aːmoːnq</form><pos>n</pos><sense><def><en>bee</en></def></sense></entry>
+<entry><form>aːnakiː</form><pos>NIL</pos><sense><def><en>although in spite of (+ conjunct)</en></def></sense></entry>
+<entry><form>aːnakkonaː</form><pos>n</pos><sense><def><en>sea-bread, biscuit</en></def></sense></entry>
+<entry><form>aːnakkotw</form><pos>n</pos><sense><def><en>cloud</en></def></sense></entry>
+<entry><form>aːnakkwat</form><pos>v</pos><sense><def><en>it is cloudy</en></def></sense></entry>
+<entry><form>aːnaweːnim</form><pos>v</pos><sense><def><en>think someone unfitted</en></def></sense></entry>
+<entry><form>aːnaweːwisi</form><pos>v</pos><sense><def><en>be unable to mamage, try in vain</en></def></sense></entry>
+<entry><form>aːnawi</form><pos>NIL</pos><sense><def><en>although, indeed</en></def></sense></entry>
+<entry><form>aːnawiq</form><pos>v</pos><sense><def><en>try in vain to do something to someone</en></def></sense></entry>
+<entry><form>aːnawittoː</form><pos>v</pos><sense><def><en>be unable to walk (through exhausti</en></def></sense></entry>
+<entry><form>aːnč</form><pos>NIL</pos><sense><def><en>over again</en></def></sense></entry>
+<entry><form>aːnčiː</form><pos>v</pos><sense><def><en>move/change location</en></def></sense></entry>
+<entry><form>aːnčikiːsissiweː</form><pos>v</pos><sense><def><en>menstruate</en></def></sense></entry>
+<entry><form>aːnčinaːkosi</form><pos>v</pos><sense><def><en>appear different, change</en></def></sense></entry>
+<entry><form>aːnčinaːkwiq</form><pos>v</pos><sense><def><en>change someone's appearance</en></def></sense></entry>
+<entry><form>aːnčinaːkwittoːn</form><pos>v</pos><sense><def><en>change the appearance of something</en></def></sense></entry>
+<entry><form>aːnčipo</form><pos>v</pos><sense><def><en>to be fat</en></def></sense></entry>
+<entry><form>aːnčiponaːkosi</form><pos>v</pos><sense><def><en>to appear to be fat</en></def></sense></entry>
+<entry><form>aːnčiq</form><pos>v</pos><sense><def><en>change</en></def></sense></entry>
+<entry><form>aːnčiššin</form><pos>v</pos><sense><def><en>lie down elsewhere</en></def></sense></entry>
+<entry><form>aːnčissin</form><pos>v</pos><sense><def><en>lie elsewhere</en></def></sense></entry>
+<entry><form>aːnčittoːn</form><pos>v</pos><sense><def><en>change something</en></def></sense></entry>
+<entry><form>aːnčittoːn</form><pos>v</pos><sense><def><en>change something</en></def></sense></entry>
+<entry><form>aːnčiwitoːn</form><pos>v</pos><sense><def><en>move something elsewhere; relocate something</en></def></sense></entry>
+<entry><form>aːnekkonanq</form><pos>n</pos><sense><def><en>buscuit, cracker</en></def></sense></entry>
+<entry><form>aːniː</form><pos>NIL</pos><sense><def><en>hello</en></def></sense></entry>
+<entry><form>aːniːn</form><pos>NIL</pos><sense><def><en>how (many)</en></def></sense></entry>
+<entry><form>aːniːšpiːčč</form><pos>NIL</pos><sense><def><en>when (is it)?</en></def></sense></entry>
+<entry><form>aːniːšš</form><pos>NIL</pos><sense><def><en>what, how</en></def></sense></entry>
+<entry><form>aːnikkanoːttamaːkeː</form><pos>v</pos><sense><def><en>interpret</en></def></sense></entry>
+<entry><form>aːnikkeː</form><pos>NIL</pos><sense><def><en>in succession</en></def></sense></entry>
+<entry><form>aːnikkeː</form><pos>NIL</pos><sense><def><en>in succession</en></def></sense></entry>
+<entry><form>aːnikkoːpitoːn</form><pos>v</pos><sense><def><en>join, tie something to something else</en></def></sense></entry>
+<entry><form>aːnikkoːppiso</form><pos>v</pos><sense><def><en>be tied together</en></def></sense></entry>
+<entry><form>aːnikkoːppitoːn</form><pos>v</pos><sense><def><en>tie together; tie in a row</en></def></sense></entry>
+<entry><form>aːnikkoːššin</form><pos>v</pos><sense><def><en>be joined, interlocked</en></def></sense></entry>
+<entry><form>aːnikkoːsseːnq</form><pos>n</pos><sense><def><en>sleigh; wagon on skis</en></def></sense></entry>
+<entry><form>aːnikkoːssin</form><pos>v</pos><sense><def><en>be joined interlocked</en></def></sense></entry>
+<entry><form>aːnikkoːssitoːn</form><pos>v</pos><sense><def><en>join something to something else</en></def></sense></entry>
+<entry><form>aːnikkoːttoːn</form><pos>v</pos><sense><def><en>lengthen something, add to it</en></def></sense></entry>
+<entry><form>aːnimat</form><pos>v</pos><sense><def><en>it is painful, horrible</en></def></sense></entry>
+<entry><form>aːnimeːnim</form><pos>v</pos><sense><def><en>be exasperated with someone</en></def></sense></entry>
+<entry><form>aːnimeːntam</form><pos>v</pos><sense><def><en>suffer in one's thoughts</en></def></sense></entry>
+<entry><form>aːnimiq</form><pos>v</pos><sense><def><en>make someone suffer</en></def></sense></entry>
+<entry><form>aːnint</form><pos>NIL</pos><sense><def><en>some</en></def></sense></entry>
+<entry><form>aːnkwaːmisi</form><pos>v</pos><sense><def><en>be alert</en></def></sense></entry>
+<entry><form>aːnkwaːsom</form><pos>v</pos><sense><def><en>calm/reassure someone by talking</en></def></sense></entry>
+<entry><form>aːno</form><pos>NIL</pos><sense><def><en>have tried in vain</en></def></sense></entry>
+<entry><form>aːno</form><pos>NIL</pos><sense><def><en>to be sure, although</en></def></sense></entry>
+<entry><form>aːnoːsim</form><pos>v</pos><sense><def><en>coax; persuade to give</en></def></sense></entry>
+<entry><form>aːnoːtweːweːm</form><pos>v</pos><sense><def><en>bother someone by talking</en></def></sense></entry>
+<entry><form>aːnsekkank</form><pos>v</pos><sense><def><en>he changes it (a garment)</en></def></sense></entry>
+<entry><form>aːntakkiː</form><pos>v</pos><sense><def><en>go to live in another country</en></def></sense></entry>
+<entry><form>aːntapi</form><pos>v</pos><sense><def><en>sit elsewhere; change seat</en></def></sense></entry>
+<entry><form>aːnteːkkw</form><pos>n</pos><sense><def><en>crow</en></def></sense></entry>
+<entry><form>aːnti</form><pos>NIL</pos><sense><def><en>where</en></def></sense></entry>
+<entry><form>aːntikkweːn</form><pos>v</pos><sense><def><en>move someone's head over</en></def></sense></entry>
+<entry><form>aːntikkweːššim</form><pos>v</pos><sense><def><en>place someone's head to different position</en></def></sense></entry>
+<entry><form>aːnweːnim</form><pos>v</pos><sense><def><en>criticize; despise</en></def></sense></entry>
+<entry><form>aːnweːntaːkosi</form><pos>v</pos><sense><def><en>be reproachable; be useless</en></def></sense></entry>
+<entry><form>aːnweːntaːn</form><pos>v</pos><sense><def><en>find fault with something</en></def></sense></entry>
+<entry><form>aːnweːpi</form><pos>v</pos><sense><def><en>rest</en></def></sense></entry>
+<entry><form>aːnweːpiwin</form><pos>n</pos><sense><def><en>rest, repose</en></def></sense></entry>
+<entry><form>aːpačiččikan</form><pos>n</pos><sense><def><en>tool</en></def></sense></entry>
+<entry><form>aːpačiq</form><pos>v</pos><sense><def><en>use, put to use</en></def></sense></entry>
+<entry><form>aːpačittaw</form><pos>v</pos><sense><def><en>use something belonging to someone</en></def></sense></entry>
+<entry><form>aːpačittoːn</form><pos>v</pos><sense><def><en>use, put to use</en></def></sense></entry>
+<entry><form>aːpačittoːn</form><pos>v</pos><sense><def><en>use, put to use</en></def></sense></entry>
+<entry><form>aːpačittoːwin</form><pos>n</pos><sense><def><en>using something</en></def></sense></entry>
+<entry><form>aːpanaːpam</form><pos>v</pos><sense><def><en>look back at someone</en></def></sense></entry>
+<entry><form>aːpanaːpantaːn</form><pos>v</pos><sense><def><en>look back at something</en></def></sense></entry>
+<entry><form>aːpanaːpi</form><pos>v</pos><sense><def><en>look back</en></def></sense></entry>
+<entry><form>aːpaqaːn</form><pos>v</pos><sense><def><en>untie something</en></def></sense></entry>
+<entry><form>aːpatat</form><pos>v</pos><sense><def><en>be useful; be used</en></def></sense></entry>
+<entry><form>aːpatisi</form><pos>v</pos><sense><def><en>be useful; be used</en></def></sense></entry>
+<entry><form>aːpettaːtepikk</form><pos>NIL</pos><sense><def><en>at midnight</en></def></sense></entry>
+<entry><form>aːpettawena</form><pos>NIL</pos><sense><def><en>round the middle</en></def></sense></entry>
+<entry><form>aːpettaweyaqiː</form><pos>NIL</pos><sense><def><en>at the middle</en></def></sense></entry>
+<entry><form>aːpiːkenank</form><pos>v</pos><sense><def><en>he unwraps it</en></def></sense></entry>
+<entry><form>aːpiːkin</form><pos>v</pos><sense><def><en>unfold someone as cloth</en></def></sense></entry>
+<entry><form>aːpiči</form><pos>NIL</pos><sense><def><en>constantly, continually, repeatedly</en></def></sense></entry>
+<entry><form>aːpičinaso</form><pos>v</pos><sense><def><en>keep doing, be occupied</en></def></sense></entry>
+<entry><form>aːpičipiso</form><pos>v</pos><sense><def><en>drive by constantly, keep on driving</en></def></sense></entry>
+<entry><form>aːpičittaː</form><pos>v</pos><sense><def><en>keep doing, be occupied in some act</en></def></sense></entry>
+<entry><form>aːpisiːnkošši</form><pos>v</pos><sense><def><en>awake from a deep sleep</en></def></sense></entry>
+<entry><form>aːpisiːššin</form><pos>v</pos><sense><def><en>he revives</en></def></sense></entry>
+<entry><form>aːpiskopin</form><pos>v</pos><sense><def><en>untie someone (from somewhere)</en></def></sense></entry>
+<entry><form>aːpitaːnkašeː</form><pos>v</pos><sense><def><en>keep a job, keep on working</en></def></sense></entry>
+<entry><form>aːpiteːkk</form><pos>NIL</pos><sense><def><en>certainly, of course</en></def></sense></entry>
+<entry><form>aːpittawi</form><pos>NIL</pos><sense><def><en>half</en></def></sense></entry>
+<entry><form>aːpittawisi</form><pos>n</pos><sense><def><en>half breed</en></def></sense></entry>
+<entry><form>aːpittoːčiːn</form><pos>v</pos><sense><def><en>put one's arms around someone's waist</en></def></sense></entry>
+<entry><form>aːpittoːpiː</form><pos>v</pos><sense><def><en>half full (of liquid)</en></def></sense></entry>
+<entry><form>aːpittoːpiː</form><pos>v</pos><sense><def><en>half full (of liquid)</en></def></sense></entry>
+<entry><form>aːpittoːškineː</form><pos>v</pos><sense><def><en>half full (of solid)</en></def></sense></entry>
+<entry><form>aːpittoːškineː</form><pos>v</pos><sense><def><en>half full (of solid)</en></def></sense></entry>
+<entry><form>aːpitweːweːssin</form><pos>v</pos><sense><def><en>keep on ringing</en></def></sense></entry>
+<entry><form>aːpoqw</form><pos>v</pos><sense><def><en>untie someone</en></def></sense></entry>
+<entry><form>aːpotinaːn</form><pos>v</pos><sense><def><en>turn someone over, inside out</en></def></sense></entry>
+<entry><form>aːppaweː</form><pos>v</pos><sense><def><en>have an ominous dream</en></def></sense></entry>
+<entry><form>aːppaweːwin</form><pos>n</pos><sense><def><en>dream</en></def></sense></entry>
+<entry><form>aːppečipeso</form><pos>v</pos><sense><def><en>he tumbles down</en></def></sense></entry>
+<entry><form>aːppečiššin</form><pos>v</pos><sense><def><en>he falls to his death</en></def></sense></entry>
+<entry><form>aːppiːšš</form><pos>NIL</pos><sense><def><en>where (is it)?</en></def></sense></entry>
+<entry><form>aːppiči</form><pos>NIL</pos><sense><def><en>completely, entirely</en></def></sense></entry>
+<entry><form>aːppiči</form><pos>NIL</pos><sense><def><en>completely, entirely</en></def></sense></entry>
+<entry><form>aːppineː</form><pos>NIL</pos><sense><def><en>always the same, ever since</en></def></sense></entry>
+<entry><form>aːppineː</form><pos>v</pos><sense><def><en>be crazy for/about something</en></def></sense></entry>
+<entry><form>aːppitaːppi</form><pos>v</pos><sense><def><en>laugh a lot, continuously</en></def></sense></entry>
+<entry><form>aːppitaːppiq</form><pos>v</pos><sense><def><en>laugh and laugh at someone</en></def></sense></entry>
+<entry><form>aːppiteːnti</form><pos>v</pos><sense><def><en>be absent longer than expected</en></def></sense></entry>
+<entry><form>aːppitosseː</form><pos>v</pos><sense><def><en>walk as fast as possible</en></def></sense></entry>
+<entry><form>aːpwaː</form><pos>v</pos><sense><def><en>be mild weather</en></def></sense></entry>
+<entry><form>aːpwaːtteː</form><pos>v</pos><sense><def><en>it is mild</en></def></sense></entry>
+<entry><form>aːšawakaːm</form><pos>NIL</pos><sense><def><en>on the opposite shore</en></def></sense></entry>
+<entry><form>aːšawaqam</form><pos>v</pos><sense><def><en>cross the water by boat</en></def></sense></entry>
+<entry><form>aːšawaqatoːn</form><pos>v</pos><sense><def><en>ferry something across</en></def></sense></entry>
+<entry><form>aːšawihiː</form><pos>NIL</pos><sense><def><en>on the other side</en></def></sense></entry>
+<entry><form>aːšawissak</form><pos>NIL</pos><sense><def><en>to/in another room</en></def></sense></entry>
+<entry><form>aːši</form><pos>NIL</pos><sense><def><en>already, now</en></def></sense></entry>
+<entry><form>aːšikan</form><pos>n</pos><sense><def><en>bridge, dock</en></def></sense></entry>
+<entry><form>aːšikičinikkeːškaː</form><pos>v</pos><sense><def><en>have ones arm bent backwards</en></def></sense></entry>
+<entry><form>aːšikičipin</form><pos>v</pos><sense><def><en>flip someone over faceup by hand</en></def></sense></entry>
+<entry><form>aːšikičipiso</form><pos>v</pos><sense><def><en>flip over faceup</en></def></sense></entry>
+<entry><form>aːšikičipitoːn</form><pos>v</pos><sense><def><en>flip something over faceup by hand</en></def></sense></entry>
+<entry><form>aːšikičiweːpiškaːn</form><pos>v</pos><sense><def><en>flip something over backwards with foot</en></def></sense></entry>
+<entry><form>aːšikičiweːpiškaw</form><pos>v</pos><sense><def><en>flip someone over backwards with foot</en></def></sense></entry>
+<entry><form>aːšikisikkaːn</form><pos>v</pos><sense><def><en>turn something faceup with foot</en></def></sense></entry>
+<entry><form>aːšikisikkaw</form><pos>v</pos><sense><def><en>turn someone faceup with foot</en></def></sense></entry>
+<entry><form>aːšikitakoːčin</form><pos>v</pos><sense><def><en>fall backwards</en></def></sense></entry>
+<entry><form>aːšikitikkweːni</form><pos>v</pos><sense><def><en>throw one's head back</en></def></sense></entry>
+<entry><form>aːšikitiššim</form><pos>v</pos><sense><def><en>turn over (right side up)</en></def></sense></entry>
+<entry><form>aːšikitiššin</form><pos>v</pos><sense><def><en>be turned over (right side up)</en></def></sense></entry>
+<entry><form>aːšikitissin</form><pos>v</pos><sense><def><en>be turned over (right side up)</en></def></sense></entry>
+<entry><form>aːšikitissitoːn</form><pos>v</pos><sense><def><en>turn over (right side up)</en></def></sense></entry>
+<entry><form>aːšipikk</form><pos>n</pos><sense><def><en>rock, cliff</en></def></sense></entry>
+<entry><form>aːšipikkw</form><pos>n</pos><sense><def><en>rock</en></def></sense></entry>
+<entry><form>aːšiteːm</form><pos>v</pos><sense><def><en>gainsay someone, talk back</en></def></sense></entry>
+<entry><form>aːšiteːpiso</form><pos>v</pos><sense><def><en>drive across the path of others</en></def></sense></entry>
+<entry><form>aːšiteːškaw</form><pos>v</pos><sense><def><en>come up beside someone</en></def></sense></entry>
+<entry><form>aːšiteːyaːttik</form><pos>n</pos><sense><def><en>cross of wood</en></def></sense></entry>
+<entry><form>aːšittoːškoːn</form><pos>v</pos><sense><def><en>change someone's clothes</en></def></sense></entry>
+<entry><form>aːšoː</form><pos>NIL</pos><sense><def><en>next (of periods of time)</en></def></sense></entry>
+<entry><form>aːšokanikkeː</form><pos>v</pos><sense><def><en>make a bridge, wharf</en></def></sense></entry>
+<entry><form>aːššiːšimaːči</form><pos>NIL</pos><sense><def><en>good heavens!</en></def></sense></entry>
+<entry><form>aːššwiːšimaːčiː</form><pos>NIL</pos><sense><def><en>my god! good heavens!</en></def></sense></entry>
+<entry><form>aːšta</form><pos>NIL</pos><sense><def><en>from place to place</en></def></sense></entry>
+<entry><form>aːšta</form><pos>NIL</pos><sense><def><en>from place to place</en></def></sense></entry>
+<entry><form>aːštakwaːškoni</form><pos>v</pos><sense><def><en>jump from place to place</en></def></sense></entry>
+<entry><form>aːštapoːsi</form><pos>v</pos><sense><def><en>transfer from one vehicle to another</en></def></sense></entry>
+<entry><form>aːštaqoːnikiː</form><pos>v</pos><sense><def><en>move from one vehicle to another</en></def></sense></entry>
+<entry><form>aːštoːškinitoːn</form><pos>v</pos><sense><def><en>pour solids (sand, flour)</en></def></sense></entry>
+<entry><form>aːštoːsiːkinaːn</form><pos>v</pos><sense><def><en>pour liquid (from another container)</en></def></sense></entry>
+<entry><form>aːsawaqon</form><pos>v</pos><sense><def><en>ferry someone across</en></def></sense></entry>
+<entry><form>aːsentipeːppeso</form><pos>v</pos><sense><def><en>he carries load with strap tied round head</en></def></sense></entry>
+<entry><form>aːsiyaːn</form><pos>n</pos><sense><def><en>breech clout; diaper</en></def></sense></entry>
+<entry><form>aːskik</form><pos>n</pos><sense><def><en>seal</en></def></sense></entry>
+<entry><form>aːsokeː</form><pos>v</pos><sense><def><en>cross a river on a bridge</en></def></sense></entry>
+<entry><form>aːssamaːttikw</form><pos>NIL</pos><sense><def><en>on, all over the wall</en></def></sense></entry>
+<entry><form>aːssamikamikw</form><pos>NIL</pos><sense><def><en>on, all over the house</en></def></sense></entry>
+<entry><form>aːssenaː</form><pos>NIL</pos><sense><def><en>look out!, be careful!</en></def></sense></entry>
+<entry><form>aːssinamaːkkwiː</form><pos>v</pos><sense><def><en>hold on somewhere for support</en></def></sense></entry>
+<entry><form>aːssintipeːppisowin</form><pos>n</pos><sense><def><en>headband (decorative)</en></def></sense></entry>
+<entry><form>aːssoːkkaːn</form><pos>n</pos><sense><def><en>sacred story</en></def></sense></entry>
+<entry><form>aːssoːkkeː</form><pos>v</pos><sense><def><en>he tells a sacred story</en></def></sense></entry>
+<entry><form>aːssoššin</form><pos>v</pos><sense><def><en>lean against something</en></def></sense></entry>
+<entry><form>aːsswaːkkoššin</form><pos>v</pos><sense><def><en>lean against something wooden</en></def></sense></entry>
+<entry><form>aːswaːkkuššin</form><pos>v</pos><sense><def><en>he lies across a solid</en></def></sense></entry>
+<entry><form>aːswaːkkussin</form><pos>v</pos><sense><def><en>it lies across a solid</en></def></sense></entry>
+<entry><form>aːswaːkkussitoːt</form><pos>v</pos><sense><def><en>he lays it across, leans it against</en></def></sense></entry>
+<entry><form>aːtawaqawiː</form><pos>v</pos><sense><def><en>get a ride</en></def></sense></entry>
+<entry><form>aːtiššin</form><pos>v</pos><sense><def><en>be marooned, cut off by obstacle</en></def></sense></entry>
+<entry><form>aːtiskasso</form><pos>v</pos><sense><def><en>be stranded, out of water (fish)</en></def></sense></entry>
+<entry><form>aːtissin</form><pos>v</pos><sense><def><en>be marooned, cut off by obstacle</en></def></sense></entry>
+<entry><form>aːtissoːkkaːn</form><pos>n</pos><sense><def><en>a story or legend</en></def></sense></entry>
+<entry><form>aːtissoːkkeː</form><pos>v</pos><sense><def><en>tell a story</en></def></sense></entry>
+<entry><form>aːtissoːkkeːwin</form><pos>n</pos><sense><def><en>tale telling, recounting legends</en></def></sense></entry>
+<entry><form>aːtoːqam</form><pos>v</pos><sense><def><en>get a ride from someone</en></def></sense></entry>
+<entry><form>aːttawaːššim</form><pos>v</pos><sense><def><en>turn, place right side up</en></def></sense></entry>
+<entry><form>aːttawaːššin</form><pos>v</pos><sense><def><en>be/lie right side up</en></def></sense></entry>
+<entry><form>aːttawaːssin</form><pos>v</pos><sense><def><en>be/lie right side up</en></def></sense></entry>
+<entry><form>aːttawaːssitoːn</form><pos>v</pos><sense><def><en>turn, place right side up</en></def></sense></entry>
+<entry><form>aːttawaːssitoːn</form><pos>v</pos><sense><def><en>turn/place right side up</en></def></sense></entry>
+<entry><form>aːttawaːwiːnkweːššin</form><pos>v</pos><sense><def><en>lie face up</en></def></sense></entry>
+<entry><form>aːttaweː</form><pos>v</pos><sense><def><en>his fire goes out</en></def></sense></entry>
+<entry><form>aːtteː</form><pos>v</pos><sense><def><en>be extinguished (e.g. light, fire)</en></def></sense></entry>
+<entry><form>aːtteːpiː</form><pos>v</pos><sense><def><en>become sober</en></def></sense></entry>
+<entry><form>aːtteːpičikeː</form><pos>v</pos><sense><def><en>extinguish, put out (light, fire)</en></def></sense></entry>
+<entry><form>aːtteːpitoːn</form><pos>v</pos><sense><def><en>extinguish, put out (light, fire)</en></def></sense></entry>
+<entry><form>aːtteːpoːtaːtaːn</form><pos>v</pos><sense><def><en>blow out</en></def></sense></entry>
+<entry><form>aːtteːqaːn</form><pos>v</pos><sense><def><en>put out (e.g. light, fire)</en></def></sense></entry>
+<entry><form>aːtteːqikeː</form><pos>v</pos><sense><def><en>put out (e.g. light, fire)</en></def></sense></entry>
+<entry><form>aːtteːškank</form><pos>v</pos><sense><def><en>he extinguishes it with his foot</en></def></sense></entry>
+<entry><form>aːtteːššin</form><pos>v</pos><sense><def><en>sober up</en></def></sense></entry>
+<entry><form>aːtteːttoːn</form><pos>v</pos><sense><def><en>turn off, extinguish (light, fire)</en></def></sense></entry>
+<entry><form>aːw</form><pos>NIL</pos><sense><def><en>well, come on!</en></def></sense></entry>
+<entry><form>aːwačitaːpaːn</form><pos>v</pos><sense><def><en>haul</en></def></sense></entry>
+<entry><form>aːwačitaːpaːtaːn</form><pos>v</pos><sense><def><en>haul</en></def></sense></entry>
+<entry><form>aːwan</form><pos>v</pos><sense><def><en>drag, haul</en></def></sense></entry>
+<entry><form>aːwan</form><pos>v</pos><sense><def><en>it is</en></def></sense></entry>
+<entry><form>aːwasapiː</form><pos>v</pos><sense><def><en>haul water</en></def></sense></entry>
+<entry><form>aːwataškweː</form><pos>v</pos><sense><def><en>haul hay</en></def></sense></entry>
+<entry><form>aːwataškweːttamaw</form><pos>v</pos><sense><def><en>haul hay for someone</en></def></sense></entry>
+<entry><form>aːwataw</form><pos>v</pos><sense><def><en>haul something for someone</en></def></sense></entry>
+<entry><form>aːwatoːn</form><pos>v</pos><sense><def><en>drag, haul</en></def></sense></entry>
+<entry><form>aːwatoːn</form><pos>v</pos><sense><def><en>drag, haul</en></def></sense></entry>
+<entry><form>aːweːnim</form><pos>v</pos><sense><def><en>consider to be</en></def></sense></entry>
+<entry><form>aːwi</form><pos>v</pos><sense><def><en>be</en></def></sense></entry>
+<entry><form>aːwiq</form><pos>v</pos><sense><def><en>make someone be this or that</en></def></sense></entry>
+<entry><form>aːyaːnekkoːpeso</form><pos>v</pos><sense><def><en>he is tied in successive lengths</en></def></sense></entry>
+<entry><form>aččaːp</form><pos>n</pos><sense><def><en>bow-string</en></def></sense></entry>
+<entry><form>aččikeː</form><pos>v</pos><sense><def><en>he places a bet</en></def></sense></entry>
+<entry><form>ačiči</form><pos>NIL</pos><sense><def><en>upside down</en></def></sense></entry>
+<entry><form>ačičikkiːkaːpawi</form><pos>v</pos><sense><def><en>stand on one's head</en></def></sense></entry>
+<entry><form>ačičikkiːššim</form><pos>v</pos><sense><def><en>lie with head lower than feet</en></def></sense></entry>
+<entry><form>ačičikkiːššim</form><pos>v</pos><sense><def><en>place someone with head lower than feet</en></def></sense></entry>
+<entry><form>ačičiššin</form><pos>v</pos><sense><def><en>lie face down</en></def></sense></entry>
+<entry><form>ačina</form><pos>NIL</pos><sense><def><en>for a little while</en></def></sense></entry>
+<entry><form>ačitakkiššin</form><pos>v</pos><sense><def><en>lie face down, hang upside down</en></def></sense></entry>
+<entry><form>ačitakkissin</form><pos>v</pos><sense><def><en>be upside down</en></def></sense></entry>
+<entry><form>ačitakoːčin</form><pos>v</pos><sense><def><en>hang upside down</en></def></sense></entry>
+<entry><form>aiːnčipin</form><pos>v</pos><sense><def><en>put something inside someone</en></def></sense></entry>
+<entry><form>akaːččaːpiːkat</form><pos>NIL</pos><sense><def><en>be small and slim</en></def></sense></entry>
+<entry><form>akaːččaːpiːkisi</form><pos>v</pos><sense><def><en>be small and slim</en></def></sense></entry>
+<entry><form>akaːččiːnqi</form><pos>v</pos><sense><def><en>be small</en></def></sense></entry>
+<entry><form>akaːččiminakat</form><pos>v</pos><sense><def><en>small</en></def></sense></entry>
+<entry><form>akaːččiminakisi</form><pos>v</pos><sense><def><en>small</en></def></sense></entry>
+<entry><form>akaːččin</form><pos>v</pos><sense><def><en>be small</en></def></sense></entry>
+<entry><form>akaːččiteːsi</form><pos>v</pos><sense><def><en>be narrow</en></def></sense></entry>
+<entry><form>akaːččiteːyaː</form><pos>v</pos><sense><def><en>be narrow</en></def></sense></entry>
+<entry><form>akaːmaːčiwan</form><pos>NIL</pos><sense><def><en>on the other side of a body of water</en></def></sense></entry>
+<entry><form>akaːmink</form><pos>NIL</pos><sense><def><en>across the water on other side of lake</en></def></sense></entry>
+<entry><form>akači</form><pos>v</pos><sense><def><en>be shy</en></def></sense></entry>
+<entry><form>akačiːkkaːso</form><pos>v</pos><sense><def><en>pretend to be shy</en></def></sense></entry>
+<entry><form>akačiːwaːtisi</form><pos>v</pos><sense><def><en>be inherently shy</en></def></sense></entry>
+<entry><form>akačiq</form><pos>v</pos><sense><def><en>cause to be ashamed</en></def></sense></entry>
+<entry><form>akačiški</form><pos>v</pos><sense><def><en>be naturally shy</en></def></sense></entry>
+<entry><form>akamink</form><pos>NIL</pos><sense><def><en>(in) the water, (in) the lake</en></def></sense></entry>
+<entry><form>akateːnim</form><pos>v</pos><sense><def><en>be ashamed of</en></def></sense></entry>
+<entry><form>akateːntam</form><pos>v</pos><sense><def><en>be, feel ashamed</en></def></sense></entry>
+<entry><form>akawaːtteːššin</form><pos>v</pos><sense><def><en>cast a shadow</en></def></sense></entry>
+<entry><form>akawaːtteːssin</form><pos>v</pos><sense><def><en>cast a shadow</en></def></sense></entry>
+<entry><form>akawaːtteːssinokkeː</form><pos>v</pos><sense><def><en>make a shade</en></def></sense></entry>
+<entry><form>akičiqiːnk</form><pos>NIL</pos><sense><def><en>on top of something</en></def></sense></entry>
+<entry><form>akikokkaː</form><pos>v</pos><sense><def><en>have a cold</en></def></sense></entry>
+<entry><form>akim</form><pos>v</pos><sense><def><en>count, read</en></def></sense></entry>
+<entry><form>akinčikaːso</form><pos>v</pos><sense><def><en>he is counted</en></def></sense></entry>
+<entry><form>akinčikaːteː</form><pos>v</pos><sense><def><en>it is counted</en></def></sense></entry>
+<entry><form>akinčikeːwin</form><pos>n</pos><sense><def><en>reading</en></def></sense></entry>
+<entry><form>akintaːn</form><pos>v</pos><sense><def><en>count, read</en></def></sense></entry>
+<entry><form>akintaːpikkweː</form><pos>v</pos><sense><def><en>count money</en></def></sense></entry>
+<entry><form>akintaːsso</form><pos>v</pos><sense><def><en>count, read</en></def></sense></entry>
+<entry><form>akintaːssoq</form><pos>v</pos><sense><def><en>cause to count, read</en></def></sense></entry>
+<entry><form>akintaːssowin</form><pos>n</pos><sense><def><en>account, reading</en></def></sense></entry>
+<entry><form>akintamaːkeːn</form><pos>v</pos><sense><def><en>count, read</en></def></sense></entry>
+<entry><form>akintamaw</form><pos>v</pos><sense><def><en>count, read for or to someone</en></def></sense></entry>
+<entry><form>akitaː</form><pos>NIL</pos><sense><def><en>on, up</en></def></sense></entry>
+<entry><form>akitaːkki</form><pos>NIL</pos><sense><def><en>up the hill</en></def></sense></entry>
+<entry><form>akitaːttik</form><pos>NIL</pos><sense><def><en>on the log</en></def></sense></entry>
+<entry><form>akitakkamik</form><pos>NIL</pos><sense><def><en>on top of the earth</en></def></sense></entry>
+<entry><form>akitikamikw</form><pos>NIL</pos><sense><def><en>on top of the building</en></def></sense></entry>
+<entry><form>akitipiːk</form><pos>NIL</pos><sense><def><en>on top of the water</en></def></sense></entry>
+<entry><form>akkaːtakkikkw</form><pos>n</pos><sense><def><en>cauldron</en></def></sense></entry>
+<entry><form>akkaːteːnikeː</form><pos>v</pos><sense><def><en>braid the hair</en></def></sense></entry>
+<entry><form>akkaːtikineːpikw</form><pos>n</pos><sense><def><en>alligator</en></def></sense></entry>
+<entry><form>akkačikaː</form><pos>v</pos><sense><def><en>be shady (it is shady)</en></def></sense></entry>
+<entry><form>akkačikaːtteː</form><pos>v</pos><sense><def><en>it's shady</en></def></sense></entry>
+<entry><form>akkačikaːtteːššin</form><pos>v</pos><sense><def><en>be in a shady place</en></def></sense></entry>
+<entry><form>akkačikaːtteːssin</form><pos>v</pos><sense><def><en>be in a shady place</en></def></sense></entry>
+<entry><form>akkačikaːtteːwin</form><pos>n</pos><sense><def><en>umbrella</en></def></sense></entry>
+<entry><form>akkačikiššin</form><pos>v</pos><sense><def><en>be shaded</en></def></sense></entry>
+<entry><form>akkačikissin</form><pos>v</pos><sense><def><en>be shaded</en></def></sense></entry>
+<entry><form>akkakkišeː</form><pos>n</pos><sense><def><en>coals</en></def></sense></entry>
+<entry><form>akkakkišeːpweːn</form><pos>v</pos><sense><def><en>roast in coals</en></def></sense></entry>
+<entry><form>akkamaw</form><pos>v</pos><sense><def><en>lie in wait (ambush) for someone</en></def></sense></entry>
+<entry><form>akkan</form><pos>n</pos><sense><def><en>bone</en></def></sense></entry>
+<entry><form>akkantoː</form><pos>v</pos><sense><def><en>be on the watch</en></def></sense></entry>
+<entry><form>akkawaːpam</form><pos>v</pos><sense><def><en>be on watch, look out for someone</en></def></sense></entry>
+<entry><form>akkawaːpantaːn</form><pos>v</pos><sense><def><en>be on watch for something</en></def></sense></entry>
+<entry><form>akkawaːpantamaw</form><pos>v</pos><sense><def><en>watch out for something for someone</en></def></sense></entry>
+<entry><form>akkawaːpi</form><pos>v</pos><sense><def><en>stand guard</en></def></sense></entry>
+<entry><form>akkawaːpiːwanini</form><pos>n</pos><sense><def><en>guard</en></def></sense></entry>
+<entry><form>akkaweː</form><pos>NIL</pos><sense><def><en>interrupt activity to do</en></def></sense></entry>
+<entry><form>akkaweːšš</form><pos>NIL</pos><sense><def><en>in the meantime</en></def></sense></entry>
+<entry><form>akkiːkkaːtaːn</form><pos>v</pos><sense><def><en>spread sand, earth on something</en></def></sense></entry>
+<entry><form>akkiːkkaːteː</form><pos>v</pos><sense><def><en>be strewn with sand, earth</en></def></sense></entry>
+<entry><form>akkiːwan</form><pos>v</pos><sense><def><en>it is, there is earth</en></def></sense></entry>
+<entry><form>akkiːwikamikw</form><pos>n</pos><sense><def><en>roothouse</en></def></sense></entry>
+<entry><form>akkiči</form><pos>NIL</pos><sense><def><en>on</en></def></sense></entry>
+<entry><form>akkikkw</form><pos>n</pos><sense><def><en>kettle</en></def></sense></entry>
+<entry><form>akkikkwaːpikkw</form><pos>n</pos><sense><def><en>tin can</en></def></sense></entry>
+<entry><form>akkinawaːčiččikan</form><pos>n</pos><sense><def><en>(trail) blaze; street sign</en></def></sense></entry>
+<entry><form>akkinawaːteːnim</form><pos>v</pos><sense><def><en>note, notice someone</en></def></sense></entry>
+<entry><form>akkink</form><pos>NIL</pos><sense><def><en>on earth</en></def></sense></entry>
+<entry><form>akkinoːqamaw</form><pos>v</pos><sense><def><en>teach someone</en></def></sense></entry>
+<entry><form>akkinoːwin</form><pos>v</pos><sense><def><en>guide someone, show someone the way</en></def></sense></entry>
+<entry><form>akkiweːnsiːnq</form><pos>n</pos><sense><def><en>old man</en></def></sense></entry>
+<entry><form>akkiweːwin</form><pos>n</pos><sense><def><en>flag</en></def></sense></entry>
+<entry><form>akko</form><pos>NIL</pos><sense><def><en>so far; so long</en></def></sense></entry>
+<entry><form>akkoːkkissin</form><pos>v</pos><sense><def><en>be arranged in rows to certain depth</en></def></sense></entry>
+<entry><form>akkoːsi</form><pos>v</pos><sense><def><en>be so tall, long, high</en></def></sense></entry>
+<entry><form>akkoči</form><pos>NIL</pos><sense><def><en>on top of</en></def></sense></entry>
+<entry><form>akkočiweːpin</form><pos>v</pos><sense><def><en>throw someone on top of something</en></def></sense></entry>
+<entry><form>akkokaːpawi</form><pos>v</pos><sense><def><en>stand crowded together (pl subj)</en></def></sense></entry>
+<entry><form>akkokeː</form><pos>v</pos><sense><def><en>be assembled in a camp</en></def></sense></entry>
+<entry><form>akkokin</form><pos>v</pos><sense><def><en>raise bring up someone</en></def></sense></entry>
+<entry><form>akkokkaweː</form><pos>v</pos><sense><def><en>leave tracks thus far</en></def></sense></entry>
+<entry><form>akkomo</form><pos>v</pos><sense><def><en>be a certain distance in the water</en></def></sense></entry>
+<entry><form>akkonaːškaw</form><pos>v</pos><sense><def><en>chase someone away</en></def></sense></entry>
+<entry><form>akkonikaːteː</form><pos>v</pos><sense><def><en>be removed</en></def></sense></entry>
+<entry><form>akkopi</form><pos>v</pos><sense><def><en>sit crowded together (pl subj.)</en></def></sense></entry>
+<entry><form>akkoššim</form><pos>v</pos><sense><def><en>pile,heap, make high, tall</en></def></sense></entry>
+<entry><form>akkoššin</form><pos>v</pos><sense><def><en>be so high, tall, piled up</en></def></sense></entry>
+<entry><form>akkossičikaːnss</form><pos>n</pos><sense><def><en>haybale</en></def></sense></entry>
+<entry><form>akkossičikaːnsskkeː</form><pos>v</pos><sense><def><en>to bale hay</en></def></sense></entry>
+<entry><form>akkossičikan</form><pos>n</pos><sense><def><en>haystack</en></def></sense></entry>
+<entry><form>akkossičikeː</form><pos>v</pos><sense><def><en>pile things up; make a pile</en></def></sense></entry>
+<entry><form>akkossimaːn</form><pos>n</pos><sense><def><en>(halloween) pumpkin</en></def></sense></entry>
+<entry><form>akkossin</form><pos>v</pos><sense><def><en>be so high, long, piled up</en></def></sense></entry>
+<entry><form>akkossitoːn</form><pos>v</pos><sense><def><en>pile, heap, make high, tall, long</en></def></sense></entry>
+<entry><form>akkotoːmiko</form><pos>v</pos><sense><def><en>mount</en></def></sense></entry>
+<entry><form>akkwaː</form><pos>v</pos><sense><def><en>be so high/long tall</en></def></sense></entry>
+<entry><form>akkwaːkkosi</form><pos>v</pos><sense><def><en>be of a certain length, of something wooden</en></def></sense></entry>
+<entry><form>akkwaːkkot</form><pos>v</pos><sense><def><en>be a certain length (of something wooden)</en></def></sense></entry>
+<entry><form>akkwaːntawaːkan</form><pos>n</pos><sense><def><en>ladder</en></def></sense></entry>
+<entry><form>akkwaːntaweː</form><pos>v</pos><sense><def><en>ascend, climb up</en></def></sense></entry>
+<entry><form>akkwaːntaweːpattoː</form><pos>v</pos><sense><def><en>run upstairs</en></def></sense></entry>
+<entry><form>akkwaːpiːkat</form><pos>v</pos><sense><def><en>it is so long a string</en></def></sense></entry>
+<entry><form>akkwaːpiːkisi</form><pos>v</pos><sense><def><en>be a certain length (stringlike)</en></def></sense></entry>
+<entry><form>akkwaːpiso</form><pos>v</pos><sense><def><en>travel so far</en></def></sense></entry>
+<entry><form>akkwaːssin</form><pos>v</pos><sense><def><en>be blown away</en></def></sense></entry>
+<entry><form>akkweːmiːkkanoːt</form><pos>n</pos><sense><def><en>a woman's underwear</en></def></sense></entry>
+<entry><form>akkweːseːnss</form><pos>n</pos><sense><def><en>girl</en></def></sense></entry>
+<entry><form>akkweːwaːppineː</form><pos>v</pos><sense><def><en>be womancrazy (a sexual term)</en></def></sense></entry>
+<entry><form>akky</form><pos>n</pos><sense><def><en>land</en></def></sense></entry>
+<entry><form>akoːčin</form><pos>v</pos><sense><def><en>hang</en></def></sense></entry>
+<entry><form>akoːn</form><pos>v</pos><sense><def><en>hang</en></def></sense></entry>
+<entry><form>akoːn</form><pos>v</pos><sense><def><en>hang someone up</en></def></sense></entry>
+<entry><form>akoːnaːpoː</form><pos>n</pos><sense><def><en>water from melted snow</en></def></sense></entry>
+<entry><form>akoːtakkikkwaːneːyaːpy</form><pos>n</pos><sense><def><en>chain for hanging pot</en></def></sense></entry>
+<entry><form>akoːtaw</form><pos>v</pos><sense><def><en>hang up something for someone</en></def></sense></entry>
+<entry><form>akoːteː</form><pos>v</pos><sense><def><en>hang</en></def></sense></entry>
+<entry><form>akoːtoːn</form><pos>v</pos><sense><def><en>hang</en></def></sense></entry>
+<entry><form>akoːtoːn</form><pos>v</pos><sense><def><en>hang something</en></def></sense></entry>
+<entry><form>akokkeː</form><pos>v</pos><sense><def><en>stick</en></def></sense></entry>
+<entry><form>akokkeː</form><pos>v</pos><sense><def><en>stick</en></def></sense></entry>
+<entry><form>akokwaːčikan</form><pos>n</pos><sense><def><en>piece of material to be sewn on</en></def></sense></entry>
+<entry><form>akokwaːn</form><pos>v</pos><sense><def><en>sew on something animate</en></def></sense></entry>
+<entry><form>akokwaːsso</form><pos>v</pos><sense><def><en>sew one object to another</en></def></sense></entry>
+<entry><form>akokwaːtaːn</form><pos>v</pos><sense><def><en>sew something on (something else)</en></def></sense></entry>
+<entry><form>akomo</form><pos>v</pos><sense><def><en>float, soar (as a bird)</en></def></sense></entry>
+<entry><form>akonaːpaqikan</form><pos>n</pos><sense><def><en>eyelid</en></def></sense></entry>
+<entry><form>akonaqw</form><pos>v</pos><sense><def><en>cover someone</en></def></sense></entry>
+<entry><form>akoneːpaqaːn</form><pos>v</pos><sense><def><en>cover something</en></def></sense></entry>
+<entry><form>akontaːkanaːppineː</form><pos>v</pos><sense><def><en>have a sickness in the throat</en></def></sense></entry>
+<entry><form>akonweːpaqw</form><pos>v</pos><sense><def><en>cover someone, drape someone in something</en></def></sense></entry>
+<entry><form>akopiso</form><pos>v</pos><sense><def><en>have a plaster on a wound</en></def></sense></entry>
+<entry><form>akopison</form><pos>n</pos><sense><def><en>plaster on a wound</en></def></sense></entry>
+<entry><form>akoq</form><pos>v</pos><sense><def><en>provide so with clothing</en></def></sense></entry>
+<entry><form>akošeː</form><pos>v</pos><sense><def><en>cover oneself with a blanket</en></def></sense></entry>
+<entry><form>akošeːn</form><pos>v</pos><sense><def><en>drape oneself in something</en></def></sense></entry>
+<entry><form>akošeːqw</form><pos>v</pos><sense><def><en>cover someone, e.g. with a blanket</en></def></sense></entry>
+<entry><form>akošiweː</form><pos>v</pos><sense><def><en>hang people up</en></def></sense></entry>
+<entry><form>akwaːkkoqaːn</form><pos>v</pos><sense><def><en>fasten something between something</en></def></sense></entry>
+<entry><form>akwaːkkoqw</form><pos>v</pos><sense><def><en>fasten someone between something</en></def></sense></entry>
+<entry><form>akwaːkkossin</form><pos>v</pos><sense><def><en>stick, cling</en></def></sense></entry>
+<entry><form>akwaːkwissin</form><pos>v</pos><sense><def><en>it is mouldy, rusty</en></def></sense></entry>
+<entry><form>akwaːpaqaːn</form><pos>v</pos><sense><def><en>dip, draw water</en></def></sense></entry>
+<entry><form>akwaːpaqamaw</form><pos>v</pos><sense><def><en>dip, draw water for someone</en></def></sense></entry>
+<entry><form>akwaːpiːqaːn</form><pos>v</pos><sense><def><en>draw something out of a kettle, etc.</en></def></sense></entry>
+<entry><form>akwaːpin</form><pos>v</pos><sense><def><en>draw someone out of water</en></def></sense></entry>
+<entry><form>akwaːpiso</form><pos>v</pos><sense><def><en>come to shore, sail to shore</en></def></sense></entry>
+<entry><form>akwaːpiteː</form><pos>v</pos><sense><def><en>come to shore, dock (of a boat)</en></def></sense></entry>
+<entry><form>akwaːššim</form><pos>v</pos><sense><def><en>remove from fire</en></def></sense></entry>
+<entry><form>akwaːššin</form><pos>v</pos><sense><def><en>be removed from fire</en></def></sense></entry>
+<entry><form>akwaːsiteːni</form><pos>v</pos><sense><def><en>take one's foot out of something</en></def></sense></entry>
+<entry><form>akwaːssin</form><pos>v</pos><sense><def><en>be removed from fire</en></def></sense></entry>
+<entry><form>akwaːssitoːn</form><pos>v</pos><sense><def><en>remove something from fire</en></def></sense></entry>
+<entry><form>akwaːssitoːn</form><pos>v</pos><sense><def><en>remove something from fire</en></def></sense></entry>
+<entry><form>akwaːtaːpaːtaːn</form><pos>v</pos><sense><def><en>drag something ashore</en></def></sense></entry>
+<entry><form>akwaːttaː</form><pos>v</pos><sense><def><en>come out of the water</en></def></sense></entry>
+<entry><form>akwaːwaːšši</form><pos>v</pos><sense><def><en>sail to shore</en></def></sense></entry>
+<entry><form>akwaːwaːssin</form><pos>v</pos><sense><def><en>sail to shore</en></def></sense></entry>
+<entry><form>akwaːweː</form><pos>v</pos><sense><def><en>hang clothes (to dry)</en></def></sense></entry>
+<entry><form>akwaːweːttamaw</form><pos>v</pos><sense><def><en>hang clothes (to dry) for someone</en></def></sense></entry>
+<entry><form>akwaːyaːšši</form><pos>v</pos><sense><def><en>he sails to shore</en></def></sense></entry>
+<entry><form>akwaːyaːssin</form><pos>v</pos><sense><def><en>it is blown ashore</en></def></sense></entry>
+<entry><form>akwaneːm</form><pos>v</pos><sense><def><en>put animate object in the mouth</en></def></sense></entry>
+<entry><form>akwaneːnčikan</form><pos>n</pos><sense><def><en>chew of tobacco</en></def></sense></entry>
+<entry><form>akwaneːntaːn</form><pos>v</pos><sense><def><en>put something in the mouth</en></def></sense></entry>
+<entry><form>akwiːčiweːpin</form><pos>v</pos><sense><def><en>lift someone up</en></def></sense></entry>
+<entry><form>akwiːčiweːpinaːn</form><pos>v</pos><sense><def><en>lift something up</en></def></sense></entry>
+<entry><form>akwiːnčim</form><pos>v</pos><sense><def><en>float/soak</en></def></sense></entry>
+<entry><form>akwiːnčin</form><pos>v</pos><sense><def><en>float</en></def></sense></entry>
+<entry><form>akwiːnčitoːn</form><pos>v</pos><sense><def><en>float, soak</en></def></sense></entry>
+<entry><form>akwiːnteː</form><pos>v</pos><sense><def><en>float</en></def></sense></entry>
+<entry><form>akwiːsikkaːn</form><pos>v</pos><sense><def><en>lift raise something with foot or body</en></def></sense></entry>
+<entry><form>akwiːsikkaw</form><pos>v</pos><sense><def><en>lift raise someone with foot or body</en></def></sense></entry>
+<entry><form>akwiːtaːpan</form><pos>v</pos><sense><def><en>be sunrise be dawn be rising light</en></def></sense></entry>
+<entry><form>akwiːtaqaːn</form><pos>v</pos><sense><def><en>lift something up with instrument</en></def></sense></entry>
+<entry><form>akwiːtin</form><pos>v</pos><sense><def><en>raise, lift up</en></def></sense></entry>
+<entry><form>akwiːtinaːn</form><pos>v</pos><sense><def><en>raise, lift up</en></def></sense></entry>
+<entry><form>akwin</form><pos>v</pos><sense><def><en>wear</en></def></sense></entry>
+<entry><form>akwin</form><pos>v</pos><sense><def><en>wear, put on something animate</en></def></sense></entry>
+<entry><form>akwiwin</form><pos>n</pos><sense><def><en>a garment</en></def></sense></entry>
+<entry><form>amanisso</form><pos>v</pos><sense><def><en>be scared/alarmed</en></def></sense></entry>
+<entry><form>amanissoːnq</form><pos>n</pos><sense><def><en>one who scares others, a sneak</en></def></sense></entry>
+<entry><form>amikkokamikw</form><pos>n</pos><sense><def><en>beaver lodge</en></def></sense></entry>
+<entry><form>amikkošip</form><pos>n</pos><sense><def><en>beaver duck</en></def></sense></entry>
+<entry><form>amikkw</form><pos>n</pos><sense><def><en>beaver</en></def></sense></entry>
+<entry><form>ampeː</form><pos>NIL</pos><sense><def><en>come on</en></def></sense></entry>
+<entry><form>amw</form><pos>v</pos><sense><def><en>eat</en></def></sense></entry>
+<entry><form>anaːkkanikeː</form><pos>v</pos><sense><def><en>make a mat</en></def></sense></entry>
+<entry><form>anaːkošši</form><pos>v</pos><sense><def><en>it's evening</en></def></sense></entry>
+<entry><form>anaːmakkink</form><pos>NIL</pos><sense><def><en>under ground</en></def></sense></entry>
+<entry><form>anaːmeːnim</form><pos>v</pos><sense><def><en>suspect, accuse someone</en></def></sense></entry>
+<entry><form>anaːmi</form><pos>NIL</pos><sense><def><en>under, beneath</en></def></sense></entry>
+<entry><form>anaːmiːntim</form><pos>NIL</pos><sense><def><en>in the water, in the depth</en></def></sense></entry>
+<entry><form>anaːmim</form><pos>v</pos><sense><def><en>blame someone</en></def></sense></entry>
+<entry><form>anaːmink</form><pos>NIL</pos><sense><def><en>under, beneath</en></def></sense></entry>
+<entry><form>anaːminkeː</form><pos>v</pos><sense><def><en>blame people</en></def></sense></entry>
+<entry><form>anaːmipiːnk</form><pos>NIL</pos><sense><def><en>in, under the water</en></def></sense></entry>
+<entry><form>anaːmissak</form><pos>NIL</pos><sense><def><en>under the boards, under the floor</en></def></sense></entry>
+<entry><form>anaːnakosi</form><pos>v</pos><sense><def><en>be happy</en></def></sense></entry>
+<entry><form>anaːnkoːns</form><pos>n</pos><sense><def><en>little star</en></def></sense></entry>
+<entry><form>anaːpiq</form><pos>v</pos><sense><def><en>cause someone to look thus</en></def></sense></entry>
+<entry><form>anakaqeːkkw</form><pos>n</pos><sense><def><en>bark</en></def></sense></entry>
+<entry><form>anakim</form><pos>v</pos><sense><def><en>see inagim</en></def></sense></entry>
+<entry><form>anakišy</form><pos>n</pos><sense><def><en>intestine, blood sausage</en></def></sense></entry>
+<entry><form>anakkaːson</form><pos>v</pos><sense><def><en>use</en></def></sense></entry>
+<entry><form>anakkaːsowinikamikw</form><pos>n</pos><sense><def><en>toolshed</en></def></sense></entry>
+<entry><form>anakkiːwin</form><pos>n</pos><sense><def><en>engine</en></def></sense></entry>
+<entry><form>anamiqaː</form><pos>v</pos><sense><def><en>pray</en></def></sense></entry>
+<entry><form>anamiqeːkkaːso</form><pos>v</pos><sense><def><en>pretend to pray, pretend to be christian</en></def></sense></entry>
+<entry><form>anamiqeːssikkaːn</form><pos>n</pos><sense><def><en>altar</en></def></sense></entry>
+<entry><form>anamiqeːssikkeː</form><pos>v</pos><sense><def><en>celebrate (christian) mass</en></def></sense></entry>
+<entry><form>anamiqeːttaw</form><pos>v</pos><sense><def><en>bless someone</en></def></sense></entry>
+<entry><form>anamiqeːwikamikw</form><pos>n</pos><sense><def><en>church</en></def></sense></entry>
+<entry><form>anamiqeːwin</form><pos>n</pos><sense><def><en>prayer</en></def></sense></entry>
+<entry><form>anankw</form><pos>n</pos><sense><def><en>star</en></def></sense></entry>
+<entry><form>anappičikeː</form><pos>v</pos><sense><def><en>see inapijige</en></def></sense></entry>
+<entry><form>anappin</form><pos>v</pos><sense><def><en>see inapin</en></def></sense></entry>
+<entry><form>anappitoːn</form><pos>v</pos><sense><def><en>see inapid0n (ti)</en></def></sense></entry>
+<entry><form>anaqaːnkapi</form><pos>v</pos><sense><def><en>live with one's inlive withlaws</en></def></sense></entry>
+<entry><form>anawo</form><pos>v</pos><sense><def><en>choke (on a bone)</en></def></sense></entry>
+<entry><form>aniːpiːšš</form><pos>n</pos><sense><def><en>leaf</en></def></sense></entry>
+<entry><form>aniːpy</form><pos>n</pos><sense><def><en>elm-tree</en></def></sense></entry>
+<entry><form>anikaːnaːkošišši</form><pos>v</pos><sense><def><en>be pitifully puny</en></def></sense></entry>
+<entry><form>anikaːnaːkosi</form><pos>v</pos><sense><def><en>appear to be poor, wretched</en></def></sense></entry>
+<entry><form>anikaːq</form><pos>v</pos><sense><def><en>cause to be wretched, unhappy</en></def></sense></entry>
+<entry><form>anikaːsi</form><pos>v</pos><sense><def><en>be poor, in poor health</en></def></sense></entry>
+<entry><form>anikaːttaːkosi</form><pos>v</pos><sense><def><en>make pitiful sounds</en></def></sense></entry>
+<entry><form>anikaːttaw</form><pos>v</pos><sense><def><en>tell a sad story about someone</en></def></sense></entry>
+<entry><form>anikaːweːnim</form><pos>v</pos><sense><def><en>feel pity for someone's plight</en></def></sense></entry>
+<entry><form>anikaːweːntaːkot</form><pos>v</pos><sense><def><en>be sad (an occasion, event)</en></def></sense></entry>
+<entry><form>anikino</form><pos>v</pos><sense><def><en>be of a size</en></def></sense></entry>
+<entry><form>anikokkokamaː</form><pos>v</pos><sense><def><en>be of a certain size (body of water)</en></def></sense></entry>
+<entry><form>animikkaw</form><pos>v</pos><sense><def><en>greet, salute</en></def></sense></entry>
+<entry><form>animikkiː</form><pos>n</pos><sense><def><en>thunderer</en></def></sense></entry>
+<entry><form>animikkiːkkaː</form><pos>v</pos><sense><def><en>it's thundering</en></def></sense></entry>
+<entry><form>animikkiːpakw</form><pos>n</pos><sense><def><en>poison ivy</en></def></sense></entry>
+<entry><form>animikkiːwan</form><pos>v</pos><sense><def><en>it is thundering</en></def></sense></entry>
+<entry><form>animikkokaː</form><pos>v</pos><sense><def><en>face away, have one's back turned</en></def></sense></entry>
+<entry><form>animikkokaːpawi</form><pos>v</pos><sense><def><en>stand with back turned</en></def></sense></entry>
+<entry><form>animikkonaːn</form><pos>v</pos><sense><def><en>turn upside down</en></def></sense></entry>
+<entry><form>animikkopi</form><pos>v</pos><sense><def><en>sit with back turned</en></def></sense></entry>
+<entry><form>animikkoššim</form><pos>v</pos><sense><def><en>turn upside down</en></def></sense></entry>
+<entry><form>animikkoššin</form><pos>v</pos><sense><def><en>lie upside down</en></def></sense></entry>
+<entry><form>animikkossin</form><pos>v</pos><sense><def><en>lie upside down</en></def></sense></entry>
+<entry><form>animikkossitoːn</form><pos>v</pos><sense><def><en>turn, place upside down</en></def></sense></entry>
+<entry><form>animikkoweːpin</form><pos>v</pos><sense><def><en>turn upside down (by hand)</en></def></sense></entry>
+<entry><form>animikkoweːpinaːn</form><pos>v</pos><sense><def><en>turn upside down (by hand)</en></def></sense></entry>
+<entry><form>animikkoweːpiškaːn</form><pos>v</pos><sense><def><en>turn upside down (by foot)</en></def></sense></entry>
+<entry><form>animikkoweːpiškaw</form><pos>v</pos><sense><def><en>turn upside down (by foot)</en></def></sense></entry>
+<entry><form>animoːkkaːčiːnqikamikw</form><pos>n</pos><sense><def><en>dog house</en></def></sense></entry>
+<entry><form>animokamikw</form><pos>n</pos><sense><def><en>doghouse, kennel</en></def></sense></entry>
+<entry><form>animošš</form><pos>n</pos><sense><def><en>dog</en></def></sense></entry>
+<entry><form>animw</form><pos>n</pos><sense><def><en>dog</en></def></sense></entry>
+<entry><form>animweːweːššin</form><pos>v</pos><sense><def><en>be heard going away</en></def></sense></entry>
+<entry><form>animweːwitam</form><pos>v</pos><sense><def><en>go away talking</en></def></sense></entry>
+<entry><form>aninaːttikw</form><pos>n</pos><sense><def><en>maple-tree</en></def></sense></entry>
+<entry><form>aninaːttikwaːpoː</form><pos>n</pos><sense><def><en>maple sap</en></def></sense></entry>
+<entry><form>aniniːmiːkkanoːt</form><pos>n</pos><sense><def><en>man's trousers, underwear</en></def></sense></entry>
+<entry><form>aniniːwaːppineː</form><pos>v</pos><sense><def><en>be manman-crazycrazy(a sexual term)</en></def></sense></entry>
+<entry><form>aniniːwi</form><pos>v</pos><sense><def><en>become a man</en></def></sense></entry>
+<entry><form>aniniw</form><pos>n</pos><sense><def><en>man</en></def></sense></entry>
+<entry><form>aniššaː</form><pos>NIL</pos><sense><def><en>all for nothing; to noavail</en></def></sense></entry>
+<entry><form>anišši</form><pos>NIL</pos><sense><def><en>ordinary, unseasoned</en></def></sense></entry>
+<entry><form>aniššinaːpeː</form><pos>n</pos><sense><def><en>indian</en></def></sense></entry>
+<entry><form>aniššinaːpeːkkweː</form><pos>n</pos><sense><def><en>indian woman</en></def></sense></entry>
+<entry><form>aniššinaːpeːmo</form><pos>v</pos><sense><def><en>speak the indian language (ojibwa)</en></def></sense></entry>
+<entry><form>aniššinaːpeːmottaw</form><pos>v</pos><sense><def><en>talk in indian about something to someone</en></def></sense></entry>
+<entry><form>aniššinaːpeːmowin</form><pos>n</pos><sense><def><en>indian speech, language</en></def></sense></entry>
+<entry><form>aniššinaːpeːpiːqikeː</form><pos>v</pos><sense><def><en>write things re indian language</en></def></sense></entry>
+<entry><form>aniššinaːpeːwi</form><pos>v</pos><sense><def><en>be an indian</en></def></sense></entry>
+<entry><form>anitty</form><pos>n</pos><sense><def><en>spear</en></def></sense></entry>
+<entry><form>aniwikim</form><pos>v</pos><sense><def><en>outgrow someone</en></def></sense></entry>
+<entry><form>aniwikintaːn</form><pos>v</pos><sense><def><en>outgrow something</en></def></sense></entry>
+<entry><form>aniwiq</form><pos>v</pos><sense><def><en>precede, surpass, beat someone</en></def></sense></entry>
+<entry><form>aniwiškaːn</form><pos>v</pos><sense><def><en>precede, overcome, surpass something</en></def></sense></entry>
+<entry><form>aniwiškaw</form><pos>v</pos><sense><def><en>precede, surpass someone</en></def></sense></entry>
+<entry><form>anoːkkiː</form><pos>v</pos><sense><def><en>commission something to be done</en></def></sense></entry>
+<entry><form>anoːn</form><pos>v</pos><sense><def><en>hire someone, ask (a favour)</en></def></sense></entry>
+<entry><form>anoːšiweː</form><pos>v</pos><sense><def><en>hire people</en></def></sense></entry>
+<entry><form>anoːtaːkan</form><pos>n</pos><sense><def><en>messenger</en></def></sense></entry>
+<entry><form>anoːtaːn</form><pos>v</pos><sense><def><en>hire</en></def></sense></entry>
+<entry><form>anoːtamaw</form><pos>v</pos><sense><def><en>hire something for someone</en></def></sense></entry>
+<entry><form>anoːttaːkeː</form><pos>v</pos><sense><def><en>repeat what was heard</en></def></sense></entry>
+<entry><form>anoːttaw</form><pos>v</pos><sense><def><en>quote someone, repeat someone's words</en></def></sense></entry>
+<entry><form>anokkaːn</form><pos>v</pos><sense><def><en>make use of someone</en></def></sense></entry>
+<entry><form>anokkaːtaːn</form><pos>v</pos><sense><def><en>serve, take care of something</en></def></sense></entry>
+<entry><form>anokkiː</form><pos>v</pos><sense><def><en>start up, work (e.g. a boat)</en></def></sense></entry>
+<entry><form>anokkiː</form><pos>v</pos><sense><def><en>work</en></def></sense></entry>
+<entry><form>anokkiːm</form><pos>v</pos><sense><def><en>work with someone (with pv w1jiwork)</en></def></sense></entry>
+<entry><form>anokkiːmakat</form><pos>v</pos><sense><def><en>it works, does work</en></def></sense></entry>
+<entry><form>anokkiːq</form><pos>v</pos><sense><def><en>make, get to work</en></def></sense></entry>
+<entry><form>anokkiːttaːn</form><pos>v</pos><sense><def><en>serve, take care of something</en></def></sense></entry>
+<entry><form>anokkiːttaːso</form><pos>v</pos><sense><def><en>work for self</en></def></sense></entry>
+<entry><form>anokkiːttamaw</form><pos>v</pos><sense><def><en>make, get something to work for someone</en></def></sense></entry>
+<entry><form>anokkiːttaw</form><pos>v</pos><sense><def><en>work for someone</en></def></sense></entry>
+<entry><form>anokkiːttoːn</form><pos>v</pos><sense><def><en>cause, get something to work</en></def></sense></entry>
+<entry><form>anokkiːttoːn</form><pos>v</pos><sense><def><en>cause, get something to work</en></def></sense></entry>
+<entry><form>anokkiːwin</form><pos>n</pos><sense><def><en>engine, work</en></def></sense></entry>
+<entry><form>ansappin</form><pos>v</pos><sense><def><en>bind together</en></def></sense></entry>
+<entry><form>anwaːttin</form><pos>v</pos><sense><def><en>it is calm, no wind</en></def></sense></entry>
+<entry><form>anweːm</form><pos>v</pos><sense><def><en>be related to someone</en></def></sense></entry>
+<entry><form>anweːpi</form><pos>v</pos><sense><def><en>rest</en></def></sense></entry>
+<entry><form>anwy</form><pos>n</pos><sense><def><en>bullet</en></def></sense></entry>
+<entry><form>apašy</form><pos>n</pos><sense><def><en>squared timber, rafter, stud</en></def></sense></entry>
+<entry><form>api</form><pos>v</pos><sense><def><en>be in a place, lie dead</en></def></sense></entry>
+<entry><form>apiːttaːn</form><pos>v</pos><sense><def><en>inhabit, dwell in something</en></def></sense></entry>
+<entry><form>apiːttaw</form><pos>v</pos><sense><def><en>dwell in someone</en></def></sense></entry>
+<entry><form>apičakkissiw</form><pos>n</pos><sense><def><en>goose (domestic)</en></def></sense></entry>
+<entry><form>apisaːn</form><pos>v</pos><sense><def><en>warm up</en></def></sense></entry>
+<entry><form>apiseːkkweː</form><pos>v</pos><sense><def><en>warm up (something)</en></def></sense></entry>
+<entry><form>apisw</form><pos>v</pos><sense><def><en>warm up</en></def></sense></entry>
+<entry><form>apiwin</form><pos>n</pos><sense><def><en>habitation</en></def></sense></entry>
+<entry><form>appaːq</form><pos>v</pos><sense><def><en>wake someone, keep someone awake</en></def></sense></entry>
+<entry><form>appakantaːppi</form><pos>v</pos><sense><def><en>fall down from laughing</en></def></sense></entry>
+<entry><form>appakantaːtteː</form><pos>v</pos><sense><def><en>be sunny, the sun shines through</en></def></sense></entry>
+<entry><form>appakantakanaːm</form><pos>v</pos><sense><def><en>knock someone down (e.g. with a punch)</en></def></sense></entry>
+<entry><form>appakin</form><pos>v</pos><sense><def><en>throw someone</en></def></sense></entry>
+<entry><form>appakiso</form><pos>v</pos><sense><def><en>throw oneself</en></def></sense></entry>
+<entry><form>appakitaːn</form><pos>v</pos><sense><def><en>throw something</en></def></sense></entry>
+<entry><form>appakitaw</form><pos>v</pos><sense><def><en>throw something to someone</en></def></sense></entry>
+<entry><form>appakkoːčikeː</form><pos>v</pos><sense><def><en>make a roof</en></def></sense></entry>
+<entry><form>appakkoːteː</form><pos>v</pos><sense><def><en>be covered, roofed</en></def></sense></entry>
+<entry><form>appakkwaːn</form><pos>n</pos><sense><def><en>roof</en></def></sense></entry>
+<entry><form>appakkwaːniːkin</form><pos>n</pos><sense><def><en>canvass cover</en></def></sense></entry>
+<entry><form>appakkway</form><pos>n</pos><sense><def><en>mat, lodge mat</en></def></sense></entry>
+<entry><form>appakkwayaškw</form><pos>n</pos><sense><def><en>reed, rush</en></def></sense></entry>
+<entry><form>appakkweːn</form><pos>v</pos><sense><def><en>use something as roofing material</en></def></sense></entry>
+<entry><form>appankančiː</form><pos>v</pos><sense><def><en>lodge; stay temporarily</en></def></sense></entry>
+<entry><form>appapi</form><pos>v</pos><sense><def><en>sit on</en></def></sense></entry>
+<entry><form>appapin</form><pos>v</pos><sense><def><en>sit on (with anim or inan object)</en></def></sense></entry>
+<entry><form>appapiwin</form><pos>n</pos><sense><def><en>chair</en></def></sense></entry>
+<entry><form>appaqiti</form><pos>v</pos><sense><def><en>run (pl. subj. only)</en></def></sense></entry>
+<entry><form>appaškwaːčiːnq</form><pos>n</pos><sense><def><en>balloon</en></def></sense></entry>
+<entry><form>appaskiːpiː</form><pos>v</pos><sense><def><en>flail about</en></def></sense></entry>
+<entry><form>appattoː</form><pos>v</pos><sense><def><en>run</en></def></sense></entry>
+<entry><form>appeːnimoːn</form><pos>v</pos><sense><def><en>rely on something</en></def></sense></entry>
+<entry><form>appeːnimoːwin</form><pos>n</pos><sense><def><en>hope, trust, reliance</en></def></sense></entry>
+<entry><form>appeːnimontaw</form><pos>v</pos><sense><def><en>rely on; depend on.</en></def></sense></entry>
+<entry><form>appiː</form><pos>NIL</pos><sense><def><en>when</en></def></sense></entry>
+<entry><form>appiːččaː</form><pos>v</pos><sense><def><en>be of such a distance</en></def></sense></entry>
+<entry><form>appiːčči</form><pos>NIL</pos><sense><def><en>in the process of</en></def></sense></entry>
+<entry><form>appiːččiki</form><pos>v</pos><sense><def><en>be in the process of</en></def></sense></entry>
+<entry><form>appiːččikitaːso</form><pos>v</pos><sense><def><en>be angry to a certain extent</en></def></sense></entry>
+<entry><form>appiːččin</form><pos>NIL</pos><sense><def><en>continually; from time to time</en></def></sense></entry>
+<entry><form>appiːččinan</form><pos>v</pos><sense><def><en>keep on killing</en></def></sense></entry>
+<entry><form>appiːččittaː</form><pos>v</pos><sense><def><en>be fully occupied with something</en></def></sense></entry>
+<entry><form>appiːhteːntaːkwat</form><pos>v</pos><sense><def><en>it is worth</en></def></sense></entry>
+<entry><form>appiːskaː</form><pos>v</pos><sense><def><en>follow a route, be on one's way</en></def></sense></entry>
+<entry><form>appiːssikkaː</form><pos>v</pos><sense><def><en>it is coming on</en></def></sense></entry>
+<entry><form>appiːssinaːkot</form><pos>v</pos><sense><def><en>seem at this stage</en></def></sense></entry>
+<entry><form>appiːttaː</form><pos>v</pos><sense><def><en>be so high</en></def></sense></entry>
+<entry><form>appiːttaːkonakaː</form><pos>v</pos><sense><def><en>the snow is so deep</en></def></sense></entry>
+<entry><form>appiːttaːkonakiː</form><pos>v</pos><sense><def><en>walk in snow of a certain depth</en></def></sense></entry>
+<entry><form>appiːttaːppi</form><pos>v</pos><sense><def><en>laugh to such an extent</en></def></sense></entry>
+<entry><form>appiːttanikosi</form><pos>v</pos><sense><def><en>be of a certain weight</en></def></sense></entry>
+<entry><form>appiːtteːnim</form><pos>v</pos><sense><def><en>esteem, respect someone</en></def></sense></entry>
+<entry><form>appiːtteːntaːkosi</form><pos>v</pos><sense><def><en>be worthy, be valued</en></def></sense></entry>
+<entry><form>appiːtteːntaːn</form><pos>v</pos><sense><def><en>esteem, value something</en></def></sense></entry>
+<entry><form>appiːtteːnti</form><pos>v</pos><sense><def><en>be away a certain length of time</en></def></sense></entry>
+<entry><form>appiːttinikwat</form><pos>v</pos><sense><def><en>it weighs so much</en></def></sense></entry>
+<entry><form>appiːttisi</form><pos>v</pos><sense><def><en>be of such an age</en></def></sense></entry>
+<entry><form>appiːttiso</form><pos>v</pos><sense><def><en>be in process of being cooked</en></def></sense></entry>
+<entry><form>appiːttiteː</form><pos>v</pos><sense><def><en>be in process of being cooked</en></def></sense></entry>
+<entry><form>appiːttoːteː</form><pos>v</pos><sense><def><en>crawl on, continue crawling</en></def></sense></entry>
+<entry><form>appiččiːwi</form><pos>v</pos><sense><def><en>be become a robin</en></def></sense></entry>
+<entry><form>appikančiː</form><pos>v</pos><sense><def><en>stay in a place, take shelter</en></def></sense></entry>
+<entry><form>appikkweːššimoːn</form><pos>v</pos><sense><def><en>lay one's head on something</en></def></sense></entry>
+<entry><form>appikkweːššimon</form><pos>n</pos><sense><def><en>pillow</en></def></sense></entry>
+<entry><form>appikkweːššimon</form><pos>v</pos><sense><def><en>rest, lay one's head on something</en></def></sense></entry>
+<entry><form>appikkweːššimoq</form><pos>v</pos><sense><def><en>let someone use something as a pillow</en></def></sense></entry>
+<entry><form>appiššimon</form><pos>v</pos><sense><def><en>lie on</en></def></sense></entry>
+<entry><form>appiššimowaːnq</form><pos>n</pos><sense><def><en>old mattress</en></def></sense></entry>
+<entry><form>appiššimowin</form><pos>n</pos><sense><def><en>mattress</en></def></sense></entry>
+<entry><form>appiso</form><pos>v</pos><sense><def><en>fly</en></def></sense></entry>
+<entry><form>appissikkaː</form><pos>v</pos><sense><def><en>walk as fast as possible</en></def></sense></entry>
+<entry><form>appiteː</form><pos>v</pos><sense><def><en>fly</en></def></sense></entry>
+<entry><form>appitoːn</form><pos>v</pos><sense><def><en>handle something in a certain way</en></def></sense></entry>
+<entry><form>appitoːn</form><pos>v</pos><sense><def><en>handle, something in a certain way</en></def></sense></entry>
+<entry><form>apwaːnaːkk</form><pos>n</pos><sense><def><en>spit for roasting</en></def></sense></entry>
+<entry><form>apweːn</form><pos>v</pos><sense><def><en>roast, cook on coals</en></def></sense></entry>
+<entry><form>apweːn</form><pos>v</pos><sense><def><en>roast, cook on coals</en></def></sense></entry>
+<entry><form>apweːso</form><pos>v</pos><sense><def><en>perspire, sweat</en></def></sense></entry>
+<entry><form>apwy</form><pos>n</pos><sense><def><en>paddle, propeller</en></def></sense></entry>
+<entry><form>ašaːwaškosi</form><pos>v</pos><sense><def><en>be blue, green</en></def></sense></entry>
+<entry><form>ašaːwaškwaː</form><pos>v</pos><sense><def><en>be blue, green</en></def></sense></entry>
+<entry><form>ašaški</form><pos>n</pos><sense><def><en>mud</en></def></sense></entry>
+<entry><form>ašaškiwikki</form><pos>n</pos><sense><def><en>muddy ground</en></def></sense></entry>
+<entry><form>ašaweːškw</form><pos>n</pos><sense><def><en>sword</en></def></sense></entry>
+<entry><form>ašeːkaːpawi</form><pos>v</pos><sense><def><en>step back</en></def></sense></entry>
+<entry><form>ašeːkanaːm</form><pos>v</pos><sense><def><en>push someone back violently</en></def></sense></entry>
+<entry><form>ašeːkkaw</form><pos>v</pos><sense><def><en>push someone back</en></def></sense></entry>
+<entry><form>ašeːn</form><pos>v</pos><sense><def><en>return someone, send them back</en></def></sense></entry>
+<entry><form>ašeːnaːn</form><pos>v</pos><sense><def><en>return something</en></def></sense></entry>
+<entry><form>ašeːnamaw</form><pos>v</pos><sense><def><en>return something to someone</en></def></sense></entry>
+<entry><form>ašeːpattoː</form><pos>v</pos><sense><def><en>run backwards</en></def></sense></entry>
+<entry><form>ašeːpoyeː</form><pos>v</pos><sense><def><en>row in a canoe or boat</en></def></sense></entry>
+<entry><form>ašeːškaw</form><pos>v</pos><sense><def><en>push someone back</en></def></sense></entry>
+<entry><form>ašeːsseː</form><pos>v</pos><sense><def><en>slide back</en></def></sense></entry>
+<entry><form>ašeːtaːpaːtaːn</form><pos>v</pos><sense><def><en>drag something back; restrain</en></def></sense></entry>
+<entry><form>ašeːttaː</form><pos>v</pos><sense><def><en>move backwards, draw back</en></def></sense></entry>
+<entry><form>ašeːyaːšši</form><pos>v</pos><sense><def><en>be driven back by the wind</en></def></sense></entry>
+<entry><form>ašeːyaːssin</form><pos>v</pos><sense><def><en>be driven back by wind</en></def></sense></entry>
+<entry><form>ašikan</form><pos>n</pos><sense><def><en>sock, stocking</en></def></sense></entry>
+<entry><form>aškaːkkotiyeːpi</form><pos>v</pos><sense><def><en>have tired backside from sitting</en></def></sense></entry>
+<entry><form>aškaːttik</form><pos>n</pos><sense><def><en>piece of green wood</en></def></sense></entry>
+<entry><form>aškeːntam</form><pos>v</pos><sense><def><en>be anxious, worried</en></def></sense></entry>
+<entry><form>aški</form><pos>NIL</pos><sense><def><en>first, beginning</en></def></sense></entry>
+<entry><form>aški</form><pos>NIL</pos><sense><def><en>raw, fresh</en></def></sense></entry>
+<entry><form>aškiːkin</form><pos>n</pos><sense><def><en>rawhide</en></def></sense></entry>
+<entry><form>aškikaːpawi</form><pos>v</pos><sense><def><en>be standing</en></def></sense></entry>
+<entry><form>aškikkomaːn</form><pos>n</pos><sense><def><en>lead</en></def></sense></entry>
+<entry><form>aškikkomaːneːnss</form><pos>n</pos><sense><def><en>little piece of lead bullet</en></def></sense></entry>
+<entry><form>aškin</form><pos>v</pos><sense><def><en>it is raw</en></def></sense></entry>
+<entry><form>aškinaweː</form><pos>n</pos><sense><def><en>young person</en></def></sense></entry>
+<entry><form>aškisiteː</form><pos>v</pos><sense><def><en>have tired feet</en></def></sense></entry>
+<entry><form>aškisiteːkaːpawi</form><pos>v</pos><sense><def><en>have tired feet from standing</en></def></sense></entry>
+<entry><form>aškom</form><pos>v</pos><sense><def><en>eat and leave part of something over</en></def></sense></entry>
+<entry><form>aškon</form><pos>v</pos><sense><def><en>leave behind</en></def></sense></entry>
+<entry><form>aškonaːn</form><pos>v</pos><sense><def><en>leave behind</en></def></sense></entry>
+<entry><form>aškonamaw</form><pos>v</pos><sense><def><en>leave something behind for someone</en></def></sense></entry>
+<entry><form>aškončikan</form><pos>n</pos><sense><def><en>left overs from eating</en></def></sense></entry>
+<entry><form>aškonikan</form><pos>n</pos><sense><def><en>reserve, reservation</en></def></sense></entry>
+<entry><form>aškonikeː</form><pos>v</pos><sense><def><en>leave behind</en></def></sense></entry>
+<entry><form>aškontaːn</form><pos>v</pos><sense><def><en>eat and leave part of something over</en></def></sense></entry>
+<entry><form>aškošaːn</form><pos>v</pos><sense><def><en>cut and leave part of something over</en></def></sense></entry>
+<entry><form>aškošikan</form><pos>n</pos><sense><def><en>the remnants (from cutting)</en></def></sense></entry>
+<entry><form>aškošw</form><pos>v</pos><sense><def><en>cut and leave part of something over</en></def></sense></entry>
+<entry><form>aškwaː</form><pos>NIL</pos><sense><def><en>after, through</en></def></sense></entry>
+<entry><form>aškwaːaːpitisi</form><pos>v</pos><sense><def><en>be no longer of use</en></def></sense></entry>
+<entry><form>aškwaːč</form><pos>NIL</pos><sense><def><en>the last time</en></def></sense></entry>
+<entry><form>aškwaːkiso</form><pos>v</pos><sense><def><en>it is the end of the month</en></def></sense></entry>
+<entry><form>aškwaːkkamikat</form><pos>v</pos><sense><def><en>be over (event, party)</en></def></sense></entry>
+<entry><form>aškwaːnteːm</form><pos>n</pos><sense><def><en>door, doorway</en></def></sense></entry>
+<entry><form>aškweːyaːynk</form><pos>NIL</pos><sense><def><en>behind; in the past</en></def></sense></entry>
+<entry><form>aškweːyink</form><pos>NIL</pos><sense><def><en>at the end; last in line</en></def></sense></entry>
+<entry><form>ašpaː</form><pos>v</pos><sense><def><en>be high</en></def></sense></entry>
+<entry><form>ašpaːkonakaː</form><pos>v</pos><sense><def><en>the snow is deep</en></def></sense></entry>
+<entry><form>ašpaːq</form><pos>v</pos><sense><def><en>raise, make high(er)</en></def></sense></entry>
+<entry><form>ašpaːttamaw</form><pos>v</pos><sense><def><en>make something high for someone</en></def></sense></entry>
+<entry><form>ašpaːttoːn</form><pos>v</pos><sense><def><en>raise, make high(er)</en></def></sense></entry>
+<entry><form>ašpakkamikaː</form><pos>v</pos><sense><def><en>be high ground</en></def></sense></entry>
+<entry><form>ašpaškaː</form><pos>v</pos><sense><def><en>be high (e.g. grass)</en></def></sense></entry>
+<entry><form>ašpatinaː</form><pos>v</pos><sense><def><en>it's a high hill</en></def></sense></entry>
+<entry><form>ašpimink</form><pos>NIL</pos><sense><def><en>above, upstairs</en></def></sense></entry>
+<entry><form>ašpimissakonk</form><pos>NIL</pos><sense><def><en>upstairs, in the attic</en></def></sense></entry>
+<entry><form>ašpin</form><pos>v</pos><sense><def><en>raise</en></def></sense></entry>
+<entry><form>ašpinaːn</form><pos>v</pos><sense><def><en>raise</en></def></sense></entry>
+<entry><form>ašpisi</form><pos>v</pos><sense><def><en>be high</en></def></sense></entry>
+<entry><form>aššakwaːtaːn</form><pos>v</pos><sense><def><en>vomit up something</en></def></sense></entry>
+<entry><form>aššakweː</form><pos>v</pos><sense><def><en>vomit</en></def></sense></entry>
+<entry><form>aššakweːsikan</form><pos>n</pos><sense><def><en>medecine to induce vomiting</en></def></sense></entry>
+<entry><form>aššakweːsw</form><pos>v</pos><sense><def><en>to cause someone to vomit</en></def></sense></entry>
+<entry><form>aššam</form><pos>v</pos><sense><def><en>feed</en></def></sense></entry>
+<entry><form>aššamaːwasso</form><pos>v</pos><sense><def><en>feed one,s offspring</en></def></sense></entry>
+<entry><form>aššamaːwasson</form><pos>v</pos><sense><def><en>feed something to one,s offspring</en></def></sense></entry>
+<entry><form>aššankeː</form><pos>v</pos><sense><def><en>feed people</en></def></sense></entry>
+<entry><form>aššantaːn</form><pos>v</pos><sense><def><en>feed something</en></def></sense></entry>
+<entry><form>aššaššaweːyink</form><pos>NIL</pos><sense><def><en>on each side</en></def></sense></entry>
+<entry><form>aššaweːkkana</form><pos>NIL</pos><sense><def><en>at the side of the road</en></def></sense></entry>
+<entry><form>aššaweːnqiːnk</form><pos>NIL</pos><sense><def><en>alongside</en></def></sense></entry>
+<entry><form>aššaweːpin</form><pos>v</pos><sense><def><en>tilt something, one</en></def></sense></entry>
+<entry><form>aššaweːpiso</form><pos>v</pos><sense><def><en>be tilted</en></def></sense></entry>
+<entry><form>aššaweːpitoːn</form><pos>v</pos><sense><def><en>tilt something</en></def></sense></entry>
+<entry><form>aššaweːškaː</form><pos>v</pos><sense><def><en>be tilted</en></def></sense></entry>
+<entry><form>aššaweːššin</form><pos>v</pos><sense><def><en>be on one's side</en></def></sense></entry>
+<entry><form>aššaweːssin</form><pos>v</pos><sense><def><en>be on its side</en></def></sense></entry>
+<entry><form>aššaweːtiyeːššiš</form><pos>v</pos><sense><def><en>lie on side with ass sticking out</en></def></sense></entry>
+<entry><form>aššaweːyink</form><pos>NIL</pos><sense><def><en>on the side</en></def></sense></entry>
+<entry><form>aššikan</form><pos>n</pos><sense><def><en>bass (probably the black bass)</en></def></sense></entry>
+<entry><form>aššitaːkkoppiso</form><pos>v</pos><sense><def><en>be tied fast, be fastened</en></def></sense></entry>
+<entry><form>asamwaːkkopičik</form><pos>n</pos><sense><def><en>tentframe, tripod for cooking</en></def></sense></entry>
+<entry><form>askakkiːqikeː</form><pos>v</pos><sense><def><en>be a support, bestman, bridesmaid</en></def></sense></entry>
+<entry><form>askanisi</form><pos>v</pos><sense><def><en>be thin, lean</en></def></sense></entry>
+<entry><form>askoːnikamikw</form><pos>n</pos><sense><def><en>schoolhouse</en></def></sense></entry>
+<entry><form>ass</form><pos>v</pos><sense><def><en>put, place</en></def></sense></entry>
+<entry><form>assaːkkamik</form><pos>n</pos><sense><def><en>moss (on the ground)</en></def></sense></entry>
+<entry><form>assaːweː</form><pos>n</pos><sense><def><en>perch (a kind of fish)</en></def></sense></entry>
+<entry><form>assameːkakiːnawiški</form><pos>v</pos><sense><def><en>tell lies in different ways</en></def></sense></entry>
+<entry><form>assameːyaːčimo</form><pos>v</pos><sense><def><en>talk about different things</en></def></sense></entry>
+<entry><form>assančikon</form><pos>n</pos><sense><def><en>root cellar</en></def></sense></entry>
+<entry><form>assapaːpy</form><pos>n</pos><sense><def><en>rope</en></def></sense></entry>
+<entry><form>assapiːkkeː</form><pos>v</pos><sense><def><en>make nets</en></def></sense></entry>
+<entry><form>assapy</form><pos>n</pos><sense><def><en>net</en></def></sense></entry>
+<entry><form>assassawin</form><pos>n</pos><sense><def><en>nest</en></def></sense></entry>
+<entry><form>assassawinikkeː</form><pos>v</pos><sense><def><en>make a nest</en></def></sense></entry>
+<entry><form>asseːmaː</form><pos>n</pos><sense><def><en>tobacco</en></def></sense></entry>
+<entry><form>asseːmaːkkeː</form><pos>v</pos><sense><def><en>work with tobacco</en></def></sense></entry>
+<entry><form>assinaːmišy</form><pos>n</pos><sense><def><en>maple</en></def></sense></entry>
+<entry><form>assiniːkkaː</form><pos>v</pos><sense><def><en>it is stony, full of stones</en></def></sense></entry>
+<entry><form>assiniːns</form><pos>n</pos><sense><def><en>small stone, pebble</en></def></sense></entry>
+<entry><form>assiniːwaːkaːkkotw</form><pos>n</pos><sense><def><en>stoneaxe</en></def></sense></entry>
+<entry><form>assiniːwi</form><pos>v</pos><sense><def><en>become stone, be petrified</en></def></sense></entry>
+<entry><form>assiniwačiw</form><pos>n</pos><sense><def><en>rocky mountains</en></def></sense></entry>
+<entry><form>assiny</form><pos>n</pos><sense><def><en>stone</en></def></sense></entry>
+<entry><form>assipoːčikan</form><pos>n</pos><sense><def><en>file, whetstone</en></def></sense></entry>
+<entry><form>assipoːtaw</form><pos>v</pos><sense><def><en>whet, sharpen something for someone</en></def></sense></entry>
+<entry><form>assipoːtoːn</form><pos>v</pos><sense><def><en>make sharp by filing, wheting</en></def></sense></entry>
+<entry><form>assippinikan</form><pos>n</pos><sense><def><en>scissors</en></def></sense></entry>
+<entry><form>assossonaːmiškaw</form><pos>v</pos><sense><def><en>make someone cough</en></def></sense></entry>
+<entry><form>assossotam</form><pos>v</pos><sense><def><en>cough</en></def></sense></entry>
+<entry><form>assossotamoːkkaːso</form><pos>v</pos><sense><def><en>pretend to have coughing spell</en></def></sense></entry>
+<entry><form>assweːškaː</form><pos>v</pos><sense><def><en>be dispersed, scattered</en></def></sense></entry>
+<entry><form>ataːmeːntaːn</form><pos>v</pos><sense><def><en>suspect, blame something</en></def></sense></entry>
+<entry><form>ataːssowin</form><pos>n</pos><sense><def><en>cupboard, pantry</en></def></sense></entry>
+<entry><form>ataːwaːkan</form><pos>n</pos><sense><def><en>object of exchange; fur or skins</en></def></sense></entry>
+<entry><form>ataːwam</form><pos>v</pos><sense><def><en>borrow from someone</en></def></sense></entry>
+<entry><form>ataːwankeː</form><pos>v</pos><sense><def><en>borrow</en></def></sense></entry>
+<entry><form>ataːwankeːn</form><pos>v</pos><sense><def><en>borrow</en></def></sense></entry>
+<entry><form>ataːweː</form><pos>v</pos><sense><def><en>trade, sell</en></def></sense></entry>
+<entry><form>ataːweːn</form><pos>v</pos><sense><def><en>trade, sell something</en></def></sense></entry>
+<entry><form>ataːweːwikamikw</form><pos>n</pos><sense><def><en>store</en></def></sense></entry>
+<entry><form>atapy</form><pos>n</pos><sense><def><en>willow</en></def></sense></entry>
+<entry><form>atikkomeːkw</form><pos>n</pos><sense><def><en>whitefish</en></def></sense></entry>
+<entry><form>atim</form><pos>v</pos><sense><def><en>catch up, overtake someone</en></def></sense></entry>
+<entry><form>atimineːqw</form><pos>v</pos><sense><def><en>catch up to someone, overtake</en></def></sense></entry>
+<entry><form>atintaːn</form><pos>v</pos><sense><def><en>overtake something</en></def></sense></entry>
+<entry><form>atitteː</form><pos>v</pos><sense><def><en>it is dyed</en></def></sense></entry>
+<entry><form>atoːppon</form><pos>v</pos><sense><def><en>eat from</en></def></sense></entry>
+<entry><form>atoːppowinaːkkw</form><pos>n</pos><sense><def><en>table</en></def></sense></entry>
+<entry><form>atoːppowiniːkin</form><pos>n</pos><sense><def><en>tablecloth</en></def></sense></entry>
+<entry><form>attaːkeː</form><pos>v</pos><sense><def><en>play at a game/gamble</en></def></sense></entry>
+<entry><form>attaːsso</form><pos>v</pos><sense><def><en>store something</en></def></sense></entry>
+<entry><form>attaːssoːwikamikw</form><pos>n</pos><sense><def><en>storage shed</en></def></sense></entry>
+<entry><form>attahaː</form><pos>NIL</pos><sense><def><en>interjection (used by men)</en></def></sense></entry>
+<entry><form>attamaw</form><pos>v</pos><sense><def><en>place something on or for someone</en></def></sense></entry>
+<entry><form>attaw</form><pos>v</pos><sense><def><en>challenge; play (at a game)</en></def></sense></entry>
+<entry><form>atteː</form><pos>v</pos><sense><def><en>be somewhere</en></def></sense></entry>
+<entry><form>attoːn</form><pos>v</pos><sense><def><en>put, place</en></def></sense></entry>
+<entry><form>attottaːkan</form><pos>n</pos><sense><def><en>bell</en></def></sense></entry>
+<entry><form>attottaːkanikamikw</form><pos>n</pos><sense><def><en>belfry</en></def></sense></entry>
+<entry><form>aw</form><pos>v</pos><sense><def><en>use someone</en></def></sense></entry>
+<entry><form>awaːsišš</form><pos>n</pos><sense><def><en>child</en></def></sense></entry>
+<entry><form>awan</form><pos>v</pos><sense><def><en>be misty/foggy</en></def></sense></entry>
+<entry><form>awan</form><pos>v</pos><sense><def><en>carry off</en></def></sense></entry>
+<entry><form>awan</form><pos>n</pos><sense><def><en>fog</en></def></sense></entry>
+<entry><form>awanipiːssaː</form><pos>v</pos><sense><def><en>drizzle during a mist</en></def></sense></entry>
+<entry><form>awaso</form><pos>v</pos><sense><def><en>warm oneself</en></def></sense></entry>
+<entry><form>awatoːn</form><pos>v</pos><sense><def><en>carry, convey something</en></def></sense></entry>
+<entry><form>aweːneːn</form><pos>n</pos><sense><def><en>who</en></def></sense></entry>
+<entry><form>aweːssiːnq</form><pos>n</pos><sense><def><en>animal</en></def></sense></entry>
+<entry><form>awiq</form><pos>v</pos><sense><def><en>lend to someone</en></def></sense></entry>
+<entry><form>awiqiweːn</form><pos>v</pos><sense><def><en>lend something</en></def></sense></entry>
+<entry><form>awiqiweːn</form><pos>v</pos><sense><def><en>lend something</en></def></sense></entry>
+<entry><form>awiqiweːwin</form><pos>n</pos><sense><def><en>lending</en></def></sense></entry>
+<entry><form>ayaː</form><pos>v</pos><sense><def><en>be in a certain place</en></def></sense></entry>
+<entry><form>ayaːkkwaːkkokaːteː</form><pos>v</pos><sense><def><en>have legs of certain length</en></def></sense></entry>
+<entry><form>ayaːkkwaːnakkwe</form><pos>v</pos><sense><def><en>have hair of a certain length</en></def></sense></entry>
+<entry><form>ayaːn</form><pos>v</pos><sense><def><en>have</en></def></sense></entry>
+<entry><form>ayaːpeː</form><pos>n</pos><sense><def><en>male</en></def></sense></entry>
+<entry><form>ayaːpittaː</form><pos>NIL</pos><sense><def><en>half each</en></def></sense></entry>
+<entry><form>ayaːw</form><pos>v</pos><sense><def><en>have</en></def></sense></entry>
+<entry><form>ayaːwin</form><pos>n</pos><sense><def><en>existence</en></def></sense></entry>
+<entry><form>ayeːkkokaːpawikkaːso</form><pos>v</pos><sense><def><en>pretend to be tired standing</en></def></sense></entry>
+<entry><form>ayeːkkokaːteː</form><pos>v</pos><sense><def><en>be tired in the legs</en></def></sense></entry>
+<entry><form>ayeːkkokwaːsso</form><pos>v</pos><sense><def><en>be tired from sewing</en></def></sense></entry>
+<entry><form>ayeːkkoq</form><pos>v</pos><sense><def><en>tire, cause to be tired</en></def></sense></entry>
+<entry><form>ayeːkkosi</form><pos>v</pos><sense><def><en>be tired</en></def></sense></entry>
+<entry><form>ayeːkkosiːwinaːnoki</form><pos>v</pos><sense><def><en>appear to be tired, look tired</en></def></sense></entry>
+<entry><form>ayeːkkosiwin</form><pos>n</pos><sense><def><en>tiredness, fatigue</en></def></sense></entry>
+<entry><form>ayi</form><pos>n</pos><sense><def><en>thing, object</en></def></sense></entry>
+<entry><form>ayoːn</form><pos>v</pos><sense><def><en>make use of something</en></def></sense></entry>
+<entry><form>ayoːwin</form><pos>n</pos><sense><def><en>any object used or employed</en></def></sense></entry>
+</lexicon>
+
+
+

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon lang="fox" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lexicon.xsd">
+<entry><form>aːčeːwiːwa</form><pos>v</pos><sense><def><en>he performs differently</en></def></sense></entry>
+<entry><form>aːči</form><pos>NIL</pos><sense><def><en>again, in addition</en></def></sense></entry>
+<entry><form>aːči</form><pos>NIL</pos><sense><def><en>in addition, again</en></def></sense></entry>
+<entry><form>aːčiːpiwa</form><pos>v</pos><sense><def><en>he sits leaning</en></def></sense></entry>
+<entry><form>aːčikeːwa</form><pos>v</pos><sense><def><en>he moves his dwelling</en></def></sense></entry>
+<entry><form>aːčimeːwa</form><pos>v</pos><sense><def><en>he tells him</en></def></sense></entry>
+<entry><form>aːčimekosiwa</form><pos>v</pos><sense><def><en>he is told about</en></def></sense></entry>
+<entry><form>aːčimetisowa</form><pos>v</pos><sense><def><en>he tells about himself</en></def></sense></entry>
+<entry><form>aːčimoːni</form><pos>n</pos><sense><def><en>tale</en></def></sense></entry>
+<entry><form>aːčimoheːwa</form><pos>v</pos><sense><def><en>he tells to him</en></def></sense></entry>
+<entry><form>aːčimohetiwaki</form><pos>v</pos><sense><def><en>they tell to each other</en></def></sense></entry>
+<entry><form>aːčimohtaweːwa</form><pos>v</pos><sense><def><en>he tells it for him, speaks for him</en></def></sense></entry>
+<entry><form>aːčimowa</form><pos>v</pos><sense><def><en>he narrates</en></def></sense></entry>
+<entry><form>aːčinehkamaːtisowa</form><pos>v</pos><sense><def><en>he is shortened?</en></def></sense></entry>
+<entry><form>aːčinehkamaweːwa</form><pos>v</pos><sense><def><en>he shortens it for him</en></def></sense></entry>
+<entry><form>aːčipanaːkiči</form><pos>NIL</pos><sense><def><en>all kinds</en></def></sense></entry>
+<entry><form>aːčipaneːwa</form><pos>v</pos><sense><def><en>he comes back to life?</en></def></sense></entry>
+<entry><form>aːčišinwa</form><pos>v</pos><sense><def><en>he moves his lying</en></def></sense></entry>
+<entry><form>aːhaːw</form><pos>NIL</pos><sense><def><en>excl?</en></def></sense></entry>
+<entry><form>aːhiwa</form><pos>v</pos><sense><def><en>he goes</en></def></sense></entry>
+<entry><form>aːhkoneːwa</form><pos>n</pos><sense><def><en>indian tobacco</en></def></sense></entry>
+<entry><form>aːhkwamatamwa</form><pos>v</pos><sense><def><en>he is ill</en></def></sense></entry>
+<entry><form>aːhkwamoːhiwa</form><pos>v</pos><sense><def><en>he is ill?</en></def></sense></entry>
+<entry><form>aːhkwamoːhkeːwa</form><pos>v</pos><sense><def><en>he has sickness in his family</en></def></sense></entry>
+<entry><form>aːhkwamoːweni</form><pos>n</pos><sense><def><en>sickness</en></def></sense></entry>
+<entry><form>aːhkwatwi</form><pos>v</pos><sense><def><en>it is a weapon</en></def></sense></entry>
+<entry><form>aːhkwikomeːwa</form><pos>v</pos><sense><def><en>he has a sharp beak</en></def></sense></entry>
+<entry><form>aːhkwipoːkwatoːtiwi</form><pos>v</pos><sense><def><en>it tastes sour</en></def></sense></entry>
+<entry><form>aːhkwiteːheːmikatwi</form><pos>v</pos><sense><def><en>it is sullen</en></def></sense></entry>
+<entry><form>aːhkwiteːheːwa</form><pos>v</pos><sense><def><en>he is sullen</en></def></sense></entry>
+<entry><form>aːhpatahowa</form><pos>v</pos><sense><def><en>he walks with a cane</en></def></sense></entry>
+<entry><form>aːhpaweːwa</form><pos>v</pos><sense><def><en>he dreams</en></def></sense></entry>
+<entry><form>aːhpeči</form><pos>NIL</pos><sense><def><en>for good, all the time</en></def></sense></entry>
+<entry><form>aːhpeči</form><pos>NIL</pos><sense><def><en>for good, all the time</en></def></sense></entry>
+<entry><form>aːhpečiːwa</form><pos>v</pos><sense><def><en>he goes for good</en></def></sense></entry>
+<entry><form>aːhpečimeːwa</form><pos>v</pos><sense><def><en>he tells him all the time</en></def></sense></entry>
+<entry><form>aːhpene</form><pos>NIL</pos><sense><def><en>all alike</en></def></sense></entry>
+<entry><form>aːhpeneːyaːwi</form><pos>NIL</pos><sense><def><en>on one side?</en></def></sense></entry>
+<entry><form>aːhpesehkeːwa</form><pos>v</pos><sense><def><en>he dies of a disease?</en></def></sense></entry>
+<entry><form>aːhpetaːpyeːsenwi</form><pos>v</pos><sense><def><en>it lies endless</en></def></sense></entry>
+<entry><form>aːhpetoseːwa</form><pos>v</pos><sense><def><en>he walks all the time</en></def></sense></entry>
+<entry><form>aːhteːsenwi</form><pos>v</pos><sense><def><en>it dies down as a blaze</en></def></sense></entry>
+<entry><form>aːhteneːwa</form><pos>v</pos><sense><def><en>he blames him</en></def></sense></entry>
+<entry><form>aːkwapiwa</form><pos>v</pos><sense><def><en>he sits in a group</en></def></sense></entry>
+<entry><form>aːkwi</form><pos>NIL</pos><sense><def><en>not (with negative verb), no</en></def></sense></entry>
+<entry><form>aːkwičiː</form><pos>NIL</pos><sense><def><en>so much?</en></def></sense></entry>
+<entry><form>aːkwineneːwa</form><pos>v</pos><sense><def><en>he refuses him?</en></def></sense></entry>
+<entry><form>aːkwiškahkiːwiwi</form><pos>v</pos><sense><def><en>it is muddy land</en></def></sense></entry>
+<entry><form>aːmanehkotaweːwa</form><pos>v</pos><sense><def><en>he woos her for him</en></def></sense></entry>
+<entry><form>aːmanoːwaːčimowa</form><pos>v</pos><sense><def><en>he talks lewdly</en></def></sense></entry>
+<entry><form>aːmanoːwiteːheːwa</form><pos>v</pos><sense><def><en>he lusts</en></def></sense></entry>
+<entry><form>aːmeːnaːkosiwa</form><pos>v</pos><sense><def><en>he pays attention?</en></def></sense></entry>
+<entry><form>aːmi</form><pos>NIL</pos><sense><def><en>manage to, be wont to</en></def></sense></entry>
+<entry><form>aːmiːwa</form><pos>v</pos><sense><def><en>he moves camp</en></def></sense></entry>
+<entry><form>aːmihetiwaki</form><pos>v</pos><sense><def><en>they move camp together</en></def></sense></entry>
+<entry><form>aːmihtahi</form><pos>NIL</pos><sense><def><en>customarily</en></def></sense></entry>
+<entry><form>aːmiweneːwa</form><pos>v</pos><sense><def><en>he moves him away</en></def></sense></entry>
+<entry><form>aːmoːwi</form><pos>n</pos><sense><def><en>honey</en></def></sense></entry>
+<entry><form>aːnaweːnemeːwa</form><pos>v</pos><sense><def><en>he gives him up</en></def></sense></entry>
+<entry><form>aːnawiheːwa</form><pos>v</pos><sense><def><en>he fails to get him</en></def></sense></entry>
+<entry><form>aːnawihowa</form><pos>v</pos><sense><def><en>he is unsuccessful</en></def></sense></entry>
+<entry><form>aːnawihtoːwa</form><pos>v</pos><sense><def><en>he fails to get it</en></def></sense></entry>
+<entry><form>aːnawineːwa</form><pos>v</pos><sense><def><en>he sneaks up to him</en></def></sense></entry>
+<entry><form>aːnehkoːči</form><pos>NIL</pos><sense><def><en>next in order</en></def></sense></entry>
+<entry><form>aːnehkoːhamwa</form><pos>v</pos><sense><def><en>he puts an addition on it</en></def></sense></entry>
+<entry><form>aːnehkwikiwa</form><pos>v</pos><sense><def><en>he grows to next generation</en></def></sense></entry>
+<entry><form>aːnemesiwa</form><pos>v</pos><sense><def><en>he is in a plight</en></def></sense></entry>
+<entry><form>aːnemiheːwa</form><pos>v</pos><sense><def><en>he puts him to straits</en></def></sense></entry>
+<entry><form>aːnemimeːwa</form><pos>v</pos><sense><def><en>he scolds him hard</en></def></sense></entry>
+<entry><form>aːnemiweːwa</form><pos>v</pos><sense><def><en>he is ill at ease</en></def></sense></entry>
+<entry><form>aːneta</form><pos>NIL</pos><sense><def><en>some of them</en></def></sense></entry>
+<entry><form>aːniya</form><pos>n</pos><sense><def><en>that one (unseen)</en></def></sense></entry>
+<entry><form>aːniyeːka</form><pos>n</pos><sense><def><en>those ones (unseen)</en></def></sense></entry>
+<entry><form>aːnoːhamwa</form><pos>v</pos><sense><def><en>he fails to deal with it by tool</en></def></sense></entry>
+<entry><form>aːnoːtamwa</form><pos>v</pos><sense><def><en>he cannot carry it on his back</en></def></sense></entry>
+<entry><form>aːnohtaweːwa</form><pos>v</pos><sense><def><en>he fails to hear him, denies request</en></def></sense></entry>
+<entry><form>aːnomeːwa</form><pos>v</pos><sense><def><en>he fails to persuade him</en></def></sense></entry>
+<entry><form>aːnosiwa</form><pos>v</pos><sense><def><en>he cannot eat more</en></def></sense></entry>
+<entry><form>aːnoweːwa</form><pos>v</pos><sense><def><en>he fails to persuade</en></def></sense></entry>
+<entry><form>aːnweːhtamwa</form><pos>v</pos><sense><def><en>he disbelieves, refuses it</en></def></sense></entry>
+<entry><form>aːnweːhtaweːwa</form><pos>v</pos><sense><def><en>he disbelieves, refuses him</en></def></sense></entry>
+<entry><form>aːnweːnemeːwa</form><pos>v</pos><sense><def><en>he thinks him bad</en></def></sense></entry>
+<entry><form>aːnweːnetaːkosiwa</form><pos>v</pos><sense><def><en>he is thought of as a failure</en></def></sense></entry>
+<entry><form>aːnwi</form><pos>NIL</pos><sense><def><en>unavailingly, fail to</en></def></sense></entry>
+<entry><form>aːnwiːhtaweːwa</form><pos>v</pos><sense><def><en>he fails to deal with him</en></def></sense></entry>
+<entry><form>aːnwiškwiweːhamwa</form><pos>v</pos><sense><def><en>he fails at stirring it</en></def></sense></entry>
+<entry><form>aːpehe</form><pos>NIL</pos><sense><def><en>always, often</en></def></sense></entry>
+<entry><form>aːpeheːnemeːwa</form><pos>v</pos><sense><def><en>he thinks of him fervently?</en></def></sense></entry>
+<entry><form>aːpehtawaːhkiːwe</form><pos>NIL</pos><sense><def><en>halfway down the hill</en></def></sense></entry>
+<entry><form>aːpehtawaːhkwe</form><pos>NIL</pos><sense><def><en>half the height of a tree</en></def></sense></entry>
+<entry><form>aːpehtawapahkwe</form><pos>NIL</pos><sense><def><en>halfway up to the roof</en></def></sense></entry>
+<entry><form>aːpehtawawahiːne</form><pos>NIL</pos><sense><def><en>half a year</en></def></sense></entry>
+<entry><form>aːpehtaweče</form><pos>NIL</pos><sense><def><en>up to the waist</en></def></sense></entry>
+<entry><form>aːpehtawi</form><pos>NIL</pos><sense><def><en>halfway, half</en></def></sense></entry>
+<entry><form>aːpemyaːwi</form><pos>v</pos><sense><def><en>it is sheltered from the wind</en></def></sense></entry>
+<entry><form>aːpesiwaneːhpweːwa</form><pos>v</pos><sense><def><en>restores him to life by breathing</en></def></sense></entry>
+<entry><form>aːpi</form><pos>NIL</pos><sense><def><en>go and perform act and then return</en></def></sense></entry>
+<entry><form>aːpičiː</form><pos>NIL</pos><sense><def><en>hurry up!</en></def></sense></entry>
+<entry><form>aːpihamaweːwa</form><pos>v</pos><sense><def><en>he unties it for him</en></def></sense></entry>
+<entry><form>aːpiškonamwa</form><pos>v</pos><sense><def><en>he unties it</en></def></sense></entry>
+<entry><form>aːpiškoneːwa</form><pos>v</pos><sense><def><en>he unties him</en></def></sense></entry>
+<entry><form>aːpiškwaːkwataweːwa</form><pos>v</pos><sense><def><en>he unties and lays it for him</en></def></sense></entry>
+<entry><form>aːpiškwisahtoːwa</form><pos>v</pos><sense><def><en>he flings it untied</en></def></sense></entry>
+<entry><form>aːpwanehkeːwa</form><pos>v</pos><sense><def><en>he unties a pack</en></def></sense></entry>
+<entry><form>aːšimeːwa</form><pos>v</pos><sense><def><en>he teachs him</en></def></sense></entry>
+<entry><form>aːšimetiwaki</form><pos>v</pos><sense><def><en>they teach each other</en></def></sense></entry>
+<entry><form>aːšišimoːhkeːwa</form><pos>v</pos><sense><def><en>she has a stillborn child</en></def></sense></entry>
+<entry><form>aːšita</form><pos>NIL</pos><sense><def><en>in return, in turn</en></def></sense></entry>
+<entry><form>aːšoːhkamwa</form><pos>v</pos><sense><def><en>he crosses it</en></def></sense></entry>
+<entry><form>aːšoːhowa</form><pos>v</pos><sense><def><en>he paddles across</en></def></sense></entry>
+<entry><form>aːšoːkaːseːwa</form><pos>v</pos><sense><def><en>he stumbles</en></def></sense></entry>
+<entry><form>aːšoːwaːhkiwe</form><pos>NIL</pos><sense><def><en>over the hill</en></def></sense></entry>
+<entry><form>aːšoːwaːnekoškamwa</form><pos>v</pos><sense><def><en>slings over shoulder, under other arm</en></def></sense></entry>
+<entry><form>aːšoːwaːnekwahaːteːhi</form><pos>n</pos><sense><def><en>cross-belt</en></def></sense></entry>
+<entry><form>aːšoːwaːškeːwa</form><pos>v</pos><sense><def><en>he flies across</en></def></sense></entry>
+<entry><form>aːšoːwaːsiːwa</form><pos>v</pos><sense><def><en>he climbs across</en></def></sense></entry>
+<entry><form>aːšoːwi</form><pos>NIL</pos><sense><def><en>over, beyond an obstruction or expanse</en></def></sense></entry>
+<entry><form>aːšoːwiːwa</form><pos>v</pos><sense><def><en>he crosses, fords</en></def></sense></entry>
+<entry><form>aːšoːwičimeːwa</form><pos>v</pos><sense><def><en>he swims across</en></def></sense></entry>
+<entry><form>aːsami</form><pos>NIL</pos><sense><def><en>upstream</en></def></sense></entry>
+<entry><form>aːsiyaːni</form><pos>n</pos><sense><def><en>breech clout</en></def></sense></entry>
+<entry><form>aːsoneːwa</form><pos>v</pos><sense><def><en>he supports him</en></def></sense></entry>
+<entry><form>aːt</form><pos>NIL</pos><sense><def><en>tell</en></def></sense></entry>
+<entry><form>aːtapiwa</form><pos>v</pos><sense><def><en>he moves his seat</en></def></sense></entry>
+<entry><form>aːtawaːšinwa</form><pos>v</pos><sense><def><en>he lies on his back</en></def></sense></entry>
+<entry><form>aːtawaːseːwa</form><pos>v</pos><sense><def><en>he falls backwards</en></def></sense></entry>
+<entry><form>aːtawaːsenwi</form><pos>v</pos><sense><def><en>it lies on its back</en></def></sense></entry>
+<entry><form>aːtesapiteːwi</form><pos>v</pos><sense><def><en>it is tied separately</en></def></sense></entry>
+<entry><form>aːtesoːhkaːkaːha</form><pos>n</pos><sense><def><en>sacred story (dim)?</en></def></sense></entry>
+<entry><form>aːtesoːhkaːkana</form><pos>n</pos><sense><def><en>sacred story</en></def></sense></entry>
+<entry><form>aːtesoːhkaːneːwa</form><pos>v</pos><sense><def><en>he tells legends of him</en></def></sense></entry>
+<entry><form>aːtesoːhkaːsowa</form><pos>v</pos><sense><def><en>he tells legends of him</en></def></sense></entry>
+<entry><form>aːtesoːhkaweːwa</form><pos>v</pos><sense><def><en>he tells him a sacred story</en></def></sense></entry>
+<entry><form>aːtotamaːtiwaki</form><pos>v</pos><sense><def><en>they tell it to one another</en></def></sense></entry>
+<entry><form>aːtotamaweːwa</form><pos>v</pos><sense><def><en>he tells it to him</en></def></sense></entry>
+<entry><form>aːtotamwa</form><pos>v</pos><sense><def><en>he tells it</en></def></sense></entry>
+<entry><form>aːwaːči</form><pos>NIL</pos><sense><def><en>even</en></def></sense></entry>
+<entry><form>aːweːkenwi</form><pos>v</pos><sense><def><en>it is small?</en></def></sense></entry>
+<entry><form>aːweːwi</form><pos>NIL</pos><sense><def><en>it is little?</en></def></sense></entry>
+<entry><form>ačikoškeːwa</form><pos>v</pos><sense><def><en>he sobs</en></def></sense></entry>
+<entry><form>ačikwiteːheːškeːwa</form><pos>v</pos><sense><def><en>he sighs from his heart</en></def></sense></entry>
+<entry><form>ahčiːhi</form><pos>n</pos><sense><def><en>lacrosse stick</en></def></sense></entry>
+<entry><form>ahčikeːwa</form><pos>v</pos><sense><def><en>he places things</en></def></sense></entry>
+<entry><form>ahiːha</form><pos>n</pos><sense><def><en>creature</en></def></sense></entry>
+<entry><form>ahiːhi</form><pos>n</pos><sense><def><en>thing</en></def></sense></entry>
+<entry><form>ahkaːsa</form><pos>n</pos><sense><def><en>kaw</en></def></sense></entry>
+<entry><form>ahkamaweːwa</form><pos>v</pos><sense><def><en>he lies in wait for him</en></def></sense></entry>
+<entry><form>ahkameːwa</form><pos>v</pos><sense><def><en>he is on the lookout</en></def></sense></entry>
+<entry><form>ahkaneːhi</form><pos>n</pos><sense><def><en>bone (dim)</en></def></sense></entry>
+<entry><form>ahkani</form><pos>n</pos><sense><def><en>bone</en></def></sense></entry>
+<entry><form>ahkani</form><pos>NIL</pos><sense><def><en>length of (period of time)</en></def></sense></entry>
+<entry><form>ahkaniːwiwa</form><pos>v</pos><sense><def><en>he is a bone</en></def></sense></entry>
+<entry><form>ahkaniːwiwa</form><pos>NIL</pos><sense><def><en>he is a bone</en></def></sense></entry>
+<entry><form>ahkaninaːwe</form><pos>NIL</pos><sense><def><en>in the bone country</en></def></sense></entry>
+<entry><form>ahkasamwa</form><pos>v</pos><sense><def><en>he burns it up</en></def></sense></entry>
+<entry><form>ahkasweːwa</form><pos>v</pos><sense><def><en>he burns him up</en></def></sense></entry>
+<entry><form>ahkawaːpameːwa</form><pos>v</pos><sense><def><en>he watches over him</en></def></sense></entry>
+<entry><form>ahkawaːpameːweniːwiwa</form><pos>v</pos><sense><def><en>he is watched over</en></def></sense></entry>
+<entry><form>ahkawaːpataːteːwi</form><pos>v</pos><sense><def><en>it is watched</en></def></sense></entry>
+<entry><form>ahkawaːpatahiweːwa</form><pos>v</pos><sense><def><en>he makes people watch</en></def></sense></entry>
+<entry><form>ahkawaːpatamwa</form><pos>v</pos><sense><def><en>he watches over it</en></def></sense></entry>
+<entry><form>ahkawaːpiheːwa</form><pos>v</pos><sense><def><en>he makes him watch</en></def></sense></entry>
+<entry><form>ahkawaːpihtoːwa</form><pos>v</pos><sense><def><en>he makes it watch</en></def></sense></entry>
+<entry><form>ahkawaːpiwa</form><pos>v</pos><sense><def><en>he watches</en></def></sense></entry>
+<entry><form>ahkiː</form><pos>n</pos><sense><def><en>land</en></def></sense></entry>
+<entry><form>ahkiːki</form><pos>NIL</pos><sense><def><en>on earth</en></def></sense></entry>
+<entry><form>ahkiːwiwi</form><pos>v</pos><sense><def><en>it is land</en></def></sense></entry>
+<entry><form>ahkineːmasotaːha</form><pos>n</pos><sense><def><en>earth stander (male name)</en></def></sense></entry>
+<entry><form>ahkoːweːwa</form><pos>v</pos><sense><def><en>he comes next after him</en></def></sense></entry>
+<entry><form>ahkoːwečiːha</form><pos>n</pos><sense><def><en>youngest brother</en></def></sense></entry>
+<entry><form>ahkoːwi</form><pos>NIL</pos><sense><def><en>in the past</en></def></sense></entry>
+<entry><form>ahkočinwa</form><pos>v</pos><sense><def><en>he hangs so high</en></def></sense></entry>
+<entry><form>ahkohkoːha</form><pos>n</pos><sense><def><en>kettle (dim)</en></def></sense></entry>
+<entry><form>ahkohkwa</form><pos>n</pos><sense><def><en>kettle, drum</en></def></sense></entry>
+<entry><form>ahkohtaːkwatwi</form><pos>v</pos><sense><def><en>it is audible so far</en></def></sense></entry>
+<entry><form>ahkohtamwa</form><pos>v</pos><sense><def><en>he hears it so far</en></def></sense></entry>
+<entry><form>ahkomiːwa</form><pos>v</pos><sense><def><en>he is so far in the water</en></def></sense></entry>
+<entry><form>ahkoneːheːwa</form><pos>v</pos><sense><def><en>he gives him a covering</en></def></sense></entry>
+<entry><form>ahkoneːmowa</form><pos>v</pos><sense><def><en>he has a covering?</en></def></sense></entry>
+<entry><form>ahkopyeːwi</form><pos>v</pos><sense><def><en>it is flooded so far</en></def></sense></entry>
+<entry><form>ahkošamaweːwa</form><pos>v</pos><sense><def><en>he cuts it so long for him</en></def></sense></entry>
+<entry><form>ahkoškaːnaweːwa</form><pos>v</pos><sense><def><en>he wears out clothes</en></def></sense></entry>
+<entry><form>ahkoteːweːhtoːwa</form><pos>v</pos><sense><def><en>he lengthens it so far as house</en></def></sense></entry>
+<entry><form>ahkwaːčimeːwa</form><pos>v</pos><sense><def><en>he tells so far of him</en></def></sense></entry>
+<entry><form>ahkwaːčimoːmikatwi</form><pos>v</pos><sense><def><en>it narrates so far</en></def></sense></entry>
+<entry><form>ahkwaːčimoheːwa</form><pos>v</pos><sense><def><en>he narrates him so far</en></def></sense></entry>
+<entry><form>ahkwaːčimowa</form><pos>v</pos><sense><def><en>he narrates so far</en></def></sense></entry>
+<entry><form>ahkwaːčimowa</form><pos>v</pos><sense><def><en>he narrates so far</en></def></sense></entry>
+<entry><form>ahkwaːhkonamaweːwa</form><pos>v</pos><sense><def><en>he places it so long for him</en></def></sense></entry>
+<entry><form>ahkwaːnaketoneːmowa</form><pos>v</pos><sense><def><en>he discourses so far</en></def></sense></entry>
+<entry><form>ahkwaːnaketonwa</form><pos>v</pos><sense><def><en>his mouth is so high</en></def></sense></entry>
+<entry><form>ahkwaːpiwa</form><pos>v</pos><sense><def><en>he sees so far</en></def></sense></entry>
+<entry><form>ahkwaːpyeːhtowa</form><pos>v</pos><sense><def><en>he strings it so far</en></def></sense></entry>
+<entry><form>ahkwaːpyeːsetaːkeːwa</form><pos>v</pos><sense><def><en>he strings it so far for people</en></def></sense></entry>
+<entry><form>ahkwaːpyeːyaːwi</form><pos>v</pos><sense><def><en>it strings/lies so far (river)</en></def></sense></entry>
+<entry><form>ahkwaːtotamwa</form><pos>v</pos><sense><def><en>he tells so far of it</en></def></sense></entry>
+<entry><form>ahkwaːwahokowa</form><pos>v</pos><sense><def><en>he swims in it to fulness</en></def></sense></entry>
+<entry><form>ahkwaːwanetiwaki</form><pos>v</pos><sense><def><en>they file so far</en></def></sense></entry>
+<entry><form>ahkwaːwi</form><pos>v</pos><sense><def><en>it is so long</en></def></sense></entry>
+<entry><form>ahkwaːwi</form><pos>NIL</pos><sense><def><en>to fulness</en></def></sense></entry>
+<entry><form>ahkwaːwinečaːtamwa</form><pos>v</pos><sense><def><en>he has his claws full of it</en></def></sense></entry>
+<entry><form>ahkwaːwišimeːwa</form><pos>v</pos><sense><def><en>he puts him in to fulness</en></def></sense></entry>
+<entry><form>ahkwaːwisenwi</form><pos>v</pos><sense><def><en>it is brimful</en></def></sense></entry>
+<entry><form>ahkwaːwisetoːwa</form><pos>v</pos><sense><def><en>he puts it in to fulness</en></def></sense></entry>
+<entry><form>ahkwahkamikatwi</form><pos>v</pos><sense><def><en>things go so far</en></def></sense></entry>
+<entry><form>ahkwanahkatwi</form><pos>v</pos><sense><def><en>it has the top so far</en></def></sense></entry>
+<entry><form>ahkwanahkikaːpaːwa</form><pos>v</pos><sense><def><en>he stands with tree so high top?</en></def></sense></entry>
+<entry><form>ahkwanahkisenwi</form><pos>v</pos><sense><def><en>it lies so high with the tree</en></def></sense></entry>
+<entry><form>ahkwanahkosiwa</form><pos>v</pos><sense><def><en>he has the top so far</en></def></sense></entry>
+<entry><form>ahkwaškoteːwiwi</form><pos>v</pos><sense><def><en>meadow goes so far</en></def></sense></entry>
+<entry><form>ahkweːheːwa</form><pos>v</pos><sense><def><en>he makes him angry?</en></def></sense></entry>
+<entry><form>ahkweːhtamwa</form><pos>v</pos><sense><def><en>he is angry at it</en></def></sense></entry>
+<entry><form>ahkweːhtaweːwa</form><pos>v</pos><sense><def><en>he is angry at him</en></def></sense></entry>
+<entry><form>ahkweːmikatwi</form><pos>v</pos><sense><def><en>it is angry</en></def></sense></entry>
+<entry><form>ahkweːnemeːwa</form><pos>v</pos><sense><def><en>he thinks of him to that degree</en></def></sense></entry>
+<entry><form>ahkweːnetamwa</form><pos>v</pos><sense><def><en>he thinks of it to that degree</en></def></sense></entry>
+<entry><form>ahkweːwa</form><pos>v</pos><sense><def><en>he is angry</en></def></sense></entry>
+<entry><form>ahkweːwinaːkosiwa</form><pos>v</pos><sense><def><en>he looks angry</en></def></sense></entry>
+<entry><form>ahkweːyaːmehkiːwi</form><pos>n</pos><sense><def><en>wooded bottom land</en></def></sense></entry>
+<entry><form>ahkweːyaːmehkiːwiwi</form><pos>v</pos><sense><def><en>it is wooded bottom land</en></def></sense></entry>
+<entry><form>ahkwi</form><pos>NIL</pos><sense><def><en>so far</en></def></sense></entry>
+<entry><form>ahkwiːtemyaːwi</form><pos>v</pos><sense><def><en>it flows so deep</en></def></sense></entry>
+<entry><form>ahkwiːwa</form><pos>v</pos><sense><def><en>he is so long, goes so far</en></def></sense></entry>
+<entry><form>ahkwiči</form><pos>NIL</pos><sense><def><en>up there</en></def></sense></entry>
+<entry><form>ahkwikenwi</form><pos>v</pos><sense><def><en>it grows so long</en></def></sense></entry>
+<entry><form>ahkwišinwa</form><pos>v</pos><sense><def><en>he goes so far</en></def></sense></entry>
+<entry><form>ahkwisenwi</form><pos>v</pos><sense><def><en>it goes so far</en></def></sense></entry>
+<entry><form>ahkwisetaweːwa</form><pos>v</pos><sense><def><en>he moves it so far for him</en></def></sense></entry>
+<entry><form>ahkwitaːkone</form><pos>NIL</pos><sense><def><en>on top of the snow</en></def></sense></entry>
+<entry><form>ahkwitaːnaki</form><pos>NIL</pos><sense><def><en>of the hole</en></def></sense></entry>
+<entry><form>ahkwitaːsiːyoːteːwa</form><pos>v</pos><sense><def><en>he climbs crawling to the top</en></def></sense></entry>
+<entry><form>ahkwitahkamiki</form><pos>NIL</pos><sense><def><en>on top of the earth</en></def></sense></entry>
+<entry><form>ahkwitapahkwe</form><pos>NIL</pos><sense><def><en>on top of the roof</en></def></sense></entry>
+<entry><form>ahkwitepyeːki</form><pos>NIL</pos><sense><def><en>on top of the water</en></def></sense></entry>
+<entry><form>ahkwiweneːwa</form><pos>v</pos><sense><def><en>he conducts him so far</en></def></sense></entry>
+<entry><form>ahkwiwetoːwa</form><pos>v</pos><sense><def><en>he conducts it so far</en></def></sense></entry>
+<entry><form>ahkwiyaːči</form><pos>NIL</pos><sense><def><en>worse?</en></def></sense></entry>
+<entry><form>ahkwiyaːhi</form><pos>NIL</pos><sense><def><en>more and more, especially</en></def></sense></entry>
+<entry><form>ahpaːhkwisetaweːwa</form><pos>v</pos><sense><def><en>he places it on a solid for him</en></def></sense></entry>
+<entry><form>ahpanasiteːkaːpaːwa</form><pos>v</pos><sense><def><en>he stands with feet on something</en></def></sense></entry>
+<entry><form>ahpanehkiːwa</form><pos>v</pos><sense><def><en>he steps on something</en></def></sense></entry>
+<entry><form>ahpanehkiːweni</form><pos>n</pos><sense><def><en>step?</en></def></sense></entry>
+<entry><form>ahpapiːni</form><pos>n</pos><sense><def><en>chair, seat</en></def></sense></entry>
+<entry><form>ahpapiwa</form><pos>v</pos><sense><def><en>he sits on something</en></def></sense></entry>
+<entry><form>ahpaškinaniheːwa</form><pos>v</pos><sense><def><en>he butchers him on leaves</en></def></sense></entry>
+<entry><form>ahpaškinanišikeːwa</form><pos>v</pos><sense><def><en>he butchers on leaves</en></def></sense></entry>
+<entry><form>ahpeːnemonotamwa</form><pos>v</pos><sense><def><en>he trusts in it</en></def></sense></entry>
+<entry><form>ahpeːnemowa</form><pos>v</pos><sense><def><en>he places trust in something</en></def></sense></entry>
+<entry><form>ahpehkweːhiwa</form><pos>v</pos><sense><def><en>he places his head on something</en></def></sense></entry>
+<entry><form>ahpehkweːšimoːni</form><pos>n</pos><sense><def><en>pillow</en></def></sense></entry>
+<entry><form>ahpehkweːšinwa</form><pos>v</pos><sense><def><en>he lays his head on something</en></def></sense></entry>
+<entry><form>ahpemeki</form><pos>NIL</pos><sense><def><en>up aloft</en></def></sense></entry>
+<entry><form>ahpeneːwe</form><pos>NIL</pos><sense><def><en>always</en></def></sense></entry>
+<entry><form>ahpeneːwenehkeːwa</form><pos>v</pos><sense><def><en>he has a disease</en></def></sense></entry>
+<entry><form>ahpeneːweni</form><pos>n</pos><sense><def><en>disease</en></def></sense></entry>
+<entry><form>ahpenya</form><pos>n</pos><sense><def><en>potato</en></def></sense></entry>
+<entry><form>ahpeškamaweːwa</form><pos>v</pos><sense><def><en>he steps on it for him</en></def></sense></entry>
+<entry><form>ahpeškamwa</form><pos>v</pos><sense><def><en>he steps on it</en></def></sense></entry>
+<entry><form>ahpesowa</form><pos>v</pos><sense><def><en>he gets burned along</en></def></sense></entry>
+<entry><form>ahpi</form><pos>NIL</pos><sense><def><en>along, with it all</en></def></sense></entry>
+<entry><form>ahpiːhčawiwa</form><pos>v</pos><sense><def><en>he acts so</en></def></sense></entry>
+<entry><form>ahpiːhči</form><pos>NIL</pos><sense><def><en>to such extent</en></def></sense></entry>
+<entry><form>ahpiːhčiːhkaweːwa</form><pos>v</pos><sense><def><en>he is so long busy with him</en></def></sense></entry>
+<entry><form>ahpiːhčiːwa</form><pos>v</pos><sense><def><en>he goes so far, can do so much</en></def></sense></entry>
+<entry><form>ahpiːhčikenwi</form><pos>v</pos><sense><def><en>it is so effective, old, powerful</en></def></sense></entry>
+<entry><form>ahpiːhčikiːhiwa</form><pos>v</pos><sense><def><en>he is so far grown up</en></def></sense></entry>
+<entry><form>ahpiːhčikiwa</form><pos>v</pos><sense><def><en>he is so effective, old, powerful</en></def></sense></entry>
+<entry><form>ahpiːhčinaːkeːwa</form><pos>v</pos><sense><def><en>he sings so far</en></def></sense></entry>
+<entry><form>ahpiːhčitaswi</form><pos>NIL</pos><sense><def><en>every time</en></def></sense></entry>
+<entry><form>ahpiːhčiteːheːwa</form><pos>v</pos><sense><def><en>he feels so deeply</en></def></sense></entry>
+<entry><form>ahpiːhtaːhpenatowa</form><pos>v</pos><sense><def><en>he hurts it so long</en></def></sense></entry>
+<entry><form>ahpiːhtaːpataːniwi</form><pos>v</pos><sense><def><en>it looks so striking</en></def></sense></entry>
+<entry><form>ahpiːhtaːškeːwa</form><pos>v</pos><sense><def><en>he goes so fast</en></def></sense></entry>
+<entry><form>ahpiːhtamatamwa</form><pos>v</pos><sense><def><en>he has so much pain</en></def></sense></entry>
+<entry><form>ahpiːhteːnemeːwa</form><pos>v</pos><sense><def><en>he thinks so much of him</en></def></sense></entry>
+<entry><form>ahpiːhteːnetaːkwatwi</form><pos>v</pos><sense><def><en>it is thought so much of</en></def></sense></entry>
+<entry><form>ahpiːhteːnetamwa</form><pos>v</pos><sense><def><en>he thinks so much of it</en></def></sense></entry>
+<entry><form>ahpiːhtekaːhowa</form><pos>v</pos><sense><def><en>he dances so much</en></def></sense></entry>
+<entry><form>ahpiːhteseːhkweːwa</form><pos>v</pos><sense><def><en>he cooks to that point</en></def></sense></entry>
+<entry><form>ahpiːhtesiwa</form><pos>v</pos><sense><def><en>he takes so long, he is so old</en></def></sense></entry>
+<entry><form>ahpiːhtesiweni</form><pos>n</pos><sense><def><en>age</en></def></sense></entry>
+<entry><form>ahpiːhteteːwi</form><pos>v</pos><sense><def><en>it is cooked so far</en></def></sense></entry>
+<entry><form>ahpiːhtetoneːmowa</form><pos>v</pos><sense><def><en>he talks so long</en></def></sense></entry>
+<entry><form>ahpiːhtoːwi</form><pos>v</pos><sense><def><en>it is so powerful</en></def></sense></entry>
+<entry><form>ahpiːhtoseːwa</form><pos>v</pos><sense><def><en>he walks so long</en></def></sense></entry>
+<entry><form>ahpiːhtweːweːsenwi</form><pos>v</pos><sense><def><en>it sounds so long</en></def></sense></entry>
+<entry><form>ahpihkaːhiwa</form><pos>v</pos><sense><def><en>he has things at his feet</en></def></sense></entry>
+<entry><form>ahpihkaneːwa</form><pos>v</pos><sense><def><en>he leaves him behind on something</en></def></sense></entry>
+<entry><form>ahpitiyeːpiːni</form><pos>n</pos><sense><def><en>afterbirth</en></def></sense></entry>
+<entry><form>ahtaːtiwaki</form><pos>v</pos><sense><def><en>they place, have it for each other</en></def></sense></entry>
+<entry><form>ahtaweːwa</form><pos>v</pos><sense><def><en>he places, has it for him</en></def></sense></entry>
+<entry><form>ahteːwi</form><pos>v</pos><sense><def><en>it is there</en></def></sense></entry>
+<entry><form>ahteči</form><pos>NIL</pos><sense><def><en>a distance off</en></def></sense></entry>
+<entry><form>ahteči</form><pos>NIL</pos><sense><def><en>a distance off?</en></def></sense></entry>
+<entry><form>ahtečihkanawe</form><pos>NIL</pos><sense><def><en>a ways from the road</en></def></sense></entry>
+<entry><form>ahteškawi</form><pos>NIL</pos><sense><def><en>variously?</en></def></sense></entry>
+<entry><form>ahtoːmyaːkani</form><pos>n</pos><sense><def><en>saddle</en></def></sense></entry>
+<entry><form>ahtoːwa</form><pos>v</pos><sense><def><en>he places it, he has it</en></def></sense></entry>
+<entry><form>akaːm</form><pos>NIL</pos><sense><def><en>across</en></def></sense></entry>
+<entry><form>akaːm</form><pos>NIL</pos><sense><def><en>across</en></def></sense></entry>
+<entry><form>akaːmeːheki</form><pos>NIL</pos><sense><def><en>on the farther shore</en></def></sense></entry>
+<entry><form>akaːmeteːki</form><pos>NIL</pos><sense><def><en>on the other side of the lodge</en></def></sense></entry>
+<entry><form>akaːwaːneːwa</form><pos>v</pos><sense><def><en>he longs for him</en></def></sense></entry>
+<entry><form>akaːwaːtamwa</form><pos>v</pos><sense><def><en>he longs for it</en></def></sense></entry>
+<entry><form>akaːwi</form><pos>NIL</pos><sense><def><en>a little ways?</en></def></sense></entry>
+<entry><form>akawaːtamaːtisowa</form><pos>v</pos><sense><def><en>he desires it for himself</en></def></sense></entry>
+<entry><form>akenwi</form><pos>v</pos><sense><def><en>it disappears</en></def></sense></entry>
+<entry><form>akiheːwa</form><pos>v</pos><sense><def><en>he loses him</en></def></sense></entry>
+<entry><form>akihtoːwa</form><pos>v</pos><sense><def><en>he loses it</en></def></sense></entry>
+<entry><form>akiwa</form><pos>v</pos><sense><def><en>he disappears</en></def></sense></entry>
+<entry><form>akoːčikani</form><pos>n</pos><sense><def><en>hanger</en></def></sense></entry>
+<entry><form>akoːčinwa</form><pos>v</pos><sense><def><en>he hangs</en></def></sense></entry>
+<entry><form>akoːsiːnehkaweːwa</form><pos>v</pos><sense><def><en>he chases him climbing</en></def></sense></entry>
+<entry><form>akoːsiːpahoːmikatwiː</form><pos>v</pos><sense><def><en>it runs climbing</en></def></sense></entry>
+<entry><form>akoːsiːseːwa</form><pos>v</pos><sense><def><en>he speeds climbing</en></def></sense></entry>
+<entry><form>akoːsiːwa</form><pos>v</pos><sense><def><en>he climbs</en></def></sense></entry>
+<entry><form>akoːsiːyoːteːwa</form><pos>v</pos><sense><def><en>he crawls climbing</en></def></sense></entry>
+<entry><form>akoːteːwi</form><pos>v</pos><sense><def><en>it hangs</en></def></sense></entry>
+<entry><form>akoːtoːwa</form><pos>v</pos><sense><def><en>he hangs it up</en></def></sense></entry>
+<entry><form>akonamwa</form><pos>v</pos><sense><def><en>he applies it as a poultice</en></def></sense></entry>
+<entry><form>akunaːmoːhiwa</form><pos>v</pos><sense><def><en>he makes a poultice</en></def></sense></entry>
+<entry><form>akusweːwa</form><pos>v</pos><sense><def><en>he makes him adhere by heat</en></def></sense></entry>
+<entry><form>akwaːhkwapineːwa</form><pos>v</pos><sense><def><en>he ties him up</en></def></sense></entry>
+<entry><form>akwaːhkwapiteːwi</form><pos>v</pos><sense><def><en>it is tied up?</en></def></sense></entry>
+<entry><form>akwaːhweːwa</form><pos>v</pos><sense><def><en>he dips him out</en></def></sense></entry>
+<entry><form>akwaːpyeːhoneːwa</form><pos>v</pos><sense><def><en>he drags him out of water</en></def></sense></entry>
+<entry><form>akwaːpyeːneːwa</form><pos>v</pos><sense><def><en>he lifts him from the water</en></def></sense></entry>
+<entry><form>akwaːpyeːseːwa</form><pos>v</pos><sense><def><en>he runs out of the water</en></def></sense></entry>
+<entry><form>akwaːšisahowa</form><pos>v</pos><sense><def><en>he leaps out of the water</en></def></sense></entry>
+<entry><form>akwaːsenwi</form><pos>v</pos><sense><def><en>it lies beached</en></def></sense></entry>
+<entry><form>akwaːyaːšoːwiːwa</form><pos>v</pos><sense><def><en>he comes to land after fording</en></def></sense></entry>
+<entry><form>akwaːyoːteːwa</form><pos>v</pos><sense><def><en>he crawls out of the water</en></def></sense></entry>
+<entry><form>akwanakoːteːwi</form><pos>v</pos><sense><def><en>it only hangs</en></def></sense></entry>
+<entry><form>akwapineːwa</form><pos>v</pos><sense><def><en>he bandages him</en></def></sense></entry>
+<entry><form>akwiːwa</form><pos>v</pos><sense><def><en>he covers himself</en></def></sense></entry>
+<entry><form>akwiːwa</form><pos>v</pos><sense><def><en>he covers himself</en></def></sense></entry>
+<entry><form>akwiheːwa</form><pos>v</pos><sense><def><en>he covers him</en></def></sense></entry>
+<entry><form>akwiteːwi</form><pos>v</pos><sense><def><en>it lies soaking</en></def></sense></entry>
+<entry><form>amehkoːha</form><pos>n</pos><sense><def><en>beaver (dim)</en></def></sense></entry>
+<entry><form>amehkwa</form><pos>n</pos><sense><def><en>beaver</en></def></sense></entry>
+<entry><form>amehkwaːnowi</form><pos>v</pos><sense><def><en>it is a beaver skin?</en></def></sense></entry>
+<entry><form>amehkwaya</form><pos>n</pos><sense><def><en>beaver skin?</en></def></sense></entry>
+<entry><form>amweːwa</form><pos>v</pos><sense><def><en>he eats him</en></def></sense></entry>
+<entry><form>anaːhkahamaweːwa</form><pos>v</pos><sense><def><en>he spreads mats for him</en></def></sense></entry>
+<entry><form>anaːhkahamwa</form><pos>v</pos><sense><def><en>he makes a pallet of it, on it</en></def></sense></entry>
+<entry><form>anaːhkahweːwa</form><pos>v</pos><sense><def><en>he makes a pallet for him</en></def></sense></entry>
+<entry><form>anaːhkani</form><pos>n</pos><sense><def><en>mat</en></def></sense></entry>
+<entry><form>anaːhkwaːtamaweːwa</form><pos>v</pos><sense><def><en>he puts it on sticks for him</en></def></sense></entry>
+<entry><form>anaːhkwisaheːwa</form><pos>v</pos><sense><def><en>he strings him (bow)</en></def></sense></entry>
+<entry><form>anaːkahi</form><pos>n</pos><sense><def><en>bowl (dim)</en></def></sense></entry>
+<entry><form>anaːkani</form><pos>n</pos><sense><def><en>bowl</en></def></sense></entry>
+<entry><form>anaːkoːha</form><pos>n</pos><sense><def><en>star (dim)</en></def></sense></entry>
+<entry><form>anaːkoːwe</form><pos>NIL</pos><sense><def><en>yesterday</en></def></sense></entry>
+<entry><form>anaːkwa</form><pos>n</pos><sense><def><en>star</en></def></sense></entry>
+<entry><form>anaːkwiwi</form><pos>NIL</pos><sense><def><en>in the evening</en></def></sense></entry>
+<entry><form>anaːkwiwi</form><pos>v</pos><sense><def><en>it is evening</en></def></sense></entry>
+<entry><form>anaːpoːhkeːwa</form><pos>v</pos><sense><def><en>he prepares liquid</en></def></sense></entry>
+<entry><form>anaːpoːsamwa</form><pos>v</pos><sense><def><en>he boils it</en></def></sense></entry>
+<entry><form>anaːsowa</form><pos>v</pos><sense><def><en>he wrestles</en></def></sense></entry>
+<entry><form>anahoneːwa</form><pos>v</pos><sense><def><en>he arranges him</en></def></sense></entry>
+<entry><form>anahotaweːwa</form><pos>v</pos><sense><def><en>he arranges things for him</en></def></sense></entry>
+<entry><form>anahpisowa</form><pos>v</pos><sense><def><en>he dresss himself up</en></def></sense></entry>
+<entry><form>anahtakiːwa</form><pos>v</pos><sense><def><en>he makes mats</en></def></sense></entry>
+<entry><form>anakeːhkoːha</form><pos>n</pos><sense><def><en>piece of bark (dim)</en></def></sense></entry>
+<entry><form>anakeːhkwa</form><pos>n</pos><sense><def><en>bark</en></def></sense></entry>
+<entry><form>anakeːhkwi</form><pos>n</pos><sense><def><en>piece of bark</en></def></sense></entry>
+<entry><form>anakeːweni</form><pos>n</pos><sense><def><en>bark canoe</en></def></sense></entry>
+<entry><form>anakweːwa</form><pos>n</pos><sense><def><en>rainbow</en></def></sense></entry>
+<entry><form>anakwiːmikatwi</form><pos>v</pos><sense><def><en>it is fat</en></def></sense></entry>
+<entry><form>anakwiːwa</form><pos>v</pos><sense><def><en>he is fat</en></def></sense></entry>
+<entry><form>anapiškweːha</form><pos>n</pos><sense><def><en>mink</en></def></sense></entry>
+<entry><form>anaškenačikeːweni</form><pos>n</pos><sense><def><en>pipeful</en></def></sense></entry>
+<entry><form>anaškenatoːwa</form><pos>v</pos><sense><def><en>he fills it, he loads it</en></def></sense></entry>
+<entry><form>anawesiwa</form><pos>v</pos><sense><def><en>he fails</en></def></sense></entry>
+<entry><form>anawineːwa</form><pos>v</pos><sense><def><en>he creeps up to him</en></def></sense></entry>
+<entry><form>anawitamwa</form><pos>v</pos><sense><def><en>he creeps up to it</en></def></sense></entry>
+<entry><form>anawiwa</form><pos>v</pos><sense><def><en>he hunts</en></def></sense></entry>
+<entry><form>anawoseːwa</form><pos>v</pos><sense><def><en>he walks pleasantly?</en></def></sense></entry>
+<entry><form>anehka</form><pos>n</pos><sense><def><en>goose</en></def></sense></entry>
+<entry><form>anekoːkaneːyaːwi</form><pos>v</pos><sense><def><en>it is a joint</en></def></sense></entry>
+<entry><form>anemaːhpeneːwa</form><pos>v</pos><sense><def><en>he starves along?</en></def></sense></entry>
+<entry><form>anemaːmowa</form><pos>v</pos><sense><def><en>he flees on</en></def></sense></entry>
+<entry><form>anemaːškeːwa</form><pos>v</pos><sense><def><en>he flies on</en></def></sense></entry>
+<entry><form>anemaːškeːwi</form><pos>v</pos><sense><def><en>it flies on</en></def></sense></entry>
+<entry><form>anemaːsiːwa</form><pos>v</pos><sense><def><en>he climbs along</en></def></sense></entry>
+<entry><form>anemahokowa</form><pos>v</pos><sense><def><en>he swims yon way</en></def></sense></entry>
+<entry><form>anemapiwa</form><pos>v</pos><sense><def><en>he sits yon way</en></def></sense></entry>
+<entry><form>anematahweːwa</form><pos>v</pos><sense><def><en>he strikes him as he goes along</en></def></sense></entry>
+<entry><form>anemehkaweːwa</form><pos>v</pos><sense><def><en>he greets him</en></def></sense></entry>
+<entry><form>anemehkeːwa</form><pos>v</pos><sense><def><en>he goes of</en></def></sense></entry>
+<entry><form>anemehkwiseːwa</form><pos>v</pos><sense><def><en>he lies upside down</en></def></sense></entry>
+<entry><form>anemepyeːhaːteːwi</form><pos>v</pos><sense><def><en>it is painted as mark along the road</en></def></sense></entry>
+<entry><form>anemešihamwa</form><pos>v</pos><sense><def><en>he chases it yon way</en></def></sense></entry>
+<entry><form>anemi</form><pos>NIL</pos><sense><def><en>along, yon way</en></def></sense></entry>
+<entry><form>anemiːhtenaweːwa</form><pos>v</pos><sense><def><en>he goes on shooting him</en></def></sense></entry>
+<entry><form>anemiːwa</form><pos>v</pos><sense><def><en>he goes on</en></def></sense></entry>
+<entry><form>anemikawiwa</form><pos>v</pos><sense><def><en>he marches on</en></def></sense></entry>
+<entry><form>aneminaːkeːwa</form><pos>v</pos><sense><def><en>he goes singing</en></def></sense></entry>
+<entry><form>anemipahowa</form><pos>v</pos><sense><def><en>he runs yon way</en></def></sense></entry>
+<entry><form>anemipokoːteːwi</form><pos>v</pos><sense><def><en>it drifts off</en></def></sense></entry>
+<entry><form>anemisenwi</form><pos>v</pos><sense><def><en>it lies yon way</en></def></sense></entry>
+<entry><form>anemiwetaweːwa</form><pos>v</pos><sense><def><en>he takes it yon way for him</en></def></sense></entry>
+<entry><form>anemiwetoːwa</form><pos>v</pos><sense><def><en>he takes it yon way</en></def></sense></entry>
+<entry><form>anemoːha</form><pos>n</pos><sense><def><en>dog (dim)</en></def></sense></entry>
+<entry><form>anemoːheːha</form><pos>n</pos><sense><def><en>dog (dim)</en></def></sense></entry>
+<entry><form>anemoːhiwa</form><pos>v</pos><sense><def><en>he is a dog</en></def></sense></entry>
+<entry><form>anemoːmeːwa</form><pos>v</pos><sense><def><en>he carries him alongon his back</en></def></sense></entry>
+<entry><form>anemoːmowa</form><pos>v</pos><sense><def><en>he goes along weeping?</en></def></sense></entry>
+<entry><form>anemoːna</form><pos>n</pos><sense><def><en>vermillion</en></def></sense></entry>
+<entry><form>anemoːtamwa</form><pos>v</pos><sense><def><en>he carries it along on his back</en></def></sense></entry>
+<entry><form>anemoːteːwa</form><pos>v</pos><sense><def><en>he crawls along</en></def></sense></entry>
+<entry><form>anemweːweːpahowa</form><pos>v</pos><sense><def><en>he runs with noise</en></def></sense></entry>
+<entry><form>anemweːweːšinwa</form><pos>v</pos><sense><def><en>his steps go sounding off</en></def></sense></entry>
+<entry><form>anemweːweːškaːtiwaki</form><pos>v</pos><sense><def><en>they collide with noise</en></def></sense></entry>
+<entry><form>anemweːweːsenwi</form><pos>v</pos><sense><def><en>it goes off with noise</en></def></sense></entry>
+<entry><form>anemweːweːsikeːwa</form><pos>v</pos><sense><def><en>he bangs shooting along</en></def></sense></entry>
+<entry><form>anemyaːki</form><pos>NIL</pos><sense><def><en>down, below (in the east)?</en></def></sense></entry>
+<entry><form>aneneːki</form><pos>NIL</pos><sense><def><en>at the smoke-hole</en></def></sense></entry>
+<entry><form>anenoːteːwa</form><pos>n</pos><sense><def><en>indian</en></def></sense></entry>
+<entry><form>anešamaweːwa</form><pos>v</pos><sense><def><en>he cuts it ready for him</en></def></sense></entry>
+<entry><form>aneši</form><pos>NIL</pos><sense><def><en>common</en></def></sense></entry>
+<entry><form>anešineniːha</form><pos>n</pos><sense><def><en>common man</en></def></sense></entry>
+<entry><form>anetwi</form><pos>v</pos><sense><def><en>it rots</en></def></sense></entry>
+<entry><form>aniːpi</form><pos>n</pos><sense><def><en>elm</en></def></sense></entry>
+<entry><form>aniːpiːwiwa</form><pos>v</pos><sense><def><en>he is an elm?</en></def></sense></entry>
+<entry><form>aniːweːnemeːwa</form><pos>v</pos><sense><def><en>he thinks much of him</en></def></sense></entry>
+<entry><form>aniːwekeːwa</form><pos>v</pos><sense><def><en>he dances very well</en></def></sense></entry>
+<entry><form>aniːwešeːwi</form><pos>v</pos><sense><def><en>it blazes big</en></def></sense></entry>
+<entry><form>aniːwihtanwi</form><pos>v</pos><sense><def><en>it river flows swiftly</en></def></sense></entry>
+<entry><form>aniheːwa</form><pos>v</pos><sense><def><en>he defeats him</en></def></sense></entry>
+<entry><form>anihetiwaki</form><pos>v</pos><sense><def><en>they defeat each other</en></def></sense></entry>
+<entry><form>anihiweːwa</form><pos>v</pos><sense><def><en>he defeats people</en></def></sense></entry>
+<entry><form>anihtoːwa</form><pos>v</pos><sense><def><en>he beats it, wins the game</en></def></sense></entry>
+<entry><form>anika</form><pos>NIL</pos><sense><def><en>headlong</en></def></sense></entry>
+<entry><form>anikaːtepi</form><pos>NIL</pos><sense><def><en>off, away</en></def></sense></entry>
+<entry><form>aniseːwa</form><pos>v</pos><sense><def><en>he flies away</en></def></sense></entry>
+<entry><form>aniwaːnematwi</form><pos>v</pos><sense><def><en>it blows too hard</en></def></sense></entry>
+<entry><form>aniwaːšoweːwa</form><pos>v</pos><sense><def><en>he is a good marksman</en></def></sense></entry>
+<entry><form>aniwatawaːpiwa</form><pos>v</pos><sense><def><en>he looks about too much</en></def></sense></entry>
+<entry><form>aniweːwi</form><pos>NIL</pos><sense><def><en>much</en></def></sense></entry>
+<entry><form>aniweškamwa</form><pos>v</pos><sense><def><en>he walks much on it</en></def></sense></entry>
+<entry><form>aniwetoneːmowa</form><pos>v</pos><sense><def><en>he talks too much</en></def></sense></entry>
+<entry><form>aniwiːhkamwa</form><pos>v</pos><sense><def><en>he concerns himself much with it</en></def></sense></entry>
+<entry><form>aniwiːhkaweːwa</form><pos>v</pos><sense><def><en>he concerns himself much with him</en></def></sense></entry>
+<entry><form>aniwikenwi</form><pos>v</pos><sense><def><en>it grows fast</en></def></sense></entry>
+<entry><form>aniwinaːsamwa</form><pos>v</pos><sense><def><en>he overboils it?</en></def></sense></entry>
+<entry><form>aniwišimowa</form><pos>v</pos><sense><def><en>he sings loudly</en></def></sense></entry>
+<entry><form>aniwiseːwa</form><pos>v</pos><sense><def><en>he runs fast</en></def></sense></entry>
+<entry><form>anoːhweːwa</form><pos>v</pos><sense><def><en>he points at him</en></def></sense></entry>
+<entry><form>anohkaːneːhiwa</form><pos>v</pos><sense><def><en>he employs people</en></def></sense></entry>
+<entry><form>anohkaːneːwa</form><pos>v</pos><sense><def><en>he sets him to work, gives him a job</en></def></sense></entry>
+<entry><form>anohkyeːwa</form><pos>v</pos><sense><def><en>he works</en></def></sense></entry>
+<entry><form>anwaːčiːwa</form><pos>v</pos><sense><def><en>he consents</en></def></sense></entry>
+<entry><form>anwaːčinaweːmeːwa</form><pos>v</pos><sense><def><en>he makes him willing</en></def></sense></entry>
+<entry><form>anwaːčinoːhkataːtiwaki</form><pos>v</pos><sense><def><en>they are willing for each other</en></def></sense></entry>
+<entry><form>anwaːčiwiːkatamwa</form><pos>v</pos><sense><def><en>he is willing to attend to it</en></def></sense></entry>
+<entry><form>anweːweːhaːsowa</form><pos>v</pos><sense><def><en>he is drummed on</en></def></sense></entry>
+<entry><form>anweːweːhikeːw</form><pos>v</pos><sense><def><en>he makes noise on things</en></def></sense></entry>
+<entry><form>anweːweːhtamwa</form><pos>v</pos><sense><def><en>he makes it resound by mouth</en></def></sense></entry>
+<entry><form>anweːweːhweːwa</form><pos>v</pos><sense><def><en>he makes noise on or at him</en></def></sense></entry>
+<entry><form>anweːweːkatwi</form><pos>v</pos><sense><def><en>it makes noise</en></def></sense></entry>
+<entry><form>anweːweːkiheːwa</form><pos>v</pos><sense><def><en>he makes him resound, cry out</en></def></sense></entry>
+<entry><form>anweːweːkihtoːwa</form><pos>v</pos><sense><def><en>he makes it resound, detonate</en></def></sense></entry>
+<entry><form>anweːweːškeːwi</form><pos>v</pos><sense><def><en>it moves with noise</en></def></sense></entry>
+<entry><form>anweːweːsahtowa</form><pos>v</pos><sense><def><en>he rattles it</en></def></sense></entry>
+<entry><form>anweːweːsawiwa</form><pos>v</pos><sense><def><en>he makes a great stir</en></def></sense></entry>
+<entry><form>anweːweːsenwi</form><pos>v</pos><sense><def><en>it comes down with noise</en></def></sense></entry>
+<entry><form>anweːweːsikeːwa</form><pos>v</pos><sense><def><en>he bangs away at things</en></def></sense></entry>
+<entry><form>apaːsesowa</form><pos>v</pos><sense><def><en>he suns himself</en></def></sense></entry>
+<entry><form>apahkoːhaya</form><pos>n</pos><sense><def><en>small reed mat</en></def></sense></entry>
+<entry><form>apahkwaːhkeːwa</form><pos>v</pos><sense><def><en>he makes reed mats</en></def></sense></entry>
+<entry><form>apahkwaya</form><pos>n</pos><sense><def><en>flag reed</en></def></sense></entry>
+<entry><form>apahkwayikaːni</form><pos>n</pos><sense><def><en>reed lodge</en></def></sense></entry>
+<entry><form>apahkweːwa</form><pos>v</pos><sense><def><en>he thatches</en></def></sense></entry>
+<entry><form>apaneːnetiwaki</form><pos>v</pos><sense><def><en>they smile at each other</en></def></sense></entry>
+<entry><form>apaneːniwa</form><pos>v</pos><sense><def><en>he laughs</en></def></sense></entry>
+<entry><form>apateːhkiːki</form><pos>NIL</pos><sense><def><en>on the side of the hill</en></def></sense></entry>
+<entry><form>apenoːha</form><pos>n</pos><sense><def><en>child</en></def></sense></entry>
+<entry><form>apenoːheːha</form><pos>n</pos><sense><def><en>child (dim)</en></def></sense></entry>
+<entry><form>apenoːheːhaya</form><pos>n</pos><sense><def><en>baby skin</en></def></sense></entry>
+<entry><form>apesoːhiwa</form><pos>v</pos><sense><def><en>he is warm</en></def></sense></entry>
+<entry><form>apiheːwa</form><pos>v</pos><sense><def><en>he makes him sit</en></def></sense></entry>
+<entry><form>apihkaːni</form><pos>n</pos><sense><def><en>packstrap</en></def></sense></entry>
+<entry><form>apihtamwa</form><pos>v</pos><sense><def><en>he sits in relation to it</en></def></sense></entry>
+<entry><form>apikaːsowa</form><pos>v</pos><sense><def><en>he warms his feet</en></def></sense></entry>
+<entry><form>apinayi</form><pos>n</pos><sense><def><en>couch, settee</en></def></sense></entry>
+<entry><form>apiwa</form><pos>v</pos><sense><def><en>he sits</en></def></sense></entry>
+<entry><form>apwaːčikani</form><pos>n</pos><sense><def><en>roasting-scaffold, spit</en></def></sense></entry>
+<entry><form>apwaːneːwa</form><pos>v</pos><sense><def><en>he roasts him</en></def></sense></entry>
+<entry><form>apwaːtamwa</form><pos>v</pos><sense><def><en>he roasts it</en></def></sense></entry>
+<entry><form>apwiːheːwa</form><pos>v</pos><sense><def><en>he waits for him</en></def></sense></entry>
+<entry><form>apwiːhtoːwa</form><pos>v</pos><sense><def><en>he waits for it</en></def></sense></entry>
+<entry><form>ašaːha</form><pos>n</pos><sense><def><en>sioux</en></def></sense></entry>
+<entry><form>ašaːhaːtoweːwa</form><pos>v</pos><sense><def><en>he speaks sioux</en></def></sense></entry>
+<entry><form>ašaːhikaːni</form><pos>n</pos><sense><def><en>sioux lodge</en></def></sense></entry>
+<entry><form>ašaːhinaːwe</form><pos>n</pos><sense><def><en>in the sioux country</en></def></sense></entry>
+<entry><form>ašaːhkiwa</form><pos>n</pos><sense><def><en>crawfish</en></def></sense></entry>
+<entry><form>ašaːša</form><pos>n</pos><sense><def><en>osage</en></def></sense></entry>
+<entry><form>ašaːšinaːwe</form><pos>n</pos><sense><def><en>in the osage country</en></def></sense></entry>
+<entry><form>ašaːtiːhi</form><pos>n</pos><sense><def><en>arrowhead</en></def></sense></entry>
+<entry><form>ašameːwa</form><pos>v</pos><sense><def><en>he feeds him</en></def></sense></entry>
+<entry><form>ašamoːčiːhi</form><pos>n</pos><sense><def><en>bait</en></def></sense></entry>
+<entry><form>ašamoːtaweːwa</form><pos>v</pos><sense><def><en>he baits him</en></def></sense></entry>
+<entry><form>ašaškoːha</form><pos>n</pos><sense><def><en>muskrat (dim)</en></def></sense></entry>
+<entry><form>ašaškwa</form><pos>n</pos><sense><def><en>muskrat</en></def></sense></entry>
+<entry><form>ašatwa</form><pos>v</pos><sense><def><en>he gives in return</en></def></sense></entry>
+<entry><form>aše</form><pos>NIL</pos><sense><def><en>perchance, maybe, merely, vainly</en></def></sense></entry>
+<entry><form>ašeːyaːmowa</form><pos>v</pos><sense><def><en>he flees back</en></def></sense></entry>
+<entry><form>ašenowa</form><pos>v</pos><sense><def><en>he is gone away, absent</en></def></sense></entry>
+<entry><form>ašenowihtowa</form><pos>v</pos><sense><def><en>he lets it be absent</en></def></sense></entry>
+<entry><form>ašiči</form><pos>NIL</pos><sense><def><en>nearly, near</en></def></sense></entry>
+<entry><form>ašiči</form><pos>NIL</pos><sense><def><en>nearly, near</en></def></sense></entry>
+<entry><form>ašihčikeːweːwa</form><pos>v</pos><sense><def><en>he makes things</en></def></sense></entry>
+<entry><form>ašiheːwa</form><pos>v</pos><sense><def><en>he makes him, he appoints him</en></def></sense></entry>
+<entry><form>ašiheːwa</form><pos>v</pos><sense><def><en>he makes, appoints him</en></def></sense></entry>
+<entry><form>ašihiweːwa</form><pos>v</pos><sense><def><en>he makes people like him</en></def></sense></entry>
+<entry><form>ašihkaweːwa</form><pos>v</pos><sense><def><en>he starts him running</en></def></sense></entry>
+<entry><form>ašihtaːteːwi</form><pos>v</pos><sense><def><en>it is made?</en></def></sense></entry>
+<entry><form>ašihtaːtisowa</form><pos>v</pos><sense><def><en>he makes</en></def></sense></entry>
+<entry><form>ašihtaweːwa</form><pos>v</pos><sense><def><en>he makes it for him</en></def></sense></entry>
+<entry><form>ašihtoːwa</form><pos>v</pos><sense><def><en>he makes, appoints it</en></def></sense></entry>
+<entry><form>ašihtowa</form><pos>v</pos><sense><def><en>he makes tt, he appoints it</en></def></sense></entry>
+<entry><form>ašikasowa</form><pos>v</pos><sense><def><en>he puts an insole in his shoes</en></def></sense></entry>
+<entry><form>ašikaweːwa</form><pos>v</pos><sense><def><en>he builds a house for him</en></def></sense></entry>
+<entry><form>ašikeːwa</form><pos>v</pos><sense><def><en>he builds the house</en></def></sense></entry>
+<entry><form>ašikeːwa</form><pos>v</pos><sense><def><en>he builds the house</en></def></sense></entry>
+<entry><form>ašikeːwa</form><pos>v</pos><sense><def><en>he builds the house</en></def></sense></entry>
+<entry><form>ašiškiwaːhkonowa</form><pos>v</pos><sense><def><en>he puts mud on himself</en></def></sense></entry>
+<entry><form>ašiškiwi</form><pos>n</pos><sense><def><en>mud</en></def></sense></entry>
+<entry><form>ašit</form><pos>NIL</pos><sense><def><en>near, nearly</en></def></sense></entry>
+<entry><form>ašitaːhkwakoːčinwa</form><pos>v</pos><sense><def><en>he hangs close to a solid</en></def></sense></entry>
+<entry><form>ašitoːnikeːwa</form><pos>v</pos><sense><def><en>he trades</en></def></sense></entry>
+<entry><form>ašk</form><pos>NIL</pos><sense><def><en>anxiety?</en></def></sense></entry>
+<entry><form>aškaːpoːkatwi</form><pos>v</pos><sense><def><en>it is fresh liquid</en></def></sense></entry>
+<entry><form>aškaːpoːwi</form><pos>n</pos><sense><def><en>fresh soup</en></def></sense></entry>
+<entry><form>aškači</form><pos>NIL</pos><sense><def><en>after a while, by and by</en></def></sense></entry>
+<entry><form>aškačiːwiwi</form><pos>v</pos><sense><def><en>it is a while later</en></def></sense></entry>
+<entry><form>aškamiː</form><pos>NIL</pos><sense><def><en>recently</en></def></sense></entry>
+<entry><form>aškapiwa</form><pos>v</pos><sense><def><en>he is tired of sitting</en></def></sense></entry>
+<entry><form>aškat</form><pos>NIL</pos><sense><def><en>by and by, in the course of time</en></def></sense></entry>
+<entry><form>aški</form><pos>NIL</pos><sense><def><en>at first</en></def></sense></entry>
+<entry><form>aški</form><pos>NIL</pos><sense><def><en>fresh</en></def></sense></entry>
+<entry><form>aškikiwa</form><pos>v</pos><sense><def><en>he is young, fresh, new</en></def></sense></entry>
+<entry><form>aškipak</form><pos>NIL</pos><sense><def><en>green</en></def></sense></entry>
+<entry><form>aškipakaːmehkwisetoːwa</form><pos>v</pos><sense><def><en>it lies as green land?</en></def></sense></entry>
+<entry><form>aškipakaːnahkwakoːteːwi</form><pos>v</pos><sense><def><en>it hangs as green sky</en></def></sense></entry>
+<entry><form>aškipakaːnahkwisetoːwa</form><pos>v</pos><sense><def><en>he hangs as green sky?</en></def></sense></entry>
+<entry><form>aškipakaːpehkatwi</form><pos>v</pos><sense><def><en>it is green stone</en></def></sense></entry>
+<entry><form>aškipakepyeːhaːteːwi</form><pos>v</pos><sense><def><en>it is painted green</en></def></sense></entry>
+<entry><form>aškipweːha</form><pos>n</pos><sense><def><en>sweet potato</en></def></sense></entry>
+<entry><form>aškiseːwi</form><pos>v</pos><sense><def><en>it ebbs, recedes</en></def></sense></entry>
+<entry><form>aškiteːheːwa</form><pos>v</pos><sense><def><en>he worries</en></def></sense></entry>
+<entry><form>aškohkeːwa</form><pos>v</pos><sense><def><en>he walks to the end</en></def></sense></entry>
+<entry><form>aškonamaːtisowa</form><pos>v</pos><sense><def><en>he leaves it from eating</en></def></sense></entry>
+<entry><form>aškonamwa</form><pos>v</pos><sense><def><en>he saves it up</en></def></sense></entry>
+<entry><form>aškoneːwa</form><pos>v</pos><sense><def><en>he saves him up</en></def></sense></entry>
+<entry><form>aškoteːhkeːwa</form><pos>n</pos><sense><def><en>match</en></def></sense></entry>
+<entry><form>aškoteːhkeːwa</form><pos>v</pos><sense><def><en>match</en></def></sense></entry>
+<entry><form>aškoteːneːsiwa</form><pos>n</pos><sense><def><en>spirit of fire</en></def></sense></entry>
+<entry><form>aškoteːwi</form><pos>n</pos><sense><def><en>fire</en></def></sense></entry>
+<entry><form>aškw</form><pos>NIL</pos><sense><def><en>save/leave</en></def></sense></entry>
+<entry><form>aškwaːteːmi</form><pos>n</pos><sense><def><en>door</en></def></sense></entry>
+<entry><form>aškwaːteːmiːwiwi</form><pos>v</pos><sense><def><en>it is a door</en></def></sense></entry>
+<entry><form>aškwatamaweːwa</form><pos>v</pos><sense><def><en>he leaves it for him from eating</en></def></sense></entry>
+<entry><form>aškwatamwa</form><pos>v</pos><sense><def><en>he leaves it from eating</en></def></sense></entry>
+<entry><form>aškweːyawi</form><pos>NIL</pos><sense><def><en>at the very end</en></def></sense></entry>
+<entry><form>aškweːyawikaːpaːwa</form><pos>v</pos><sense><def><en>he stands at the very end</en></def></sense></entry>
+<entry><form>aškwi</form><pos>NIL</pos><sense><def><en>saving, leaving</en></def></sense></entry>
+<entry><form>aškwiːwa</form><pos>v</pos><sense><def><en>he is left behind</en></def></sense></entry>
+<entry><form>aškwiheːwa</form><pos>v</pos><sense><def><en>he leaves him</en></def></sense></entry>
+<entry><form>aškwinaːhiwa</form><pos>v</pos><sense><def><en>he is left alive</en></def></sense></entry>
+<entry><form>aškwineːwa</form><pos>v</pos><sense><def><en>he leaves him, spares him</en></def></sense></entry>
+<entry><form>aškwiseːwa</form><pos>v</pos><sense><def><en>he has a remainder</en></def></sense></entry>
+<entry><form>aškwiwetaweːwa</form><pos>v</pos><sense><def><en>he leaves it to him from taking away</en></def></sense></entry>
+<entry><form>ašpakweːpineːwa</form><pos>v</pos><sense><def><en>he strangles him</en></def></sense></entry>
+<entry><form>asaːkiːwa</form><pos>n</pos><sense><def><en>sauk</en></def></sense></entry>
+<entry><form>asaːmehkonowa</form><pos>v</pos><sense><def><en>he overeats</en></def></sense></entry>
+<entry><form>asaːmesiwa</form><pos>v</pos><sense><def><en>he is excessive</en></def></sense></entry>
+<entry><form>asaːmesowa</form><pos>v</pos><sense><def><en>he overcooks</en></def></sense></entry>
+<entry><form>asaːmi</form><pos>NIL</pos><sense><def><en>too much, more than</en></def></sense></entry>
+<entry><form>asaːmi</form><pos>NIL</pos><sense><def><en>too much, more than</en></def></sense></entry>
+<entry><form>asaːmi</form><pos>NIL</pos><sense><def><en>too much, more than, certainly</en></def></sense></entry>
+<entry><form>asaːmiːhkaweːwa</form><pos>v</pos><sense><def><en>he frequents him too much</en></def></sense></entry>
+<entry><form>asaːmiheːwa</form><pos>v</pos><sense><def><en>he treats him outrageously</en></def></sense></entry>
+<entry><form>asaːwaːkešeːwa</form><pos>v</pos><sense><def><en>he wears yellow earrings</en></def></sense></entry>
+<entry><form>asaːweːkisweːwa</form><pos>v</pos><sense><def><en>he makes him into yellow leather</en></def></sense></entry>
+<entry><form>asaːwesiwa</form><pos>v</pos><sense><def><en>he is yellow</en></def></sense></entry>
+<entry><form>asapaːpi</form><pos>n</pos><sense><def><en>thread, cord, string</en></def></sense></entry>
+<entry><form>asapiːhkeːha</form><pos>n</pos><sense><def><en>spider web</en></def></sense></entry>
+<entry><form>asaya</form><pos>n</pos><sense><def><en>skin</en></def></sense></entry>
+<entry><form>asayi</form><pos>n</pos><sense><def><en>buck-skin</en></def></sense></entry>
+<entry><form>asayiːhi</form><pos>n</pos><sense><def><en>buck-skin thing</en></def></sense></entry>
+<entry><form>aseːha</form><pos>n</pos><sense><def><en>little skin</en></def></sense></entry>
+<entry><form>aseːhkeːwa</form><pos>v</pos><sense><def><en>he tans</en></def></sense></entry>
+<entry><form>aseːmaːwa</form><pos>n</pos><sense><def><en>tobacco</en></def></sense></entry>
+<entry><form>aseːwa</form><pos>v</pos><sense><def><en>he places him, he has him</en></def></sense></entry>
+<entry><form>asemiheːwa</form><pos>v</pos><sense><def><en>he helps him</en></def></sense></entry>
+<entry><form>asemihetiwaki</form><pos>v</pos><sense><def><en>they help each other</en></def></sense></entry>
+<entry><form>asemihiweːwa</form><pos>v</pos><sense><def><en>he helps people</en></def></sense></entry>
+<entry><form>asenaːmiši</form><pos>n</pos><sense><def><en>hard maple</en></def></sense></entry>
+<entry><form>asenaːmišiwa</form><pos>v</pos><sense><def><en>he is a hard maple</en></def></sense></entry>
+<entry><form>aseni</form><pos>n</pos><sense><def><en>stone</en></def></sense></entry>
+<entry><form>aseniːwiwa</form><pos>v</pos><sense><def><en>he is stone</en></def></sense></entry>
+<entry><form>asenikaːni</form><pos>n</pos><sense><def><en>stone house</en></def></sense></entry>
+<entry><form>asetiwaki</form><pos>v</pos><sense><def><en>they place, have one another</en></def></sense></entry>
+<entry><form>asip</form><pos>NIL</pos><sense><def><en>together</en></def></sense></entry>
+<entry><form>asipahpitoːwa</form><pos>v</pos><sense><def><en>he ties it in a bundle</en></def></sense></entry>
+<entry><form>asipehkweːkaːpaːwaki</form><pos>v</pos><sense><def><en>they stand with heads together</en></def></sense></entry>
+<entry><form>asipehkweːkeːwaki</form><pos>v</pos><sense><def><en>they dance with heads together</en></def></sense></entry>
+<entry><form>asipiːwa</form><pos>v</pos><sense><def><en>he is in a group</en></def></sense></entry>
+<entry><form>asipoːhpowa</form><pos>v</pos><sense><def><en>he eats in a group</en></def></sense></entry>
+<entry><form>asipoːšinwa</form><pos>v</pos><sense><def><en>he lies in a group</en></def></sense></entry>
+<entry><form>asoːyaːhkwišimeːwa</form><pos>v</pos><sense><def><en>he lays him slantwise</en></def></sense></entry>
+<entry><form>ataːhpaːpyeːsahtowa</form><pos>v</pos><sense><def><en>he yanks it on a string</en></def></sense></entry>
+<entry><form>ataːhpahweːwa</form><pos>v</pos><sense><def><en>he draws him in</en></def></sense></entry>
+<entry><form>ataːhpeːnemeːwa</form><pos>v</pos><sense><def><en>he takes him into thought</en></def></sense></entry>
+<entry><form>ataːhpenamaweːwa</form><pos>v</pos><sense><def><en>he takes hold of it for him</en></def></sense></entry>
+<entry><form>ataːhpenamaweːwa</form><pos>v</pos><sense><def><en>he takes hold of it for him</en></def></sense></entry>
+<entry><form>ataːhpenamwa</form><pos>v</pos><sense><def><en>he takes hold of it</en></def></sense></entry>
+<entry><form>ataːhpeneːwa</form><pos>v</pos><sense><def><en>he takes hold of him</en></def></sense></entry>
+<entry><form>ataːhpinehkeːneːwa</form><pos>v</pos><sense><def><en>he takes him by the arm</en></def></sense></entry>
+<entry><form>ataːmina</form><pos>n</pos><sense><def><en>maize-plant</en></def></sense></entry>
+<entry><form>ataːmineːha</form><pos>n</pos><sense><def><en>grain of maize</en></def></sense></entry>
+<entry><form>ataːpyaːna</form><pos>n</pos><sense><def><en>wagon</en></def></sense></entry>
+<entry><form>ataːweːkaːni</form><pos>n</pos><sense><def><en>shop, store</en></def></sense></entry>
+<entry><form>ataːweːwa</form><pos>v</pos><sense><def><en>he sells</en></def></sense></entry>
+<entry><form>atamaːkanaːhkwi</form><pos>n</pos><sense><def><en>pipestem</en></def></sense></entry>
+<entry><form>atameːheːwa</form><pos>v</pos><sense><def><en>he makes him smoke?</en></def></sense></entry>
+<entry><form>atameːhetiwaki</form><pos>v</pos><sense><def><en>they make each other smoke?</en></def></sense></entry>
+<entry><form>atameːwa</form><pos>v</pos><sense><def><en>he smokes</en></def></sense></entry>
+<entry><form>ataškaːha</form><pos>n</pos><sense><def><en>kingfisher</en></def></sense></entry>
+<entry><form>atasani</form><pos>n</pos><sense><def><en>booth</en></def></sense></entry>
+<entry><form>atasowa</form><pos>v</pos><sense><def><en>he burns himself</en></def></sense></entry>
+<entry><form>ateːhiminehkeːwa</form><pos>v</pos><sense><def><en>he gathers strawberries</en></def></sense></entry>
+<entry><form>ateːhimini</form><pos>n</pos><sense><def><en>strawberry</en></def></sense></entry>
+<entry><form>atekowa</form><pos>n</pos><sense><def><en>wave</en></def></sense></entry>
+<entry><form>atenaːweːnemeːwa</form><pos>v</pos><sense><def><en>he thinks less of him?</en></def></sense></entry>
+<entry><form>atenaːwi</form><pos>NIL</pos><sense><def><en>less</en></def></sense></entry>
+<entry><form>atoːhpowa</form><pos>v</pos><sense><def><en>he eats on things</en></def></sense></entry>
+<entry><form>atoːwa</form><pos>n</pos><sense><def><en>blood-clot</en></def></sense></entry>
+<entry><form>atwiː</form><pos>NIL</pos><sense><def><en>ouch!</en></def></sense></entry>
+<entry><form>aw</form><pos>NIL</pos><sense><def><en>all right, yes, hallo</en></def></sense></entry>
+<entry><form>awahiːna</form><pos>n</pos><sense><def><en>so and so</en></def></sense></entry>
+<entry><form>awahiːni</form><pos>n</pos><sense><def><en>what you may call it</en></def></sense></entry>
+<entry><form>awaneːwa</form><pos>v</pos><sense><def><en>he carries him away with him</en></def></sense></entry>
+<entry><form>awasowa</form><pos>v</pos><sense><def><en>he warms himself</en></def></sense></entry>
+<entry><form>awataːhkaweːwa</form><pos>v</pos><sense><def><en>he flings it to him</en></def></sense></entry>
+<entry><form>awataːkeːwa</form><pos>v</pos><sense><def><en>he carries it away for people</en></def></sense></entry>
+<entry><form>awataːpowaneːwa</form><pos>v</pos><sense><def><en>he fetches food for him</en></def></sense></entry>
+<entry><form>awataːšimeːwa</form><pos>v</pos><sense><def><en>he sends him wafting</en></def></sense></entry>
+<entry><form>awataːsetaweːwa</form><pos>v</pos><sense><def><en>he sends it to him on the wind</en></def></sense></entry>
+<entry><form>awataːsowa</form><pos>v</pos><sense><def><en>he sails on the wind</en></def></sense></entry>
+<entry><form>awataheːwa</form><pos>v</pos><sense><def><en>he makes him take something</en></def></sense></entry>
+<entry><form>awatahiweːwa</form><pos>v</pos><sense><def><en>he makes people take something</en></def></sense></entry>
+<entry><form>awataweːwa</form><pos>v</pos><sense><def><en>he carries it away for him</en></def></sense></entry>
+<entry><form>awatenamaweːwa</form><pos>v</pos><sense><def><en>he hands it over to him</en></def></sense></entry>
+<entry><form>awatenamwa</form><pos>v</pos><sense><def><en>he hands it over</en></def></sense></entry>
+<entry><form>awatoːmeːwa</form><pos>v</pos><sense><def><en>he carries him off on his back</en></def></sense></entry>
+<entry><form>awatoːtaheːwa</form><pos>v</pos><sense><def><en>he makes him carry it?</en></def></sense></entry>
+<entry><form>awatoːtamaweːwa</form><pos>v</pos><sense><def><en>he carries it on his back for him</en></def></sense></entry>
+<entry><form>awatoːtamwa</form><pos>v</pos><sense><def><en>he carries it off on his back</en></def></sense></entry>
+<entry><form>awatoːwa</form><pos>v</pos><sense><def><en>he carries it away with him</en></def></sense></entry>
+<entry><form>aweːwa</form><pos>v</pos><sense><def><en>he uses him</en></def></sense></entry>
+<entry><form>awiheːwa</form><pos>v</pos><sense><def><en>he lends something to him</en></def></sense></entry>
+<entry><form>awihiweːwa</form><pos>v</pos><sense><def><en>he lends to people</en></def></sense></entry>
+<entry><form>awimikatwi</form><pos>v</pos><sense><def><en>it is</en></def></sense></entry>
+<entry><form>awita</form><pos>NIL</pos><sense><def><en>not (with potential)</en></def></sense></entry>
+<entry><form>awiwa</form><pos>v</pos><sense><def><en>he is</en></def></sense></entry>
+<entry><form>awiyaːtoke</form><pos>NIL</pos><sense><def><en>all this time?</en></def></sense></entry>
+<entry><form>awoːtamwa</form><pos>v</pos><sense><def><en>he curses it</en></def></sense></entry>
+<entry><form>ay</form><pos>NIL</pos><sense><def><en>why!, come on!</en></def></sense></entry>
+<entry><form>ayaːčiːči</form><pos>NIL</pos><sense><def><en>earnestly, insistently</en></def></sense></entry>
+<entry><form>ayaːčiːči</form><pos>NIL</pos><sense><def><en>insistently, earnestly</en></def></sense></entry>
+<entry><form>ayaːčiːtweːwa</form><pos>v</pos><sense><def><en>he insists</en></def></sense></entry>
+<entry><form>ayaːhkoːwi</form><pos>NIL</pos><sense><def><en>in the rear, at the last</en></def></sense></entry>
+<entry><form>ayaːhkwi</form><pos>NIL</pos><sense><def><en>so far</en></def></sense></entry>
+<entry><form>ayaːkwači</form><pos>NIL</pos><sense><def><en>in a mass</en></def></sense></entry>
+<entry><form>ayaːkwateːwi</form><pos>v</pos><sense><def><en>it lies in a pile</en></def></sense></entry>
+<entry><form>ayaːnehka</form><pos>NIL</pos><sense><def><en>longer</en></def></sense></entry>
+<entry><form>ayaːnehkeːwi</form><pos>NIL</pos><sense><def><en>one after the other</en></def></sense></entry>
+<entry><form>ayaːnehkoːčikenwi</form><pos>v</pos><sense><def><en>it lengthens out</en></def></sense></entry>
+<entry><form>ayaːnehkoːtiːmikatwi</form><pos>v</pos><sense><def><en>is in mutual succession</en></def></sense></entry>
+<entry><form>ayaːninaːhi</form><pos>NIL</pos><sense><def><en>(in unseen place) there?</en></def></sense></entry>
+<entry><form>ayaːpamiːwa</form><pos>v</pos><sense><def><en>he goes back</en></def></sense></entry>
+<entry><form>ayaːpamoteːwa</form><pos>v</pos><sense><def><en>he moves camp back</en></def></sense></entry>
+<entry><form>ayaːpehtawi</form><pos>NIL</pos><sense><def><en>half</en></def></sense></entry>
+<entry><form>ayaːpehtawi</form><pos>NIL</pos><sense><def><en>halfway, half</en></def></sense></entry>
+<entry><form>ayaːpotaːnakešeːwa</form><pos>v</pos><sense><def><en>he has crooked ears</en></def></sense></entry>
+<entry><form>ayaːšoːhka</form><pos>NIL</pos><sense><def><en>by turns, alternately</en></def></sense></entry>
+<entry><form>ayaːtaswi</form><pos>NIL</pos><sense><def><en>so much each</en></def></sense></entry>
+<entry><form>ayaːtotaːteːwi</form><pos>v</pos><sense><def><en>it is told</en></def></sense></entry>
+<entry><form>ayaːwasi</form><pos>NIL</pos><sense><def><en>more</en></def></sense></entry>
+<entry><form>ayaːwihčiːhiwa</form><pos>v</pos><sense><def><en>he shoots with the bow</en></def></sense></entry>
+<entry><form>ayahkohkweːwa</form><pos>v</pos><sense><def><en>his hair is so long</en></def></sense></entry>
+<entry><form>ayakaːmaːhkiːwe</form><pos>NIL</pos><sense><def><en>from hill to hill</en></def></sense></entry>
+<entry><form>ayanehkiːhi</form><pos>NIL</pos><sense><def><en>a little</en></def></sense></entry>
+<entry><form>ayanehkiːhiwa</form><pos>v</pos><sense><def><en>he is few</en></def></sense></entry>
+<entry><form>ayaškači</form><pos>NIL</pos><sense><def><en>every little while</en></def></sense></entry>
+<entry><form>ayeːniːha</form><pos>n</pos><sense><def><en>opossum</en></def></sense></entry>
+<entry><form>ayeːniwe</form><pos>NIL</pos><sense><def><en>in one place, steadily</en></def></sense></entry>
+<entry><form>ayeːši</form><pos>NIL</pos><sense><def><en>any more, still</en></def></sense></entry>
+<entry><form>ayeːši</form><pos>NIL</pos><sense><def><en>still, any more</en></def></sense></entry>
+<entry><form>ayeːšikenwi</form><pos>v</pos><sense><def><en>it is still thus</en></def></sense></entry>
+<entry><form>ayeːšišinoːhiwa</form><pos>v</pos><sense><def><en>he still lies</en></def></sense></entry>
+<entry><form>ayiːhkwapiwa</form><pos>v</pos><sense><def><en>he is tired of sitting</en></def></sense></entry>
+<entry><form>ayiːhkweːnemeːwa</form><pos>v</pos><sense><def><en>he thinks him tired</en></def></sense></entry>
+<entry><form>ayiːhkwiːwa</form><pos>v</pos><sense><def><en>he is weary</en></def></sense></entry>
+<entry><form>ayiːhkwiheːwa</form><pos>v</pos><sense><def><en>he tires him</en></def></sense></entry>
+<entry><form>ayiːhkwinehkehokowa</form><pos>v</pos><sense><def><en>he is tired of his load</en></def></sense></entry>
+<entry><form>ayiːkwaːmaːčimeːwa</form><pos>v</pos><sense><def><en>he gives him a great?</en></def></sense></entry>
+<entry><form>ayiːkwaːmiːtaši</form><pos>NIL</pos><sense><def><en>with best effort</en></def></sense></entry>
+<entry><form>ayiːkwaːmiːwa</form><pos>v</pos><sense><def><en>he is zealous</en></def></sense></entry>
+<entry><form>ayiːkwaːmitiwaki</form><pos>v</pos><sense><def><en>they exhort each other</en></def></sense></entry>
+<entry><form>ayinahkateːwi</form><pos>v</pos><sense><def><en>it is thus set up</en></def></sense></entry>
+<entry><form>ayoːhetiwaki</form><pos>v</pos><sense><def><en>they make each other use it</en></def></sense></entry>
+<entry><form>ayoːhi</form><pos>NIL</pos><sense><def><en>here</en></def></sense></entry>
+<entry><form>ayoːniːnahi</form><pos>NIL</pos><sense><def><en>for a short time</en></def></sense></entry>
+<entry><form>ayoːtaːteːwi</form><pos>v</pos><sense><def><en>it is used?</en></def></sense></entry>
+<entry><form>ayoːteːwi</form><pos>v</pos><sense><def><en>it is used on things</en></def></sense></entry>
+<entry><form>ayoːtiwaki</form><pos>v</pos><sense><def><en>they use something on each other</en></def></sense></entry>
+<entry><form>ayoːtiwaki</form><pos>v</pos><sense><def><en>they use something on each other</en></def></sense></entry>
+<entry><form>ayoːwa</form><pos>v</pos><sense><def><en>he uses it</en></def></sense></entry>
+<entry><form>ayoːwa</form><pos>v</pos><sense><def><en>he uses it</en></def></sense></entry>
+<entry><form>ayoːweni</form><pos>n</pos><sense><def><en>tool</en></def></sense></entry>
+</lexicon>
+

@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lexicon lang="meno" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lexicon.xsd">
+<entry><form>æːh</form><pos>NIL</pos><sense><def><en>yes</en></def></sense></entry>
+<entry><form>æːhkiːhtemik</form><pos>v</pos><sense><def><en>as deep as it is (conj)</en></def></sense></entry>
+<entry><form>æːhkihnæh</form><pos>v</pos><sense><def><en>as far as it extends (conj)</en></def></sense></entry>
+<entry><form>æːhkik</form><pos>v</pos><sense><def><en>as long as it is (conj)</en></def></sense></entry>
+<entry><form>æːhkikatæːkæh</form><pos>v</pos><sense><def><en>as long as it is at the leg</en></def></sense></entry>
+<entry><form>æːhkinamæːhtok</form><pos>v</pos><sense><def><en>as far as his traces go</en></def></sense></entry>
+<entry><form>æːhseːhsæh</form><pos>n</pos><sense><def><en>clam</en></def></sense></entry>
+<entry><form>æːhsepan</form><pos>n</pos><sense><def><en>raccoon</en></def></sense></entry>
+<entry><form>æːhsepanakom</form><pos>n</pos><sense><def><en>raccoon skin</en></def></sense></entry>
+<entry><form>æːhtahnæːhken</form><pos>v</pos><sense><def><en>as many as they are</en></def></sense></entry>
+<entry><form>æːhtahnæh</form><pos>v</pos><sense><def><en>as much as it is</en></def></sense></entry>
+<entry><form>æːmeskuahsæh</form><pos>n</pos><sense><def><en>teaspoon, small spoon</en></def></sense></entry>
+<entry><form>æːmeskwan</form><pos>n</pos><sense><def><en>spoon, ladle</en></def></sense></entry>
+<entry><form>æːmeskwanehsen</form><pos>v</pos><sense><def><en>he lies like a spoon, doubled up</en></def></sense></entry>
+<entry><form>æːnečenæhkiːhsen</form><pos>v</pos><sense><def><en>he lies on his back</en></def></sense></entry>
+<entry><form>æːnečenæhsen</form><pos>v</pos><sense><def><en>he lies face up</en></def></sense></entry>
+<entry><form>æːnečenahosow</form><pos>v</pos><sense><def><en>he drives along lying on his back</en></def></sense></entry>
+<entry><form>æːnečenehnæn</form><pos>v</pos><sense><def><en>he lies face up</en></def></sense></entry>
+<entry><form>æːnečenehnetaːw</form><pos>v</pos><sense><def><en>he lays it face up</en></def></sense></entry>
+<entry><form>æːnečenehsemæːw</form><pos>v</pos><sense><def><en>he lays him face up</en></def></sense></entry>
+<entry><form>æːnečenepesow</form><pos>v</pos><sense><def><en>he falls down, speeds along on his backn</en></def></sense></entry>
+<entry><form>æːnečeneqtaw</form><pos>v</pos><sense><def><en>he gets down on his back</en></def></sense></entry>
+<entry><form>æːnek</form><pos>n</pos><sense><def><en>ant</en></def></sense></entry>
+<entry><form>æːnekoːhsæh</form><pos>n</pos><sense><def><en>ant (dim)</en></def></sense></entry>
+<entry><form>æːnekoːhsæhkew</form><pos>v</pos><sense><def><en>he (bear) gathers, eats ants</en></def></sense></entry>
+<entry><form>æːnekoːhseːhsæh</form><pos>n</pos><sense><def><en>little ant (dim)</en></def></sense></entry>
+<entry><form>æːniwæːk</form><pos>NIL</pos><sense><def><en>somewhat</en></def></sense></entry>
+<entry><form>æːs</form><pos>NIL</pos><sense><def><en>the so manieth (number)</en></def></sense></entry>
+<entry><form>æːses</form><pos>NIL</pos><sense><def><en>like</en></def></sense></entry>
+<entry><form>æːsiːw</form><pos>v</pos><sense><def><en>he grinds him</en></def></sense></entry>
+<entry><form>æːskam</form><pos>NIL</pos><sense><def><en>now and then</en></def></sense></entry>
+<entry><form>æːspayoːw</form><pos>n</pos><sense><def><en>spaniard</en></def></sense></entry>
+<entry><form>æːw</form><pos>v</pos><sense><def><en>only he is the one</en></def></sense></entry>
+<entry><form>æːw</form><pos>v</pos><sense><def><en>only it is the one</en></def></sense></entry>
+<entry><form>æːyawes</form><pos>NIL</pos><sense><def><en>at first</en></def></sense></entry>
+<entry><form>aːčemæsow</form><pos>v</pos><sense><def><en>he confesses, tells about himself</en></def></sense></entry>
+<entry><form>aːčemæw</form><pos>v</pos><sense><def><en>he tells about him</en></def></sense></entry>
+<entry><form>aːčemiːqtatowak</form><pos>v</pos><sense><def><en>they tell each other stories</en></def></sense></entry>
+<entry><form>aːčemiːqtawæw</form><pos>v</pos><sense><def><en>he tells him a story</en></def></sense></entry>
+<entry><form>aːčemow</form><pos>v</pos><sense><def><en>he narrates, reports an event</en></def></sense></entry>
+<entry><form>aːčemuahsæh</form><pos>n</pos><sense><def><en>little story</en></def></sense></entry>
+<entry><form>aːčemwan</form><pos>n</pos><sense><def><en>story, report</en></def></sense></entry>
+<entry><form>aːh</form><pos>NIL</pos><sense><def><en>dear me!</en></def></sense></entry>
+<entry><form>aːhpatah</form><pos>n</pos><sense><def><en>cane</en></def></sense></entry>
+<entry><form>aːhpatahonan</form><pos>n</pos><sense><def><en>canes</en></def></sense></entry>
+<entry><form>aːhpatahow</form><pos>v</pos><sense><def><en>he walks using a cane</en></def></sense></entry>
+<entry><form>aːhpen</form><pos>NIL</pos><sense><def><en>uniformly, always the same</en></def></sense></entry>
+<entry><form>aːhpenekæn</form><pos>n</pos><sense><def><en>flush (at poker)</en></def></sense></entry>
+<entry><form>aːhpenekæw</form><pos>v</pos><sense><def><en>it is the same all over, uniform</en></def></sense></entry>
+<entry><form>aːhpenekew</form><pos>v</pos><sense><def><en>he is uniform</en></def></sense></entry>
+<entry><form>aːhtayaːh</form><pos>NIL</pos><sense><def><en>alas!</en></def></sense></entry>
+<entry><form>aːhteteːmaːn</form><pos>NIL</pos><sense><def><en>alas! (archaic)</en></def></sense></entry>
+<entry><form>aːkaw</form><pos>NIL</pos><sense><def><en>behind or beyond something</en></def></sense></entry>
+<entry><form>aːkawaːhtek</form><pos>NIL</pos><sense><def><en>behind a tree or wooden obstacle</en></def></sense></entry>
+<entry><form>aːkaweːhnen</form><pos>v</pos><sense><def><en>it goes behind an obstacle to vision</en></def></sense></entry>
+<entry><form>aːkaweːhsen</form><pos>v</pos><sense><def><en>he goes behind an obstacle to vision</en></def></sense></entry>
+<entry><form>aːkawiːhkwaqsew</form><pos>v</pos><sense><def><en>he is in a trance or daze</en></def></sense></entry>
+<entry><form>aːkem</form><pos>n</pos><sense><def><en>snowshoe</en></def></sense></entry>
+<entry><form>aːkemoːhnæw</form><pos>v</pos><sense><def><en>he walks on snowshoes</en></def></sense></entry>
+<entry><form>aːkuapahtaw</form><pos>v</pos><sense><def><en>he runs round in front to head off</en></def></sense></entry>
+<entry><form>aːkuapahtuanæːw</form><pos>v</pos><sense><def><en>he runs so as to head him off</en></def></sense></entry>
+<entry><form>aːkuapahtwatam</form><pos>v</pos><sense><def><en>he runs so as to head it off</en></def></sense></entry>
+<entry><form>aːkuaqnæːhnen</form><pos>v</pos><sense><def><en>it is placed in shade or under shelter</en></def></sense></entry>
+<entry><form>aːkuaqnæːhnetaw</form><pos>v</pos><sense><def><en>he places it in the shade</en></def></sense></entry>
+<entry><form>aːkuaqnæːhsemæw</form><pos>v</pos><sense><def><en>he places him in the shade</en></def></sense></entry>
+<entry><form>aːkuaqnæːhsen</form><pos>v</pos><sense><def><en>he is placed in the shade</en></def></sense></entry>
+<entry><form>aːkuaqnæːskah</form><pos>n</pos><sense><def><en>his shadow</en></def></sense></entry>
+<entry><form>aːkuaqnæːskam</form><pos>v</pos><sense><def><en>he stands as to shade it, casts shadow</en></def></sense></entry>
+<entry><form>aːkuaqnæːskawæw</form><pos>v</pos><sense><def><en>he stands so as to shade him</en></def></sense></entry>
+<entry><form>aːkuaqnæhæw</form><pos>v</pos><sense><def><en>he shades him</en></def></sense></entry>
+<entry><form>aːkuaqnæham</form><pos>v</pos><sense><def><en>he shades or shelters it</en></def></sense></entry>
+<entry><form>aːkuaqnæhekaːsow</form><pos>v</pos><sense><def><en>he is sheltered or shaded</en></def></sense></entry>
+<entry><form>aːkuaqnæhekaːtæːw</form><pos>v</pos><sense><def><en>it is shade or sheltered</en></def></sense></entry>
+<entry><form>aːkuaqnæhekan</form><pos>n</pos><sense><def><en>umbrella, canopy, artificial shelter</en></def></sense></entry>
+<entry><form>aːkuaqnæhosow</form><pos>v</pos><sense><def><en>he shelters, shades himself</en></def></sense></entry>
+<entry><form>aːkuaqnæhoswan</form><pos>n</pos><sense><def><en>umbrella, parasol</en></def></sense></entry>
+<entry><form>aːkuaqnahsow</form><pos>v</pos><sense><def><en>he is in the shade or under shelter</en></def></sense></entry>
+<entry><form>aːkuaqnahtæw</form><pos>v</pos><sense><def><en>it is in the shade or under shelter</en></def></sense></entry>
+<entry><form>aːkuaqnahtyah</form><pos>NIL</pos><sense><def><en>in the shade, under shelter</en></def></sense></entry>
+<entry><form>aːkuaqtæːhnen</form><pos>v</pos><sense><def><en>it is in the shade</en></def></sense></entry>
+<entry><form>aːkuaqtæːhsen</form><pos>v</pos><sense><def><en>he is in the shade</en></def></sense></entry>
+<entry><form>aːm</form><pos>NIL</pos><sense><def><en>almost</en></def></sense></entry>
+<entry><form>aːmahæw</form><pos>v</pos><sense><def><en>he wards him off with a tool</en></def></sense></entry>
+<entry><form>aːmaham</form><pos>v</pos><sense><def><en>he wards it off with a tool or weapon</en></def></sense></entry>
+<entry><form>aːmehnæn</form><pos>v</pos><sense><def><en>it sags or falls to one side</en></def></sense></entry>
+<entry><form>aːmehsen</form><pos>v</pos><sense><def><en>he sags to one side</en></def></sense></entry>
+<entry><form>aːmoːhsæh</form><pos>n</pos><sense><def><en>small bee</en></def></sense></entry>
+<entry><form>aːmoːw</form><pos>n</pos><sense><def><en>bee, especially of larger species</en></def></sense></entry>
+<entry><form>aːmoːwmesaːsaːh</form><pos>n</pos><sense><def><en>gadfly</en></def></sense></entry>
+<entry><form>aːnæh</form><pos>n</pos><sense><def><en>some, some of them</en></def></sense></entry>
+<entry><form>aːnæh</form><pos>NIL</pos><sense><def><en>some, some of them</en></def></sense></entry>
+<entry><form>aːnæhkan</form><pos>NIL</pos><sense><def><en>in turn (archaic)?</en></def></sense></entry>
+<entry><form>aːnæhkanoːhtawæw</form><pos>v</pos><sense><def><en>he interprets him</en></def></sense></entry>
+<entry><form>aːnæhkanoːhtawekow</form><pos>v</pos><sense><def><en>he interprets for people, for someone</en></def></sense></entry>
+<entry><form>aːnæhkanoːhtawekow</form><pos>n</pos><sense><def><en>interpreter</en></def></sense></entry>
+<entry><form>aːnæhkom</form><pos>NIL</pos><sense><def><en>in company</en></def></sense></entry>
+<entry><form>aːnæhkow</form><pos>NIL</pos><sense><def><en>in continuation, in adjunction</en></def></sense></entry>
+<entry><form>aːnæhkowečikæn</form><pos>v</pos><sense><def><en>it grows or is a bodily continuation</en></def></sense></entry>
+<entry><form>aːnæhkowehnæn</form><pos>v</pos><sense><def><en>it lies as an added link</en></def></sense></entry>
+<entry><form>aːnæhseːqtam</form><pos>v</pos><sense><def><en>he gives it up</en></def></sense></entry>
+<entry><form>aːnæhseːqtaw</form><pos>v</pos><sense><def><en>he quits what he is doing</en></def></sense></entry>
+<entry><form>aːnæhseːqtawæw</form><pos>v</pos><sense><def><en>he gives him up</en></def></sense></entry>
+<entry><form>aːnahkwat</form><pos>n</pos><sense><def><en>cloud</en></def></sense></entry>
+<entry><form>aːnahkwat</form><pos>v</pos><sense><def><en>there is a cloud</en></def></sense></entry>
+<entry><form>aːnamaːhkyah</form><pos>NIL</pos><sense><def><en>on the uphill slope</en></def></sense></entry>
+<entry><form>aːnawænehtam</form><pos>v</pos><sense><def><en>he despairs of it</en></def></sense></entry>
+<entry><form>aːnawænemæw</form><pos>v</pos><sense><def><en>he despairs of him</en></def></sense></entry>
+<entry><form>aːnaweːhtaw</form><pos>v</pos><sense><def><en>he fails to deal with it, to get it</en></def></sense></entry>
+<entry><form>aːnawehæːw</form><pos>v</pos><sense><def><en>he fails to deal with him, to get him</en></def></sense></entry>
+<entry><form>aːnawehæhkiwæːw</form><pos>v</pos><sense><def><en>he fails to get a woman</en></def></sense></entry>
+<entry><form>aːnawehæsow</form><pos>v</pos><sense><def><en>he fails, gives up, cannot manage</en></def></sense></entry>
+<entry><form>aːnawiːhtuwæw</form><pos>v</pos><sense><def><en>he fails to deal with it for him</en></def></sense></entry>
+<entry><form>aːnehkamaːnan</form><pos>n</pos><sense><def><en>suspenders</en></def></sense></entry>
+<entry><form>aːnehkanoːhtam</form><pos>v</pos><sense><def><en>he interprets it</en></def></sense></entry>
+<entry><form>aːnemæsew</form><pos>v</pos><sense><def><en>he is in a bad state, dangerously ill</en></def></sense></entry>
+<entry><form>aːnemaːnohah</form><pos>n</pos><sense><def><en>german who has married into the tribe</en></def></sense></entry>
+<entry><form>aːnemaːw</form><pos>n</pos><sense><def><en>german</en></def></sense></entry>
+<entry><form>aːnemaːweqnæsew</form><pos>v</pos><sense><def><en>he speaks german</en></def></sense></entry>
+<entry><form>aːnemaːwiːk</form><pos>n</pos><sense><def><en>blue drill cloth</en></def></sense></entry>
+<entry><form>aːnemaːwiahkiːhsæh</form><pos>n</pos><sense><def><en>german girl</en></def></sense></entry>
+<entry><form>aːnemaːwiahkiw</form><pos>n</pos><sense><def><en>german woman</en></def></sense></entry>
+<entry><form>aːnemehæːw</form><pos>v</pos><sense><def><en>he scolds him severely</en></def></sense></entry>
+<entry><form>aːniːhtawæw</form><pos>v</pos><sense><def><en>he turns a deaf ear to him</en></def></sense></entry>
+<entry><form>aːniːnehtam</form><pos>v</pos><sense><def><en>he finds serious fault with it</en></def></sense></entry>
+<entry><form>aːniːnemæw</form><pos>v</pos><sense><def><en>he finds serious fault with him</en></def></sense></entry>
+<entry><form>aːnuahkičen</form><pos>v</pos><sense><def><en>he is stopped by bushes</en></def></sense></entry>
+<entry><form>aːpæːhtam</form><pos>v</pos><sense><def><en>he unravels it; he reads it</en></def></sense></entry>
+<entry><form>aːpæhtaw</form><pos>NIL</pos><sense><def><en>half</en></def></sense></entry>
+<entry><form>aːpæhtawaskenæːw</form><pos>v</pos><sense><def><en>he is half full</en></def></sense></entry>
+<entry><form>aːpæhtawaskenæːw</form><pos>v</pos><sense><def><en>it is half full</en></def></sense></entry>
+<entry><form>aːpæhtawaskenanæw</form><pos>v</pos><sense><def><en>he fills him half full</en></def></sense></entry>
+<entry><form>aːpæhtawehnæw</form><pos>v</pos><sense><def><en>it is wednesday</en></def></sense></entry>
+<entry><form>aːpæhtawekæn</form><pos>v</pos><sense><def><en>it is half grown</en></def></sense></entry>
+<entry><form>aːpæhtawekew</form><pos>v</pos><sense><def><en>he is half grown</en></def></sense></entry>
+<entry><form>aːpæhtaweqtaw</form><pos>v</pos><sense><def><en>he does something halfway</en></def></sense></entry>
+<entry><form>aːpæhtawesew</form><pos>n</pos><sense><def><en>half-breed</en></def></sense></entry>
+<entry><form>aːpæhtawesiahkiw</form><pos>n</pos><sense><def><en>halfwomanbreed woman</en></def></sense></entry>
+<entry><form>aːpæhtoːsken</form><pos>NIL</pos><sense><def><en>half full</en></def></sense></entry>
+<entry><form>aːpæhtočiːnam</form><pos>v</pos><sense><def><en>he grasps it at the middle</en></def></sense></entry>
+<entry><form>aːpæhtopiːw</form><pos>v</pos><sense><def><en>he is half full of liquid</en></def></sense></entry>
+<entry><form>aːpæhtopiːw</form><pos>v</pos><sense><def><en>it is half full (of liquid)</en></def></sense></entry>
+<entry><form>aːpæhtopyanæw</form><pos>v</pos><sense><def><en>he fills him half full of liquid</en></def></sense></entry>
+<entry><form>aːpæhtopyataw</form><pos>v</pos><sense><def><en>he fills it half full of liquid</en></def></sense></entry>
+<entry><form>aːpameːqtaw</form><pos>v</pos><sense><def><en>he turns sharply around, wheels back</en></def></sense></entry>
+<entry><form>aːpehtawaskenataw</form><pos>v</pos><sense><def><en>he fills it half full</en></def></sense></entry>
+<entry><form>aːpekuahtawæw</form><pos>v</pos><sense><def><en>he comes downstairs</en></def></sense></entry>
+<entry><form>aːpenam</form><pos>v</pos><sense><def><en>he untangles it</en></def></sense></entry>
+<entry><form>aːpeseːhčekan</form><pos>n</pos><sense><def><en>reviving medecine</en></def></sense></entry>
+<entry><form>aːpeseːhsen</form><pos>v</pos><sense><def><en>he revives, he comes back to life</en></def></sense></entry>
+<entry><form>aːpeskaw</form><pos>v</pos><sense><def><en>he regains consciousness</en></def></sense></entry>
+<entry><form>aːpiːhæːw</form><pos>v</pos><sense><def><en>he wins back from him</en></def></sense></entry>
+<entry><form>aːpiːhsen</form><pos>v</pos><sense><def><en>he returns from his journey</en></def></sense></entry>
+<entry><form>aːpiːkenæw</form><pos>v</pos><sense><def><en>he unfolds him as cloth</en></def></sense></entry>
+<entry><form>aːpiːkenam</form><pos>v</pos><sense><def><en>he unfolds it as cloth</en></def></sense></entry>
+<entry><form>aːpiːnamotam</form><pos>v</pos><sense><def><en>he pays compensation for it</en></def></sense></entry>
+<entry><form>aːpiːnamotwan</form><pos>n</pos><sense><def><en>compensation</en></def></sense></entry>
+<entry><form>aːpiːnamowæːw</form><pos>v</pos><sense><def><en>he pays him compensation</en></def></sense></entry>
+<entry><form>aːpoːčiːčkinam</form><pos>v</pos><sense><def><en>he uncovers its face</en></def></sense></entry>
+<entry><form>aːpočiːčkinamowæw</form><pos>v</pos><sense><def><en>he pulls back his foreskin for him</en></def></sense></entry>
+<entry><form>aːpokow</form><pos>v</pos><sense><def><en>he receives a hunter's treat</en></def></sense></entry>
+<entry><form>aːpokwahæːw</form><pos>v</pos><sense><def><en>he gives him a hunter's treat</en></def></sense></entry>
+<entry><form>aːpokwahætowak</form><pos>v</pos><sense><def><en>they give each other hunters' treats</en></def></sense></entry>
+<entry><form>aːpokwahætwan</form><pos>n</pos><sense><def><en>hunters' treating</en></def></sense></entry>
+<entry><form>aːpokwahewæw</form><pos>v</pos><sense><def><en>he gives hunters' treats</en></def></sense></entry>
+<entry><form>aːpomænekatæːw</form><pos>v</pos><sense><def><en>it is whole-soled</en></def></sense></entry>
+<entry><form>aːponæw</form><pos>v</pos><sense><def><en>he turns him inside out</en></def></sense></entry>
+<entry><form>aːposæːhkaw</form><pos>v</pos><sense><def><en>it turns inside out</en></def></sense></entry>
+<entry><form>aːposam</form><pos>v</pos><sense><def><en>he thaws it out</en></def></sense></entry>
+<entry><form>aːposiw</form><pos>v</pos><sense><def><en>he thaws him out</en></def></sense></entry>
+<entry><form>aːposow</form><pos>v</pos><sense><def><en>he thaws out</en></def></sense></entry>
+<entry><form>aːpotænam</form><pos>v</pos><sense><def><en>he turns it inside out</en></def></sense></entry>
+<entry><form>aːpotæw</form><pos>v</pos><sense><def><en>it thaws out</en></def></sense></entry>
+<entry><form>aːpoweːqnakeːhčen</form><pos>v</pos><sense><def><en>he lies soaking</en></def></sense></entry>
+<entry><form>aːpoweːqnakiːhtæw</form><pos>v</pos><sense><def><en>it lies soaking</en></def></sense></entry>
+<entry><form>aːpoweːqnekamesam</form><pos>v</pos><sense><def><en>he soaks it boiling</en></def></sense></entry>
+<entry><form>aːpoweːqnemæw</form><pos>v</pos><sense><def><en>he soaks him loose</en></def></sense></entry>
+<entry><form>aːpoweːqnen</form><pos>v</pos><sense><def><en>it soaks loose, gets pliable from soaking</en></def></sense></entry>
+<entry><form>aːpoweːqnetaw</form><pos>v</pos><sense><def><en>he soaks it loose, pliable</en></def></sense></entry>
+<entry><form>aːpoweːqsew</form><pos>v</pos><sense><def><en>he soaks loose</en></def></sense></entry>
+<entry><form>aːpowiːqnekamesiw</form><pos>v</pos><sense><def><en>he soaks him boiling</en></def></sense></entry>
+<entry><form>aːqnamæːskam</form><pos>v</pos><sense><def><en>he goes against the wind</en></def></sense></entry>
+<entry><form>aːqnamaːhkiwew</form><pos>v</pos><sense><def><en>the land goes uphill</en></def></sense></entry>
+<entry><form>aːqnamatæhkiːqsew</form><pos>v</pos><sense><def><en>he has hair blown back going against wind</en></def></sense></entry>
+<entry><form>aːqsehætowak</form><pos>v</pos><sense><def><en>they infect each other</en></def></sense></entry>
+<entry><form>aːqsehætwan</form><pos>n</pos><sense><def><en>infection</en></def></sense></entry>
+<entry><form>aːqsehæw</form><pos>v</pos><sense><def><en>he infects him</en></def></sense></entry>
+<entry><form>aːqsehtaw</form><pos>v</pos><sense><def><en>he infects it</en></def></sense></entry>
+<entry><form>aːqtæːqnen</form><pos>v</pos><sense><def><en>it is extinguished by the wind</en></def></sense></entry>
+<entry><form>aːqtæːskam</form><pos>v</pos><sense><def><en>he extinguishes it by stepping on it</en></def></sense></entry>
+<entry><form>aːqtæham</form><pos>v</pos><sense><def><en>he extinguishes it by tool</en></def></sense></entry>
+<entry><form>aːqtæhekæːw</form><pos>v</pos><sense><def><en>he puts out the fire, the light</en></def></sense></entry>
+<entry><form>aːqtæw</form><pos>v</pos><sense><def><en>it ceases to burn, goes out</en></def></sense></entry>
+<entry><form>aːqtæyapaːwæːw</form><pos>v</pos><sense><def><en>it is extinguished by flush of water</en></def></sense></entry>
+<entry><form>aːqtæyapaːwataw</form><pos>v</pos><sense><def><en>he extinguishes it by flush of water</en></def></sense></entry>
+<entry><form>aːqtanæːhtam</form><pos>v</pos><sense><def><en>he extinguishes it by blowing</en></def></sense></entry>
+<entry><form>aːqtawæw</form><pos>v</pos><sense><def><en>he has his fire gone out</en></def></sense></entry>
+<entry><form>aːqtenam</form><pos>v</pos><sense><def><en>he extinguishes it by hand</en></def></sense></entry>
+<entry><form>aːqtihnæw</form><pos>v</pos><sense><def><en>it leans, lies leaning on something</en></def></sense></entry>
+<entry><form>aːqtihnetaːw</form><pos>v</pos><sense><def><en>he leans it on something</en></def></sense></entry>
+<entry><form>aːqtihsemæːw</form><pos>v</pos><sense><def><en>he leans him on something</en></def></sense></entry>
+<entry><form>aːqtihsen</form><pos>v</pos><sense><def><en>he leans on something</en></def></sense></entry>
+<entry><form>aːqtuahkihnæn</form><pos>v</pos><sense><def><en>it is placed leaning against a solid</en></def></sense></entry>
+<entry><form>aːqtuahkihsen</form><pos>v</pos><sense><def><en>he is placed leaning against a solid</en></def></sense></entry>
+<entry><form>aːqtwahpenæːw</form><pos>v</pos><sense><def><en>he ties him to a support</en></def></sense></entry>
+<entry><form>aːqtwahpetaːw</form><pos>v</pos><sense><def><en>he ties it to a support</en></def></sense></entry>
+<entry><form>aːsaw</form><pos>NIL</pos><sense><def><en>beyond, across, on the other side</en></def></sense></entry>
+<entry><form>aːsawaːhkyah</form><pos>NIL</pos><sense><def><en>at the far side of the hill</en></def></sense></entry>
+<entry><form>aːsawaːhtek</form><pos>NIL</pos><sense><def><en>behind the tree</en></def></sense></entry>
+<entry><form>aːsawakaːm</form><pos>NIL</pos><sense><def><en>at the opposite side</en></def></sense></entry>
+<entry><form>aːsawiːhkanaw</form><pos>NIL</pos><sense><def><en>at the far side of the road</en></def></sense></entry>
+<entry><form>aːseːwesew</form><pos>v</pos><sense><def><en>he gets a bad omen</en></def></sense></entry>
+<entry><form>aːsepæːhkihkiw</form><pos>n</pos><sense><def><en>rocky place</en></def></sense></entry>
+<entry><form>aːsepæːhkihkiw</form><pos>v</pos><sense><def><en>there is a rock</en></def></sense></entry>
+<entry><form>aːsepæːhkyah</form><pos>NIL</pos><sense><def><en>on the rock or cliff</en></def></sense></entry>
+<entry><form>aːsepæh</form><pos>n</pos><sense><def><en>rock, cliff</en></def></sense></entry>
+<entry><form>aːset</form><pos>NIL</pos><sense><def><en>in turn, in return</en></def></sense></entry>
+<entry><form>aːsetæːhkawæw</form><pos>v</pos><sense><def><en>he alternates with him</en></def></sense></entry>
+<entry><form>aːsetæːhnetaw</form><pos>v</pos><sense><def><en>he lays them alternating or overlapping</en></def></sense></entry>
+<entry><form>aːsetæːhsemæw</form><pos>v</pos><sense><def><en>he lays them alternating or overlapping</en></def></sense></entry>
+<entry><form>aːseyan</form><pos>n</pos><sense><def><en>breech clout</en></def></sense></entry>
+<entry><form>aːsokæpahtaw</form><pos>v</pos><sense><def><en>he runs crossing a bridge, ford</en></def></sense></entry>
+<entry><form>aːsokæw</form><pos>v</pos><sense><def><en>he crosses a bridge, ford</en></def></sense></entry>
+<entry><form>aːsokan</form><pos>n</pos><sense><def><en>bridge</en></def></sense></entry>
+<entry><form>aːsuaham</form><pos>v</pos><sense><def><en>he crosses it by a medium</en></def></sense></entry>
+<entry><form>aːsuahonæw</form><pos>v</pos><sense><def><en>he paddles him across</en></def></sense></entry>
+<entry><form>aːsuahotaw</form><pos>v</pos><sense><def><en>he paddles it across, ferries it over</en></def></sense></entry>
+<entry><form>aːsuahow</form><pos>v</pos><sense><def><en>he paddles, swims across</en></def></sense></entry>
+<entry><form>aːsuakaːm</form><pos>NIL</pos><sense><def><en>across the wigwam</en></def></sense></entry>
+<entry><form>aːsuakaːmahætowak</form><pos>v</pos><sense><def><en>they sit across lodge from each other</en></def></sense></entry>
+<entry><form>aːsuakanæːhsen</form><pos>v</pos><sense><def><en>he lies with legs crossed</en></def></sense></entry>
+<entry><form>aːsuakanæpew</form><pos>v</pos><sense><def><en>he sits with legs crossed</en></def></sense></entry>
+<entry><form>aːtæh</form><pos>n</pos><sense><def><en>my great grandfather</en></def></sense></entry>
+<entry><form>aːtæqnoːhkæw</form><pos>v</pos><sense><def><en>he tells a sacred story</en></def></sense></entry>
+<entry><form>aːtæqnoːhkakan</form><pos>n</pos><sense><def><en>sacred story</en></def></sense></entry>
+<entry><form>aːtæqnoːhkasow</form><pos>v</pos><sense><def><en>he is the subject of a sacred story</en></def></sense></entry>
+<entry><form>aːtæqnuːhkuwæw</form><pos>v</pos><sense><def><en>he tells him a sacred story</en></def></sense></entry>
+<entry><form>aːtotam</form><pos>v</pos><sense><def><en>he tells of it</en></def></sense></entry>
+<entry><form>aːwæːh</form><pos>NIL</pos><sense><def><en>good!, thanks!</en></def></sense></entry>
+<entry><form>aːwæːnemæw</form><pos>v</pos><sense><def><en>he thinks him to be (so and so)</en></def></sense></entry>
+<entry><form>aːwehæw</form><pos>v</pos><sense><def><en>he treats him as (so and so)</en></def></sense></entry>
+<entry><form>aːwew</form><pos>v</pos><sense><def><en>he is (so and so)</en></def></sense></entry>
+<entry><form>aːwew</form><pos>v</pos><sense><def><en>it is (so and so)</en></def></sense></entry>
+<entry><form>aːyæːnin</form><pos>n</pos><sense><def><en>laughter, laugh, smile</en></def></sense></entry>
+<entry><form>aːyæːninkiːketwan</form><pos>n</pos><sense><def><en>jesting word of speech</en></def></sense></entry>
+<entry><form>aːyæːniw</form><pos>v</pos><sense><def><en>he laughs</en></def></sense></entry>
+<entry><form>aːyaːhpen</form><pos>NIL</pos><sense><def><en>uniformly, always the same</en></def></sense></entry>
+<entry><form>aːyaːhsiahkam</form><pos>v</pos><sense><def><en>he strives for it</en></def></sense></entry>
+<entry><form>aːyaːnæqnæw</form><pos>v</pos><sense><def><en>he scolds him</en></def></sense></entry>
+<entry><form>aːyaːnæqtaw</form><pos>v</pos><sense><def><en>he scolds it</en></def></sense></entry>
+<entry><form>aːyaːqtæw</form><pos>v</pos><sense><def><en>it ceases to burn, it goes out</en></def></sense></entry>
+<entry><form>aːyaːtæːqnoːhkatæw</form><pos>v</pos><sense><def><en>it is subject of a sacred story</en></def></sense></entry>
+<entry><form>aːyaːtæh</form><pos>n</pos><sense><def><en>my ancestress</en></def></sense></entry>
+<entry><form>aːyaːw</form><pos>v</pos><sense><def><en>he uses it</en></def></sense></entry>
+<entry><form>aːyaːwanæw</form><pos>v</pos><sense><def><en>he yawns</en></def></sense></entry>
+<entry><form>aːyahkiwenæw</form><pos>v</pos><sense><def><en>it is so long at the horns</en></def></sense></entry>
+<entry><form>aːyahkonæːhæːw</form><pos>v</pos><sense><def><en>he keeps watching for them</en></def></sense></entry>
+<entry><form>aːyahkowak</form><pos>v</pos><sense><def><en>they are so long</en></def></sense></entry>
+<entry><form>aːyahpeːhtohnæw</form><pos>v</pos><sense><def><en>he walks on at that pace</en></def></sense></entry>
+<entry><form>aːyaniw</form><pos>NIL</pos><sense><def><en>here and there</en></def></sense></entry>
+<entry><form>aːyapaːqsow</form><pos>v</pos><sense><def><en>he suns himself, warms himself in sun</en></def></sense></entry>
+<entry><form>aːyapew</form><pos>v</pos><sense><def><en>he is in place, he is there, he sits</en></def></sense></entry>
+<entry><form>aːyaqčiahnesekan</form><pos>n</pos><sense><def><en>sneezewood, wild bergamot</en></def></sense></entry>
+<entry><form>aːyespewæːpehsemæːw</form><pos>v</pos><sense><def><en>he bounces him (ball) up and down</en></def></sense></entry>
+<entry><form>aːyiːqsawæːqtaw</form><pos>v</pos><sense><def><en>he moves to this side and to that</en></def></sense></entry>
+<entry><form>aːyiːsoh</form><pos>NIL</pos><sense><def><en>by turns, reciprocally</en></def></sense></entry>
+<entry><form>aːyiːtawiːhkanaw</form><pos>NIL</pos><sense><def><en>at both sides of the road</en></def></sense></entry>
+<entry><form>aːyiqsawæːkahækan</form><pos>n</pos><sense><def><en>square timber</en></def></sense></entry>
+<entry><form>aːyiqsawæːkahæw</form><pos>v</pos><sense><def><en>he hews him square</en></def></sense></entry>
+<entry><form>aːyiqsawæːkaham</form><pos>v</pos><sense><def><en>he hews it square</en></def></sense></entry>
+<entry><form>aːyiqsawæːkahekaːsow</form><pos>v</pos><sense><def><en>he is hewn square</en></def></sense></entry>
+<entry><form>aːyiqsawæːkahekaːtæːw</form><pos>v</pos><sense><def><en>it is hewn square</en></def></sense></entry>
+<entry><form>aːyiqsawæːken</form><pos>v</pos><sense><def><en>it is square</en></def></sense></entry>
+<entry><form>aːyiqsawæːkew</form><pos>v</pos><sense><def><en>he is square</en></def></sense></entry>
+<entry><form>aːyoːsehæw</form><pos>v</pos><sense><def><en>he makes him laugh</en></def></sense></entry>
+<entry><form>aːyoːsenam</form><pos>v</pos><sense><def><en>he laughs at it</en></def></sense></entry>
+<entry><form>aːyoːsenasow</form><pos>v</pos><sense><def><en>he laughs at himself</en></def></sense></entry>
+<entry><form>aːyoːsenawæːw</form><pos>v</pos><sense><def><en>he laughs at him</en></def></sense></entry>
+<entry><form>aːyočiːqtapæːqtaw</form><pos>v</pos><sense><def><en>he moves with muscles showing</en></def></sense></entry>
+<entry><form>aːyonæːhkaw</form><pos>n</pos><sense><def><en>good gun</en></def></sense></entry>
+<entry><form>aːyonæːhkaw</form><pos>v</pos><sense><def><en>it works well, it (gun) shoots well</en></def></sense></entry>
+<entry><form>ačeːčekapoweːhčekasow</form><pos>v</pos><sense><def><en>he is placed standing upside down</en></def></sense></entry>
+<entry><form>ačeːčekapoweːhčekatæːw</form><pos>v</pos><sense><def><en>it is placed standing upside down</en></def></sense></entry>
+<entry><form>ačeːčekapoweːhtaw</form><pos>v</pos><sense><def><en>he stands it upside down</en></def></sense></entry>
+<entry><form>ačeːčekapowehæːw</form><pos>v</pos><sense><def><en>he stands him upside down, on his head</en></def></sense></entry>
+<entry><form>ačeːčekapowew</form><pos>v</pos><sense><def><en>he stands upside down</en></def></sense></entry>
+<entry><form>ačeːčekapowew</form><pos>v</pos><sense><def><en>it stands upside down</en></def></sense></entry>
+<entry><form>ačeːskew</form><pos>n</pos><sense><def><en>mud</en></def></sense></entry>
+<entry><form>ačeːskewew</form><pos>v</pos><sense><def><en>he is muddy</en></def></sense></entry>
+<entry><form>ačeːskewew</form><pos>v</pos><sense><def><en>it is muddy</en></def></sense></entry>
+<entry><form>ačiːskehkiw</form><pos>n</pos><sense><def><en>swampy spot, muddy place</en></def></sense></entry>
+<entry><form>ačkiːwæːqtaw</form><pos>v</pos><sense><def><en>he gets tired at his work or movement</en></def></sense></entry>
+<entry><form>ačkoːw</form><pos>v</pos><sense><def><en>he gets or is tired</en></def></sense></entry>
+<entry><form>ahkæːh</form><pos>n</pos><sense><def><en>kettle, pot, pail</en></def></sense></entry>
+<entry><form>ahkæːhkoːhsæh</form><pos>n</pos><sense><def><en>small kettle or pail, can, tin</en></def></sense></entry>
+<entry><form>ahkæːhkohkæw</form><pos>v</pos><sense><def><en>he makes kettles</en></def></sense></entry>
+<entry><form>ahkæːhkohkæw</form><pos>n</pos><sense><def><en>ironmonger, tinsmith</en></def></sense></entry>
+<entry><form>ahkæːhkohkæwikamek</form><pos>n</pos><sense><def><en>ironmonger's shop, hardware shop</en></def></sense></entry>
+<entry><form>ahkæːhkopenaːkan</form><pos>n</pos><sense><def><en>basket</en></def></sense></entry>
+<entry><form>ahkæːhkyan</form><pos>n</pos><sense><def><en>hearth, cooking place inside the house</en></def></sense></entry>
+<entry><form>ahkæːw</form><pos>v</pos><sense><def><en>he breaks bones for marrow</en></def></sense></entry>
+<entry><form>ahkaːnæhkwan</form><pos>n</pos><sense><def><en>dandruff</en></def></sense></entry>
+<entry><form>ahkaːnæhkwaneːwew</form><pos>v</pos><sense><def><en>he has dandruff, is dandruffy</en></def></sense></entry>
+<entry><form>ahkaːnæhkwaneːwew</form><pos>v</pos><sense><def><en>it has dandruff, it is dandruffy</en></def></sense></entry>
+<entry><form>ahkanom</form><pos>NIL</pos><sense><def><en>long ago</en></def></sense></entry>
+<entry><form>ahkeːhsæh</form><pos>n</pos><sense><def><en>acre, small piece of land</en></def></sense></entry>
+<entry><form>ahkeːw</form><pos>n</pos><sense><def><en>land, earth; summer, year (archaic)</en></def></sense></entry>
+<entry><form>ahkeːweh</form><pos>NIL</pos><sense><def><en>rare</en></def></sense></entry>
+<entry><form>ahkeːwew</form><pos>v</pos><sense><def><en>it is land, earth; there is an earth</en></def></sense></entry>
+<entry><form>ahkiːheh</form><pos>NIL</pos><sense><def><en>on earth, on land, on the ground</en></def></sense></entry>
+<entry><form>ahkiːhnen</form><pos>v</pos><sense><def><en>it extends so far</en></def></sense></entry>
+<entry><form>ahkiːhsen</form><pos>v</pos><sense><def><en>it extends so far</en></def></sense></entry>
+<entry><form>ahkiːhtemiw</form><pos>v</pos><sense><def><en>the water is so deep</en></def></sense></entry>
+<entry><form>ahkiːkaːtæːken</form><pos>v</pos><sense><def><en>it is so long at the leg</en></def></sense></entry>
+<entry><form>ahkiːqč</form><pos>v</pos><sense><def><en>it is high time, with time pressing</en></def></sense></entry>
+<entry><form>ahkiːqnemæw</form><pos>v</pos><sense><def><en>he wets him</en></def></sense></entry>
+<entry><form>ahkiːqnen</form><pos>v</pos><sense><def><en>it is wet</en></def></sense></entry>
+<entry><form>ahkiːqnen</form><pos>n</pos><sense><def><en>moisture, the wet</en></def></sense></entry>
+<entry><form>ahkiːqnetaw</form><pos>v</pos><sense><def><en>he wets, dips it</en></def></sense></entry>
+<entry><form>ahkiːqnetuwæːw</form><pos>v</pos><sense><def><en>he wets it for him</en></def></sense></entry>
+<entry><form>ahkiːw</form><pos>v</pos><sense><def><en>it is so long</en></def></sense></entry>
+<entry><form>ahkiːwikamek</form><pos>n</pos><sense><def><en>cellar</en></def></sense></entry>
+<entry><form>ahkiːyawæsew</form><pos>v</pos><sense><def><en>he is so tall</en></def></sense></entry>
+<entry><form>ahkoːhnæw</form><pos>v</pos><sense><def><en>he walks so far</en></def></sense></entry>
+<entry><form>ahkoːnæːhæːw</form><pos>v</pos><sense><def><en>he watches for him</en></def></sense></entry>
+<entry><form>ahkoːnæːhčekæw</form><pos>v</pos><sense><def><en>he keeps watch, is on the lookout</en></def></sense></entry>
+<entry><form>ahkoːnæːhtaw</form><pos>v</pos><sense><def><en>he watches for it</en></def></sense></entry>
+<entry><form>ahkoːqč</form><pos>NIL</pos><sense><def><en>next in order</en></def></sense></entry>
+<entry><form>ahkoːqsek</form><pos>NIL</pos><sense><def><en>in the end, finally,at last</en></def></sense></entry>
+<entry><form>ahkoːsew</form><pos>v</pos><sense><def><en>he is so tall, so long</en></def></sense></entry>
+<entry><form>ahkoːtowak</form><pos>v</pos><sense><def><en>they go in line</en></def></sense></entry>
+<entry><form>ahkoːw</form><pos>v</pos><sense><def><en>he is so long</en></def></sense></entry>
+<entry><form>ahkoːwæːw</form><pos>v</pos><sense><def><en>he comes next after him</en></def></sense></entry>
+<entry><form>ahkoːwekapowew</form><pos>v</pos><sense><def><en>he stands next in order</en></def></sense></entry>
+<entry><form>ahkuːpiːkat</form><pos>v</pos><sense><def><en>the water extends so far</en></def></sense></entry>
+<entry><form>ahkuːpiːw</form><pos>v</pos><sense><def><en>at water's edge (ch conj only)</en></def></sense></entry>
+<entry><form>ahkuaːqtæw</form><pos>v</pos><sense><def><en>it lies so far, so high</en></def></sense></entry>
+<entry><form>ahkuačemow</form><pos>v</pos><sense><def><en>he narrates so far</en></def></sense></entry>
+<entry><form>ahkuačemow</form><pos>v</pos><sense><def><en>he narrates so far</en></def></sense></entry>
+<entry><form>ahkuaham</form><pos>v</pos><sense><def><en>he goes so far into the water</en></def></sense></entry>
+<entry><form>ahkuahkasow</form><pos>v</pos><sense><def><en>he is dried up so far</en></def></sense></entry>
+<entry><form>ahkuahkatæw</form><pos>v</pos><sense><def><en>it is dried up so far</en></def></sense></entry>
+<entry><form>ahkuahkihkiw</form><pos>v</pos><sense><def><en>the timberland extends so far</en></def></sense></entry>
+<entry><form>ahkuahkihnæn</form><pos>v</pos><sense><def><en>it lies so far on a solid, so far up on a tree</en></def></sense></entry>
+<entry><form>ahkuahkihsen</form><pos>v</pos><sense><def><en>he lies so far up on a tree</en></def></sense></entry>
+<entry><form>ahkuahkosew</form><pos>v</pos><sense><def><en>he is so long a solid</en></def></sense></entry>
+<entry><form>ahkuahkwahæw</form><pos>v</pos><sense><def><en>he chops him so long</en></def></sense></entry>
+<entry><form>ahkuahkwaham</form><pos>v</pos><sense><def><en>he chops it so long</en></def></sense></entry>
+<entry><form>ahkuahkwat</form><pos>v</pos><sense><def><en>it is so long a solid, it is so long a stick</en></def></sense></entry>
+<entry><form>ahkuahtawæw</form><pos>v</pos><sense><def><en>he climbs so far, so high</en></def></sense></entry>
+<entry><form>ahkuanahkwat</form><pos>v</pos><sense><def><en>the tree tops go so far</en></def></sense></entry>
+<entry><form>ahkuapiːkat</form><pos>v</pos><sense><def><en>it is so long a string</en></def></sense></entry>
+<entry><form>ahkuapiːkesew</form><pos>v</pos><sense><def><en>he is so long a string</en></def></sense></entry>
+<entry><form>ahkuaqnæw</form><pos>v</pos><sense><def><en>it shines so far</en></def></sense></entry>
+<entry><form>ahkuaskenæw</form><pos>v</pos><sense><def><en>he is filled up so far</en></def></sense></entry>
+<entry><form>ahkuaskenæw</form><pos>v</pos><sense><def><en>it is filled up so far</en></def></sense></entry>
+<entry><form>ahkuat</form><pos>v</pos><sense><def><en>(only in changed conjunct)</en></def></sense></entry>
+<entry><form>ahpæːn</form><pos>NIL</pos><sense><def><en>always, all the time</en></def></sense></entry>
+<entry><form>ahpæːnemow</form><pos>v</pos><sense><def><en>he has hope, places reliance</en></def></sense></entry>
+<entry><form>ahpæːnemwan</form><pos>n</pos><sense><def><en>thing or person relied upon (an)</en></def></sense></entry>
+<entry><form>ahpæːpiːham</form><pos>v</pos><sense><def><en>he splashes water with the paddle</en></def></sense></entry>
+<entry><form>ahpæːsaːwæːw</form><pos>v</pos><sense><def><en>he uses kinnickinnick</en></def></sense></entry>
+<entry><form>ahpæːsaːwaːn</form><pos>n</pos><sense><def><en>red willow bark, kinnickinnick</en></def></sense></entry>
+<entry><form>ahpæːsaːwaːnæhkæw</form><pos>v</pos><sense><def><en>he gathers or prepares kinnickinnick</en></def></sense></entry>
+<entry><form>ahpaːkečeːhsen</form><pos>v</pos><sense><def><en>he lies down and relaxes</en></def></sense></entry>
+<entry><form>ahpaːkenætowak</form><pos>v</pos><sense><def><en>they throw each other onto something</en></def></sense></entry>
+<entry><form>ahpaːkenæw</form><pos>v</pos><sense><def><en>he throws him onto something</en></def></sense></entry>
+<entry><form>ahpaːkesow</form><pos>v</pos><sense><def><en>he throws himself onto something</en></def></sense></entry>
+<entry><form>ahpaːketæːqnew</form><pos>v</pos><sense><def><en>it is blown onto something</en></def></sense></entry>
+<entry><form>ahpaːketæːqsew</form><pos>v</pos><sense><def><en>he is blown onto something</en></def></sense></entry>
+<entry><form>ahpaːketænæːw</form><pos>v</pos><sense><def><en>he knocks him down by hand</en></def></sense></entry>
+<entry><form>ahpaːketænam</form><pos>v</pos><sense><def><en>he knocks it down by a shot, hand</en></def></sense></entry>
+<entry><form>ahpaːketænamowæːw</form><pos>v</pos><sense><def><en>he knocks it down for him by shot, hand</en></def></sense></entry>
+<entry><form>ahpaːketænawæw</form><pos>v</pos><sense><def><en>he knocks him down by a shot</en></def></sense></entry>
+<entry><form>ahpaːketaham</form><pos>v</pos><sense><def><en>he throws it onto something</en></def></sense></entry>
+<entry><form>ahpaːketahamowæːw</form><pos>v</pos><sense><def><en>he knocks it (or him) over to him</en></def></sense></entry>
+<entry><form>ahpaːketakanaːhtam</form><pos>v</pos><sense><def><en>he strikes it down, knocks it away</en></def></sense></entry>
+<entry><form>ahpaːketakanamæːw</form><pos>v</pos><sense><def><en>he strikes him down, knocks him away</en></def></sense></entry>
+<entry><form>ahpaːketam</form><pos>v</pos><sense><def><en>he throws it onto something</en></def></sense></entry>
+<entry><form>ahpaːketaw</form><pos>v</pos><sense><def><en>he throws it onto something</en></def></sense></entry>
+<entry><form>ahpaːketuwæːw</form><pos>v</pos><sense><def><en>he throws it down on something for him</en></def></sense></entry>
+<entry><form>ahpaːpowæw</form><pos>v</pos><sense><def><en>he uses seasoning</en></def></sense></entry>
+<entry><form>ahpaːpowanæːw</form><pos>v</pos><sense><def><en>he seasons him</en></def></sense></entry>
+<entry><form>ahpaːpowatam</form><pos>v</pos><sense><def><en>he seasons it</en></def></sense></entry>
+<entry><form>ahpeːč</form><pos>NIL</pos><sense><def><en>so far, so long, to such a degree</en></def></sense></entry>
+<entry><form>ahpeːhčehkanætowak</form><pos>v</pos><sense><def><en>they race so fast</en></def></sense></entry>
+<entry><form>ahpeːhčekæn</form><pos>v</pos><sense><def><en>it grows or has grown so far</en></def></sense></entry>
+<entry><form>ahpeːhčekesekat</form><pos>v</pos><sense><def><en>it is so late in the day</en></def></sense></entry>
+<entry><form>ahpeːhčepaːhtaw</form><pos>v</pos><sense><def><en>he runs so fast</en></def></sense></entry>
+<entry><form>ahpeːhčepesow</form><pos>v</pos><sense><def><en>he speeds so fast</en></def></sense></entry>
+<entry><form>ahpeːhčepetæːw</form><pos>v</pos><sense><def><en>it speeds so fast</en></def></sense></entry>
+<entry><form>ahpeːhčeqtaw</form><pos>v</pos><sense><def><en>he moves so fast</en></def></sense></entry>
+<entry><form>ahpeːhčewæpænæw</form><pos>v</pos><sense><def><en>he flings him so hard</en></def></sense></entry>
+<entry><form>ahpeːhčewæpæwam</form><pos>v</pos><sense><def><en>he flings it so hard</en></def></sense></entry>
+<entry><form>ahpeːhsæhkaw</form><pos>v</pos><sense><def><en>he moves so soon,so fast</en></def></sense></entry>
+<entry><form>ahpeːhsæhkaw</form><pos>v</pos><sense><def><en>it goes, moves so soon, so fast</en></def></sense></entry>
+<entry><form>ahpeːhtæːntwah</form><pos>v</pos><sense><def><en>he stays away so long</en></def></sense></entry>
+<entry><form>ahpeːhtahtam</form><pos>v</pos><sense><def><en>he eats, drinks, smokes so much of it</en></def></sense></entry>
+<entry><form>ahpeːhtamæw</form><pos>v</pos><sense><def><en>he consumes so much of him</en></def></sense></entry>
+<entry><form>ahpeːhtamamow</form><pos>v</pos><sense><def><en>he suffers such a degree of pain</en></def></sense></entry>
+<entry><form>ahpeːhtaskenæːw</form><pos>v</pos><sense><def><en>he is so far filled</en></def></sense></entry>
+<entry><form>ahpeːhtaskenæːw</form><pos>v</pos><sense><def><en>it is so far filled</en></def></sense></entry>
+<entry><form>ahpeːhtat</form><pos>v</pos><sense><def><en>it is so intense, powerful, costly</en></def></sense></entry>
+<entry><form>ahpeːhtatæpæhkat</form><pos>v</pos><sense><def><en>it is so late at night</en></def></sense></entry>
+<entry><form>ahpeːhtenækosew</form><pos>v</pos><sense><def><en>he is so heavy, so costly</en></def></sense></entry>
+<entry><form>ahpeːhtenækwat</form><pos>v</pos><sense><def><en>it is so heavy, so costly</en></def></sense></entry>
+<entry><form>ahpeːhteneːhtam</form><pos>v</pos><sense><def><en>he thinks so highly of it</en></def></sense></entry>
+<entry><form>ahpeːhtenemæːw</form><pos>v</pos><sense><def><en>he thinks so highly of him</en></def></sense></entry>
+<entry><form>ahpeːhtesewen</form><pos>n</pos><sense><def><en>power</en></def></sense></entry>
+<entry><form>ahpeːhtesow</form><pos>v</pos><sense><def><en>he is so powerful, so costly, so old</en></def></sense></entry>
+<entry><form>ahpeːhtohnæw</form><pos>v</pos><sense><def><en>he walks so far, so fast</en></def></sense></entry>
+<entry><form>ahpeːkahekæːw</form><pos>v</pos><sense><def><en>he chops on a block, he chops on something</en></def></sense></entry>
+<entry><form>ahpeːkahekan</form><pos>n</pos><sense><def><en>chopping block</en></def></sense></entry>
+<entry><form>ahpeːqč</form><pos>NIL</pos><sense><def><en>meanwhile; on aheada ways</en></def></sense></entry>
+<entry><form>ahpeːqsawæw</form><pos>v</pos><sense><def><en>he uses a cutting block</en></def></sense></entry>
+<entry><form>ahpeč</form><pos>NIL</pos><sense><def><en>so far, so long, to such a degree</en></def></sense></entry>
+<entry><form>ahpiːhæqwæw</form><pos>v</pos><sense><def><en>he has so much muscular strength</en></def></sense></entry>
+<entry><form>ahpiːhčiahkam</form><pos>v</pos><sense><def><en>he deals with it to that point</en></def></sense></entry>
+<entry><form>ahpiːhčiahkawæw</form><pos>v</pos><sense><def><en>he deals with him to that point</en></def></sense></entry>
+<entry><form>ahpiːhčiwæːqtamakat</form><pos>v</pos><sense><def><en>it acts with that degree of strength</en></def></sense></entry>
+<entry><form>ahpiːhčiwæːqtaw</form><pos>v</pos><sense><def><en>he acts with that degree of strength</en></def></sense></entry>
+<entry><form>ahpiːhtapiːhnen</form><pos>v</pos><sense><def><en>it lies strung so far</en></def></sense></entry>
+<entry><form>ahpiːw</form><pos>v</pos><sense><def><en>he comes to a place</en></def></sense></entry>
+<entry><form>ahsæːčiːnæːw</form><pos>v</pos><sense><def><en>he picks up a handful of him</en></def></sense></entry>
+<entry><form>ahsæːčiːnam</form><pos>v</pos><sense><def><en>he picks up a handful of it</en></def></sense></entry>
+<entry><form>ahsæːhkaw</form><pos>n</pos><sense><def><en>bundle, package, bunch</en></def></sense></entry>
+<entry><form>ahsæːkaːpowew</form><pos>n</pos><sense><def><en>standing bunch, sheaf, cluster, tuft</en></def></sense></entry>
+<entry><form>ahsaːhpenæw</form><pos>v</pos><sense><def><en>he ties him in a bundle or sheaf</en></def></sense></entry>
+<entry><form>ahsaːhpesow</form><pos>v</pos><sense><def><en>he is tied in a bundle or sheaf</en></def></sense></entry>
+<entry><form>ahsaːhpetæw</form><pos>n</pos><sense><def><en>a tied up bundle</en></def></sense></entry>
+<entry><form>ahsaːhpetæw</form><pos>v</pos><sense><def><en>it is tied in a bundle or sheaf</en></def></sense></entry>
+<entry><form>ahsaːhpetaw</form><pos>v</pos><sense><def><en>he ties it in a bundle or sheaf</en></def></sense></entry>
+<entry><form>ahsaːhtam</form><pos>v</pos><sense><def><en>he gives it food, feeds it</en></def></sense></entry>
+<entry><form>ahsaːmæːw</form><pos>v</pos><sense><def><en>he feeds him, he gives him food</en></def></sense></entry>
+<entry><form>ahsaːmewæw</form><pos>v</pos><sense><def><en>he feeds people, he gives people food</en></def></sense></entry>
+<entry><form>ahsaːnew</form><pos>v</pos><sense><def><en>he gives out food</en></def></sense></entry>
+<entry><form>akæːhsemen</form><pos>n</pos><sense><def><en>plum</en></def></sense></entry>
+<entry><form>akæːhsemenaːhtek</form><pos>n</pos><sense><def><en>plum-tree</en></def></sense></entry>
+<entry><form>akaːmataːhkyah</form><pos>NIL</pos><sense><def><en>on the far side of the valley</en></def></sense></entry>
+<entry><form>akaːmeːwew</form><pos>v</pos><sense><def><en>it is the far side</en></def></sense></entry>
+<entry><form>akaːmiah</form><pos>NIL</pos><sense><def><en>at the far side, over across</en></def></sense></entry>
+<entry><form>akaːpæhkæsow</form><pos>v</pos><sense><def><en>he is attached to a stone</en></def></sense></entry>
+<entry><form>akaːpæhkahosow</form><pos>v</pos><sense><def><en>he moves along fastened to metal or stone</en></def></sense></entry>
+<entry><form>akaːwaːčekæw</form><pos>v</pos><sense><def><en>he lusts, he longs for something</en></def></sense></entry>
+<entry><form>akaːwaːnæːw</form><pos>v</pos><sense><def><en>he longs for him</en></def></sense></entry>
+<entry><form>akaːwaːnesow</form><pos>v</pos><sense><def><en>he desires, has a longing</en></def></sense></entry>
+<entry><form>akaːwaːtam</form><pos>v</pos><sense><def><en>he longs for it</en></def></sense></entry>
+<entry><form>akeːhčekæw</form><pos>v</pos><sense><def><en>he counts things</en></def></sense></entry>
+<entry><form>akeːhčekan</form><pos>n</pos><sense><def><en>poker-chip, counter</en></def></sense></entry>
+<entry><form>akeːhčekasow</form><pos>v</pos><sense><def><en>he is counted</en></def></sense></entry>
+<entry><form>akeːhčekatæːw</form><pos>v</pos><sense><def><en>it is counted</en></def></sense></entry>
+<entry><form>akeːhtam</form><pos>v</pos><sense><def><en>he counts it (them)</en></def></sense></entry>
+<entry><form>akeːhtaqsow</form><pos>v</pos><sense><def><en>he counts</en></def></sense></entry>
+<entry><form>akeːkon</form><pos>v</pos><sense><def><en>he has a cold in the head</en></def></sense></entry>
+<entry><form>akeːmæːw</form><pos>v</pos><sense><def><en>he counts him</en></def></sense></entry>
+<entry><form>akeːnow</form><pos>v</pos><sense><def><en>he (dog) lifts leg and urinates</en></def></sense></entry>
+<entry><form>akeh</form><pos>n</pos><sense><def><en>those (animate)</en></def></sense></entry>
+<entry><form>akiːhæːw</form><pos>v</pos><sense><def><en>he clothes him</en></def></sense></entry>
+<entry><form>akiːhčečekæːw</form><pos>v</pos><sense><def><en>he puts things in water, soaks things</en></def></sense></entry>
+<entry><form>akiːhčemæw</form><pos>v</pos><sense><def><en>he puts him in water, he soaks him</en></def></sense></entry>
+<entry><form>akiːhčen</form><pos>v</pos><sense><def><en>he is in water, he is soaking wet</en></def></sense></entry>
+<entry><form>akiːhčetaw</form><pos>v</pos><sense><def><en>he puts it in water, he soaks it</en></def></sense></entry>
+<entry><form>akiːhtæw</form><pos>v</pos><sense><def><en>it is in or on water, soaking, afloat</en></def></sense></entry>
+<entry><form>akiːnaːn</form><pos>n</pos><sense><def><en>clothing</en></def></sense></entry>
+<entry><form>akiːnianæːw</form><pos>v</pos><sense><def><en>he (dog) urinates against him (as tree)</en></def></sense></entry>
+<entry><form>akiːniatam</form><pos>v</pos><sense><def><en>he (dog) urinates against it</en></def></sense></entry>
+<entry><form>akiːpan</form><pos>v</pos><sense><def><en>it is light of weight</en></def></sense></entry>
+<entry><form>akiːpen</form><pos>v</pos><sense><def><en>he is light (of weight)</en></def></sense></entry>
+<entry><form>akiːqtahnæw</form><pos>v</pos><sense><def><en>he sticks him onto something</en></def></sense></entry>
+<entry><form>akiːqtahtaw</form><pos>v</pos><sense><def><en>he sticks, pastes it onto something</en></def></sense></entry>
+<entry><form>akiːqtaw</form><pos>v</pos><sense><def><en>he sticks fast, is attached, clings</en></def></sense></entry>
+<entry><form>akiːqtaw</form><pos>v</pos><sense><def><en>it sticks fast, is attached, clings</en></def></sense></entry>
+<entry><form>akiːsetæːskawæw</form><pos>v</pos><sense><def><en>he steps on the other's foot</en></def></sense></entry>
+<entry><form>akoːčekæw</form><pos>v</pos><sense><def><en>he hangs things up</en></def></sense></entry>
+<entry><form>akoːčen</form><pos>v</pos><sense><def><en>he hangs, is suspended</en></def></sense></entry>
+<entry><form>akoːm</form><pos>n</pos><sense><def><en>black broadcloth</en></def></sense></entry>
+<entry><form>akoːnæːw</form><pos>v</pos><sense><def><en>he hangs him up</en></def></sense></entry>
+<entry><form>akoːsewæw</form><pos>v</pos><sense><def><en>he hangs people up</en></def></sense></entry>
+<entry><form>akoːtæːw</form><pos>v</pos><sense><def><en>it hangs, is suspended</en></def></sense></entry>
+<entry><form>akoːtaːw</form><pos>v</pos><sense><def><en>he hangs it up</en></def></sense></entry>
+<entry><form>akoːw</form><pos>v</pos><sense><def><en>he puts on a robe or blanket</en></def></sense></entry>
+<entry><form>akoh</form><pos>n</pos><sense><def><en>these (animate)</en></def></sense></entry>
+<entry><form>akuːmyan</form><pos>n</pos><sense><def><en>pieces of black broadcloth</en></def></sense></entry>
+<entry><form>akuːtuasow</form><pos>v</pos><sense><def><en>he hangs something up for himself</en></def></sense></entry>
+<entry><form>akuːtuwæw</form><pos>v</pos><sense><def><en>he hangs it up for him</en></def></sense></entry>
+<entry><form>akuaːqtaw</form><pos>v</pos><sense><def><en>he gets out of the water</en></def></sense></entry>
+<entry><form>akuačeh</form><pos>NIL</pos><sense><def><en>outside, out of doors</en></def></sense></entry>
+<entry><form>akuačemæw</form><pos>v</pos><sense><def><en>he swims, paddles to land</en></def></sense></entry>
+<entry><form>akuah</form><pos>n</pos><sense><def><en>woodchuck</en></def></sense></entry>
+<entry><form>akuahæːw</form><pos>v</pos><sense><def><en>he takes him out of a vessel by tool</en></def></sense></entry>
+<entry><form>akuaham</form><pos>v</pos><sense><def><en>he takes it out of a vessel by tool</en></def></sense></entry>
+<entry><form>akuahamowæːw</form><pos>v</pos><sense><def><en>he takes it out for him by tool</en></def></sense></entry>
+<entry><form>akuahesiahkow</form><pos>v</pos><sense><def><en>he takes food out of the kettle</en></def></sense></entry>
+<entry><form>akuahkihnæw</form><pos>v</pos><sense><def><en>it lies or clings fast to a tree</en></def></sense></entry>
+<entry><form>akuahkihsen</form><pos>v</pos><sense><def><en>he clings fast to a tree or other solid</en></def></sense></entry>
+<entry><form>akuahkoːhsæh</form><pos>n</pos><sense><def><en>gopher, small woodchuck</en></def></sense></entry>
+<entry><form>akuahkoːhsowakom</form><pos>n</pos><sense><def><en>gopher skin</en></def></sense></entry>
+<entry><form>akuahnetaw</form><pos>v</pos><sense><def><en>he places it outside a vessel or medium</en></def></sense></entry>
+<entry><form>akuahpečekæːw</form><pos>v</pos><sense><def><en>he ties things fast</en></def></sense></entry>
+<entry><form>akuahpenæw</form><pos>v</pos><sense><def><en>he ties him fast, he harnesses him</en></def></sense></entry>
+<entry><form>akuahpesow</form><pos>v</pos><sense><def><en>he is tied up, he ties himself up</en></def></sense></entry>
+<entry><form>akuahpeswan</form><pos>v</pos><sense><def><en>bandage, poultice</en></def></sense></entry>
+<entry><form>akuahpetæw</form><pos>v</pos><sense><def><en>it is tied on, tied up</en></def></sense></entry>
+<entry><form>akuahpetaw</form><pos>v</pos><sense><def><en>he ties it fast, he ties something fast to it</en></def></sense></entry>
+<entry><form>akuahpetuwæːw</form><pos>v</pos><sense><def><en>he ties it up for him</en></def></sense></entry>
+<entry><form>akuahsemæw</form><pos>v</pos><sense><def><en>he places him outside a vessel or medium</en></def></sense></entry>
+<entry><form>akuanæːhčekæw</form><pos>v</pos><sense><def><en>he chews tobacco</en></def></sense></entry>
+<entry><form>akuanæːhčekan</form><pos>n</pos><sense><def><en>chewing tobacco (thing held in mouth)</en></def></sense></entry>
+<entry><form>akuanæːhčekehæːw</form><pos>v</pos><sense><def><en>he gives him a chew of tobacco</en></def></sense></entry>
+<entry><form>akuanæːhtam</form><pos>v</pos><sense><def><en>he takes or holds it in his mouth</en></def></sense></entry>
+<entry><form>akuanæːhtenæw</form><pos>v</pos><sense><def><en>he puts something in his mouth for him</en></def></sense></entry>
+<entry><form>akuanæːmæːw</form><pos>v</pos><sense><def><en>he takes him in his mouth</en></def></sense></entry>
+<entry><form>akuanæːw</form><pos>v</pos><sense><def><en>he removes him from vessel by hand</en></def></sense></entry>
+<entry><form>akuanakočen</form><pos>v</pos><sense><def><en>he sticks out</en></def></sense></entry>
+<entry><form>akuanakotæːw</form><pos>v</pos><sense><def><en>it projects, sticks out</en></def></sense></entry>
+<entry><form>akuanam</form><pos>v</pos><sense><def><en>he takes it out of vessel by hand</en></def></sense></entry>
+<entry><form>akuapehsemow</form><pos>v</pos><sense><def><en>he dances with his eyes shut</en></def></sense></entry>
+<entry><form>akuapiːhæːw</form><pos>v</pos><sense><def><en>he ladles it out</en></def></sense></entry>
+<entry><form>akuapiːham</form><pos>v</pos><sense><def><en>he takes it out of a liquid by tool</en></def></sense></entry>
+<entry><form>akuapiːnæːw</form><pos>v</pos><sense><def><en>he removes him from liquid by hand</en></def></sense></entry>
+<entry><form>akuapiːnam</form><pos>v</pos><sense><def><en>he takes it out of a liquid by hand</en></def></sense></entry>
+<entry><form>akuaqtæːhnen</form><pos>v</pos><sense><def><en>it gets or is rusty</en></def></sense></entry>
+<entry><form>akuaqtæːhsen</form><pos>v</pos><sense><def><en>he gets or is rusty</en></def></sense></entry>
+<entry><form>akuataːčehtaw</form><pos>v</pos><sense><def><en>he drags it out of a vessel or medium</en></def></sense></entry>
+<entry><form>akuataːčemæw</form><pos>v</pos><sense><def><en>he drags him out of vessel or medium</en></def></sense></entry>
+<entry><form>akuatahkæːhkwan</form><pos>n</pos><sense><def><en>outdoor cooking place</en></def></sense></entry>
+<entry><form>akuawæːpenæw</form><pos>v</pos><sense><def><en>he flings him by hand out of vessel</en></def></sense></entry>
+<entry><form>akuawæːpenam</form><pos>v</pos><sense><def><en>he flings it by hand out of a vessel</en></def></sense></entry>
+<entry><form>akuayæːqnen</form><pos>v</pos><sense><def><en>it is blown to the shore</en></def></sense></entry>
+<entry><form>akuayæːqsew</form><pos>v</pos><sense><def><en>he is blown to the shore</en></def></sense></entry>
+<entry><form>amæːnæːw</form><pos>v</pos><sense><def><en>he leaves him alone</en></def></sense></entry>
+<entry><form>amæːnam</form><pos>v</pos><sense><def><en>he leaves it alone</en></def></sense></entry>
+<entry><form>amaːčehæw</form><pos>v</pos><sense><def><en>he wakes him</en></def></sense></entry>
+<entry><form>amaːčehtaw</form><pos>v</pos><sense><def><en>he wakes it</en></def></sense></entry>
+<entry><form>amaːskos</form><pos>n</pos><sense><def><en>elk</en></def></sense></entry>
+<entry><form>amaːtenæw</form><pos>v</pos><sense><def><en>he wakes him by touching him</en></def></sense></entry>
+<entry><form>anæːčeːmen</form><pos>n</pos><sense><def><en>pea</en></def></sense></entry>
+<entry><form>anæːhkihtakæːhæːw</form><pos>v</pos><sense><def><en>he gives him a pillow</en></def></sense></entry>
+<entry><form>anæːhkihtakæːhtaw</form><pos>v</pos><sense><def><en>he gives it a pillow, makes it a pillow</en></def></sense></entry>
+<entry><form>anæːhkihtakæːw</form><pos>v</pos><sense><def><en>he uses a pillow</en></def></sense></entry>
+<entry><form>anæːhkihtakan</form><pos>n</pos><sense><def><en>pillow</en></def></sense></entry>
+<entry><form>anæːhkihtakanik</form><pos>n</pos><sense><def><en>pillow slip</en></def></sense></entry>
+<entry><form>anæːhkinæw</form><pos>v</pos><sense><def><en>he sets foot on him, he steps on him</en></def></sense></entry>
+<entry><form>anæːhkitam</form><pos>v</pos><sense><def><en>he sets foot on it, steps on it</en></def></sense></entry>
+<entry><form>anæːhkow</form><pos>v</pos><sense><def><en>he sets down his foot, makes a step</en></def></sense></entry>
+<entry><form>anæːhn</form><pos>NIL</pos><sense><def><en>unseasoned</en></def></sense></entry>
+<entry><form>anæːhnahčekæːw</form><pos>v</pos><sense><def><en>he eats plain food</en></def></sense></entry>
+<entry><form>anæːhnahtam</form><pos>v</pos><sense><def><en>he eats it plain, unseasoned</en></def></sense></entry>
+<entry><form>anæːhnamæw</form><pos>v</pos><sense><def><en>he eats him plain plain, unseasoned</en></def></sense></entry>
+<entry><form>anæːhnat</form><pos>v</pos><sense><def><en>it has little taste, is unseasoned</en></def></sense></entry>
+<entry><form>anæːhnepokosew</form><pos>v</pos><sense><def><en>he tastes insipid, unseasoned</en></def></sense></entry>
+<entry><form>anæːhnepokwat</form><pos>v</pos><sense><def><en>it tastes insipid, unseasoned</en></def></sense></entry>
+<entry><form>anæːhnesew</form><pos>v</pos><sense><def><en>he is unseasoned, has little taste</en></def></sense></entry>
+<entry><form>anæːhsaːnon</form><pos>NIL</pos><sense><def><en>get away!</en></def></sense></entry>
+<entry><form>anæːk</form><pos>n</pos><sense><def><en>snowcrust</en></def></sense></entry>
+<entry><form>anæːm</form><pos>n</pos><sense><def><en>dog (archaic vocative)</en></def></sense></entry>
+<entry><form>anæːmaːwanætowak</form><pos>v</pos><sense><def><en>they go off in single file</en></def></sense></entry>
+<entry><form>anæːmaːwanæw</form><pos>v</pos><sense><def><en>he leads him away</en></def></sense></entry>
+<entry><form>anæːmaːwataw</form><pos>v</pos><sense><def><en>he takes it off yon way, leads him away</en></def></sense></entry>
+<entry><form>anæːmapew</form><pos>v</pos><sense><def><en>he is placed face down, sits facing away</en></def></sense></entry>
+<entry><form>anæːmaqnæw</form><pos>v</pos><sense><def><en>he places him face down</en></def></sense></entry>
+<entry><form>anæːmaqtæw</form><pos>v</pos><sense><def><en>it is placed face down</en></def></sense></entry>
+<entry><form>anæːmaqtaw</form><pos>v</pos><sense><def><en>he places it facing away or face down</en></def></sense></entry>
+<entry><form>anæːmečemæːw</form><pos>v</pos><sense><def><en>he swims or paddles off yon way</en></def></sense></entry>
+<entry><form>anæːmehnæn</form><pos>v</pos><sense><def><en>it lies facing away or face down</en></def></sense></entry>
+<entry><form>anæːmehnetaːw</form><pos>v</pos><sense><def><en>he places it to face yon way or down</en></def></sense></entry>
+<entry><form>anæːmehsemæːw</form><pos>v</pos><sense><def><en>he places him to face yon way or down</en></def></sense></entry>
+<entry><form>anæːmehsen</form><pos>v</pos><sense><def><en>he lies face down</en></def></sense></entry>
+<entry><form>anæːmekonæːham</form><pos>v</pos><sense><def><en>he makes tracks off yon way</en></def></sense></entry>
+<entry><form>anæːmepaːhtaw</form><pos>v</pos><sense><def><en>he runs off yon way</en></def></sense></entry>
+<entry><form>anæːmepesow</form><pos>v</pos><sense><def><en>he speeds off yon way</en></def></sense></entry>
+<entry><form>anæːmepetæːw</form><pos>v</pos><sense><def><en>it speeds or moves off yon way</en></def></sense></entry>
+<entry><form>anæːmeqtaw</form><pos>v</pos><sense><def><en>he moves off yon way</en></def></sense></entry>
+<entry><form>anæːmetačekow</form><pos>v</pos><sense><def><en>he crawls off yon way</en></def></sense></entry>
+<entry><form>anæːmetonæːskaw</form><pos>v</pos><sense><def><en>he goes off talking</en></def></sense></entry>
+<entry><form>anæːmiːwæːhnen</form><pos>v</pos><sense><def><en>it goes off sounding yon way</en></def></sense></entry>
+<entry><form>anæːmianæːw</form><pos>v</pos><sense><def><en>he takes him off yon way</en></def></sense></entry>
+<entry><form>anæːmiataːw</form><pos>v</pos><sense><def><en>he takes or leads it off yon way</en></def></sense></entry>
+<entry><form>anæːmikamek</form><pos>n</pos><sense><def><en>dog kennel</en></def></sense></entry>
+<entry><form>anæːmoːhsæh</form><pos>n</pos><sense><def><en>puppy, little dog</en></def></sense></entry>
+<entry><form>anæːmoːhseːhsæh</form><pos>n</pos><sense><def><en>little puppy, tiny little dog</en></def></sense></entry>
+<entry><form>anæːmohnæw</form><pos>v</pos><sense><def><en>he walks off yon way</en></def></sense></entry>
+<entry><form>anæːmwakom</form><pos>n</pos><sense><def><en>dogskin</en></def></sense></entry>
+<entry><form>anæːp</form><pos>NIL</pos><sense><def><en>off to one side</en></def></sense></entry>
+<entry><form>anæːpeːhsæhsæh</form><pos>NIL</pos><sense><def><en>a little ways off to one side</en></def></sense></entry>
+<entry><form>anæːpihkanaw</form><pos>NIL</pos><sense><def><en>off at one side of the road</en></def></sense></entry>
+<entry><form>anæːs</form><pos>n</pos><sense><def><en>get away (from)</en></def></sense></entry>
+<entry><form>anæːtipokosew</form><pos>v</pos><sense><def><en>he tastes decayed</en></def></sense></entry>
+<entry><form>anæːtipokwat</form><pos>v</pos><sense><def><en>it tastes decayed</en></def></sense></entry>
+<entry><form>anæːw</form><pos>v</pos><sense><def><en>he boils him</en></def></sense></entry>
+<entry><form>anaːh</form><pos>n</pos><sense><def><en>star</en></def></sense></entry>
+<entry><form>anaːhkiːhčekæw</form><pos>v</pos><sense><def><en>he lays mats, places a rug</en></def></sense></entry>
+<entry><form>anaːhkiːhčekan</form><pos>n</pos><sense><def><en>mat, rug, carpet, flooring</en></def></sense></entry>
+<entry><form>anaːhkiːhtæw</form><pos>v</pos><sense><def><en>it has a matting or flooring</en></def></sense></entry>
+<entry><form>anaːhkiːhtaw</form><pos>v</pos><sense><def><en>he lays mats for it</en></def></sense></entry>
+<entry><form>anaːhkičkiw</form><pos>v</pos><sense><def><en>it is starlight</en></def></sense></entry>
+<entry><form>anaːhkihæw</form><pos>v</pos><sense><def><en>he lays mats for him</en></def></sense></entry>
+<entry><form>anaːhkoːhsæh</form><pos>n</pos><sense><def><en>little star</en></def></sense></entry>
+<entry><form>anaːhkow</form><pos>v</pos><sense><def><en>he lays a mat or mats</en></def></sense></entry>
+<entry><form>anaːhkyan</form><pos>n</pos><sense><def><en>mat, floor mat</en></def></sense></entry>
+<entry><form>anaːhkyanæːhkæw</form><pos>v</pos><sense><def><en>he makes mats</en></def></sense></entry>
+<entry><form>anaːm</form><pos>v</pos><sense><def><en>he boils it</en></def></sense></entry>
+<entry><form>anaːmæːhkwam</form><pos>NIL</pos><sense><def><en>under the ice</en></def></sense></entry>
+<entry><form>anaːmæːk</form><pos>n</pos><sense><def><en>dead fish washed ashore</en></def></sense></entry>
+<entry><form>anaːmæhkatowak</form><pos>v</pos><sense><def><en>they greet each other, shake hands</en></def></sense></entry>
+<entry><form>anaːmæhkatwan</form><pos>NIL</pos><sense><def><en>greeting, saying farewell</en></def></sense></entry>
+<entry><form>anaːmæhkawæːw</form><pos>v</pos><sense><def><en>he greets him, bids him goodbye</en></def></sense></entry>
+<entry><form>anaːmaːhtek</form><pos>NIL</pos><sense><def><en>under the tree, wood</en></def></sense></entry>
+<entry><form>anaːmaːhtekweːskenoːhsæh</form><pos>n</pos><sense><def><en>bird living under bushes</en></def></sense></entry>
+<entry><form>anaːmaːkon</form><pos>NIL</pos><sense><def><en>under the snow</en></def></sense></entry>
+<entry><form>anaːmahkamek</form><pos>NIL</pos><sense><def><en>underground</en></def></sense></entry>
+<entry><form>anaːmahkyah</form><pos>NIL</pos><sense><def><en>underneath, underground</en></def></sense></entry>
+<entry><form>anaːmakom</form><pos>NIL</pos><sense><def><en>under the blanket</en></def></sense></entry>
+<entry><form>anaːmaqsæn</form><pos>NIL</pos><sense><def><en>under the stone</en></def></sense></entry>
+<entry><form>anaːmas</form><pos>n</pos><sense><def><en>marsh grass, marsh hay</en></def></sense></entry>
+<entry><form>anaːmehæːn</form><pos>n</pos><sense><def><en>the christian religion, christian service</en></def></sense></entry>
+<entry><form>anaːmehæːwaːhtek</form><pos>n</pos><sense><def><en>christian cross</en></def></sense></entry>
+<entry><form>anaːmehæːwikamek</form><pos>n</pos><sense><def><en>church building</en></def></sense></entry>
+<entry><form>anaːmehæːwkeːsekat</form><pos>n</pos><sense><def><en>sunday; week</en></def></sense></entry>
+<entry><form>anaːmehæːwmaseːnahekan</form><pos>n</pos><sense><def><en>bible, prayer book</en></def></sense></entry>
+<entry><form>anaːmehaːn</form><pos>n</pos><sense><def><en>the christian religion</en></def></sense></entry>
+<entry><form>anaːmehaːw</form><pos>v</pos><sense><def><en>he practises the christian religion</en></def></sense></entry>
+<entry><form>anaːmekop</form><pos>NIL</pos><sense><def><en>under the buttocks</en></def></sense></entry>
+<entry><form>anaːmenæh</form><pos>NIL</pos><sense><def><en>under the arm</en></def></sense></entry>
+<entry><form>anaːmepik</form><pos>NIL</pos><sense><def><en>under the water</en></def></sense></entry>
+<entry><form>anaːmetæːhtan</form><pos>NIL</pos><sense><def><en>under the settees</en></def></sense></entry>
+<entry><form>anaːmiːhtem</form><pos>NIL</pos><sense><def><en>under the deep water</en></def></sense></entry>
+<entry><form>anaːmiah</form><pos>NIL</pos><sense><def><en>underneath</en></def></sense></entry>
+<entry><form>anaːmonak</form><pos>NIL</pos><sense><def><en>under the canoe</en></def></sense></entry>
+<entry><form>anaːpew</form><pos>v</pos><sense><def><en>he looks up, he looks</en></def></sense></entry>
+<entry><form>anaːqnem</form><pos>n</pos><sense><def><en>dog like person</en></def></sense></entry>
+<entry><form>anaːwæːqtam</form><pos>v</pos><sense><def><en>he begs from it</en></def></sense></entry>
+<entry><form>anaːwæːqtawæw</form><pos>v</pos><sense><def><en>he begs from him</en></def></sense></entry>
+<entry><form>anaːwæːqtawekow</form><pos>v</pos><sense><def><en>he begs from people, goes begging</en></def></sense></entry>
+<entry><form>anaːwæːw</form><pos>v</pos><sense><def><en>he begs</en></def></sense></entry>
+<entry><form>anaːwehtam</form><pos>v</pos><sense><def><en>he has use of it</en></def></sense></entry>
+<entry><form>anaːwemæw</form><pos>v</pos><sense><def><en>he has use of him</en></def></sense></entry>
+<entry><form>aneːhæːw</form><pos>v</pos><sense><def><en>he wins from him</en></def></sense></entry>
+<entry><form>aneːhetowak</form><pos>v</pos><sense><def><en>they win one from the other</en></def></sense></entry>
+<entry><form>aneːhewæw</form><pos>v</pos><sense><def><en>he wins from people</en></def></sense></entry>
+<entry><form>aneːkaːnæːw</form><pos>v</pos><sense><def><en>he carries him on his shoulder</en></def></sense></entry>
+<entry><form>aneːkaːsow</form><pos>v</pos><sense><def><en>he is boiled</en></def></sense></entry>
+<entry><form>aneːkaːtæːw</form><pos>v</pos><sense><def><en>it is boiled</en></def></sense></entry>
+<entry><form>aneːkaːtam</form><pos>v</pos><sense><def><en>he carries it on his shoulder</en></def></sense></entry>
+<entry><form>aneːp</form><pos>n</pos><sense><def><en>rock elm</en></def></sense></entry>
+<entry><form>aneːpaːhtek</form><pos>n</pos><sense><def><en>elm tree</en></def></sense></entry>
+<entry><form>aneh</form><pos>n</pos><sense><def><en>those (inanimate)</en></def></sense></entry>
+<entry><form>anenoh</form><pos>n</pos><sense><def><en>those</en></def></sense></entry>
+<entry><form>aniːh</form><pos>n</pos><sense><def><en>bullet, missile</en></def></sense></entry>
+<entry><form>aniːh</form><pos>NIL</pos><sense><def><en>having finished</en></def></sense></entry>
+<entry><form>aniːhtiy</form><pos>n</pos><sense><def><en>spear, fish spear</en></def></sense></entry>
+<entry><form>aniːkoskosow</form><pos>v</pos><sense><def><en>he gets covered with sand, earth, ashes</en></def></sense></entry>
+<entry><form>aniːkoskotæːw</form><pos>v</pos><sense><def><en>it gets or is covered with sand, earth</en></def></sense></entry>
+<entry><form>aniːkwahæw</form><pos>v</pos><sense><def><en>he covers him with sand, earth, ashes</en></def></sense></entry>
+<entry><form>aniːkwaham</form><pos>v</pos><sense><def><en>he covers it with sand, earth, ashes</en></def></sense></entry>
+<entry><form>aniːkwahapow</form><pos>v</pos><sense><def><en>he makes a roast in the ashes</en></def></sense></entry>
+<entry><form>aniːkwahokow</form><pos>v</pos><sense><def><en>he gets buried in sand, earth, ashes</en></def></sense></entry>
+<entry><form>aniːpiahkankenuːpikwas</form><pos>n</pos><sense><def><en>plantain</en></def></sense></entry>
+<entry><form>aniːw</form><pos>NIL</pos><sense><def><en>farther, beyond, more, too far</en></def></sense></entry>
+<entry><form>aniːw</form><pos>NIL</pos><sense><def><en>farther, beyond, more, too far</en></def></sense></entry>
+<entry><form>aniːwepiw</form><pos>v</pos><sense><def><en>it gets covered by water, founders</en></def></sense></entry>
+<entry><form>aniːwepiw</form><pos>v</pos><sense><def><en>it gets covered by water, founders</en></def></sense></entry>
+<entry><form>aniːwetonaːmæːw</form><pos>v</pos><sense><def><en>he out-talks him, out argues him</en></def></sense></entry>
+<entry><form>aniːwpepoːnakæsew</form><pos>v</pos><sense><def><en>he is older</en></def></sense></entry>
+<entry><form>annow</form><pos>NIL</pos><sense><def><en>to be; in vain, although; after all</en></def></sense></entry>
+<entry><form>anoːč</form><pos>NIL</pos><sense><def><en>various, variously</en></def></sense></entry>
+<entry><form>anoːčeponæːw</form><pos>v</pos><sense><def><en>he pulls him this way and that</en></def></sense></entry>
+<entry><form>anoːčepotaːw</form><pos>v</pos><sense><def><en>he handles it roughly</en></def></sense></entry>
+<entry><form>anoːhkačekan</form><pos>n</pos><sense><def><en>cloth, cloth goods</en></def></sense></entry>
+<entry><form>anoːhkan</form><pos>n</pos><sense><def><en>raspberry</en></def></sense></entry>
+<entry><form>anoːhkanæːhkæw</form><pos>v</pos><sense><def><en>he gathers raspberries</en></def></sense></entry>
+<entry><form>anoːhkanapoh</form><pos>n</pos><sense><def><en>blackberry wine</en></def></sense></entry>
+<entry><form>anoːhsan</form><pos>n</pos><sense><def><en>buckshot</en></def></sense></entry>
+<entry><form>anoːhseːhsan</form><pos>n</pos><sense><def><en>fine shot (dim pl)</en></def></sense></entry>
+<entry><form>anoːnæːw</form><pos>v</pos><sense><def><en>he orders him, employs him</en></def></sense></entry>
+<entry><form>anoːsewæw</form><pos>v</pos><sense><def><en>he directs, orders, employs people</en></def></sense></entry>
+<entry><form>anoh</form><pos>n</pos><sense><def><en>these (inanimate)</en></def></sense></entry>
+<entry><form>anohkiːhæːw</form><pos>v</pos><sense><def><en>he makes him work, sets him working</en></def></sense></entry>
+<entry><form>anohkiːhtaw</form><pos>v</pos><sense><def><en>he makes it work, sets it working</en></def></sense></entry>
+<entry><form>anohkiːmakat</form><pos>v</pos><sense><def><en>it works, does work</en></def></sense></entry>
+<entry><form>anohkiːqtam</form><pos>v</pos><sense><def><en>he works at it</en></def></sense></entry>
+<entry><form>anohkiːqtamowæːw</form><pos>v</pos><sense><def><en>he works at it for him</en></def></sense></entry>
+<entry><form>anohkiːqtasow</form><pos>v</pos><sense><def><en>he does his work</en></def></sense></entry>
+<entry><form>anohkiːqtaw</form><pos>v</pos><sense><def><en>he does work, is engaged in work</en></def></sense></entry>
+<entry><form>anohkiːqtawæw</form><pos>v</pos><sense><def><en>he works at him, he works for him</en></def></sense></entry>
+<entry><form>anohkiːqtawekow</form><pos>v</pos><sense><def><en>he works for people</en></def></sense></entry>
+<entry><form>anohkiːw</form><pos>v</pos><sense><def><en>he works</en></def></sense></entry>
+<entry><form>anohkiːw</form><pos>n</pos><sense><def><en>workman</en></def></sense></entry>
+<entry><form>anohkiːwen</form><pos>n</pos><sense><def><en>work</en></def></sense></entry>
+<entry><form>anom</form><pos>n</pos><sense><def><en>these</en></def></sense></entry>
+<entry><form>anuːčepotuwæw</form><pos>v</pos><sense><def><en>he handles it roughly for him</en></def></sense></entry>
+<entry><form>anuah</form><pos>n</pos><sense><def><en>pine snake</en></def></sense></entry>
+<entry><form>anuakawew</form><pos>v</pos><sense><def><en>it runs as the last flow (of sap)</en></def></sense></entry>
+<entry><form>anuakawew</form><pos>n</pos><sense><def><en>sugar of the last run, thin sugar</en></def></sense></entry>
+<entry><form>anuanemat</form><pos>v</pos><sense><def><en>the wind subsides</en></def></sense></entry>
+<entry><form>anuapiːqnen</form><pos>v</pos><sense><def><en>it ceases to rain or snow</en></def></sense></entry>
+<entry><form>ap</form><pos>NIL</pos><sense><def><en>also, too</en></def></sense></entry>
+<entry><form>ap</form><pos>NIL</pos><sense><def><en>go off to (and return)</en></def></sense></entry>
+<entry><form>apæːhnapemew</form><pos>n</pos><sense><def><en>blue corn, dark indian corn</en></def></sense></entry>
+<entry><form>apæːhnen</form><pos>v</pos><sense><def><en>he is dark coloured, blue</en></def></sense></entry>
+<entry><form>apæːhniːhsæh</form><pos>n</pos><sense><def><en>boy, lad</en></def></sense></entry>
+<entry><form>apæːhniːhseːhsæ</form><pos>n</pos><sense><def><en>h little boy</en></def></sense></entry>
+<entry><form>apæːhniːhsewew</form><pos>v</pos><sense><def><en>he is a boy or like a boy</en></def></sense></entry>
+<entry><form>apæːhniw</form><pos>v</pos><sense><def><en>it is dark colored, blue</en></def></sense></entry>
+<entry><form>apæːhsahkyah</form><pos>n</pos><sense><def><en>brant (goose)</en></def></sense></entry>
+<entry><form>apæːhsemew</form><pos>n</pos><sense><def><en>acorn of the pin oak</en></def></sense></entry>
+<entry><form>apæːhsos</form><pos>n</pos><sense><def><en>deer</en></def></sense></entry>
+<entry><form>apæːhsosokom</form><pos>n</pos><sense><def><en>deerskin</en></def></sense></entry>
+<entry><form>apæːqček</form><pos>NIL</pos><sense><def><en>beyond likelihood</en></def></sense></entry>
+<entry><form>apæːqčiːn</form><pos>NIL</pos><sense><def><en>what a lot!</en></def></sense></entry>
+<entry><form>apæːqčiːnatonet</form><pos>v</pos><sense><def><en>there are many of them! (interrogative)</en></def></sense></entry>
+<entry><form>apæːqčiːnoket</form><pos>v</pos><sense><def><en>there are terribly many of them! (interrogative)</en></def></sense></entry>
+<entry><form>apæːs</form><pos>NIL</pos><sense><def><en>dark coloured, blue</en></def></sense></entry>
+<entry><form>apæːsam</form><pos>v</pos><sense><def><en>he warms it up (as, on a stove)</en></def></sense></entry>
+<entry><form>apæːskasiw</form><pos>n</pos><sense><def><en>buzzard</en></def></sense></entry>
+<entry><form>apæːtæːw</form><pos>v</pos><sense><def><en>it is warm (stove)</en></def></sense></entry>
+<entry><form>apaːhkiwikaːn</form><pos>n</pos><sense><def><en>reed house, house built of rushes</en></def></sense></entry>
+<entry><form>apaːhkiy</form><pos>n</pos><sense><def><en>reed, bullrush</en></def></sense></entry>
+<entry><form>apaːhkow</form><pos>v</pos><sense><def><en>he thatches with reeds, he thatches</en></def></sense></entry>
+<entry><form>apaːhkwačekæːw</form><pos>v</pos><sense><def><en>he thatches</en></def></sense></entry>
+<entry><form>apaːhkwan</form><pos>n</pos><sense><def><en>thatch</en></def></sense></entry>
+<entry><form>apaːhkwanæw</form><pos>v</pos><sense><def><en>he uses him for thatching</en></def></sense></entry>
+<entry><form>apaːhkwatæw</form><pos>v</pos><sense><def><en>it is thatched</en></def></sense></entry>
+<entry><form>apaːhkwatam</form><pos>v</pos><sense><def><en>he uses it for thatching</en></def></sense></entry>
+<entry><form>apaːhšiy</form><pos>n</pos><sense><def><en>tent-pole, wigwam pole</en></def></sense></entry>
+<entry><form>apaːqnahsow</form><pos>v</pos><sense><def><en>he is warmed by the sun</en></def></sense></entry>
+<entry><form>apaːqnahtæw</form><pos>v</pos><sense><def><en>it is warmed by the sun</en></def></sense></entry>
+<entry><form>apaːqsow</form><pos>v</pos><sense><def><en>he suns himself</en></def></sense></entry>
+<entry><form>apeːhæːw</form><pos>v</pos><sense><def><en>he makes him sit</en></def></sense></entry>
+<entry><form>apeːhkan</form><pos>n</pos><sense><def><en>packstrap, harness</en></def></sense></entry>
+<entry><form>apeːhkanæːhkæw</form><pos>n</pos><sense><def><en>harness maker</en></def></sense></entry>
+<entry><form>apeːhkanæːhkæw</form><pos>v</pos><sense><def><en>he makes harnesses</en></def></sense></entry>
+<entry><form>apeːmakat</form><pos>v</pos><sense><def><en>it sits</en></def></sense></entry>
+<entry><form>apeːqtam</form><pos>v</pos><sense><def><en>he sits near to it, he dwells in it</en></def></sense></entry>
+<entry><form>apeːqtawæw</form><pos>v</pos><sense><def><en>he sits near to him</en></def></sense></entry>
+<entry><form>apeːsaːhkonæsow</form><pos>v</pos><sense><def><en>he paints his body black</en></def></sense></entry>
+<entry><form>apeːsaːhkonæw</form><pos>v</pos><sense><def><en>he paints him black on his body</en></def></sense></entry>
+<entry><form>apeːsaːnečkow</form><pos>v</pos><sense><def><en>he is black haired</en></def></sense></entry>
+<entry><form>apeːsamæpen</form><pos>n</pos><sense><def><en>black sucker (fish)</en></def></sense></entry>
+<entry><form>apeːsaqnæm</form><pos>n</pos><sense><def><en>black dog</en></def></sense></entry>
+<entry><form>apeːsehonæːw</form><pos>v</pos><sense><def><en>he paints him black</en></def></sense></entry>
+<entry><form>apeːsehosow</form><pos>v</pos><sense><def><en>he is painted black</en></def></sense></entry>
+<entry><form>apeːsehotæːw</form><pos>v</pos><sense><def><en>it is painted black</en></def></sense></entry>
+<entry><form>apeːsehotaːw</form><pos>v</pos><sense><def><en>he paints it black</en></def></sense></entry>
+<entry><form>apeːsen</form><pos>v</pos><sense><def><en>he is black</en></def></sense></entry>
+<entry><form>apeːsetæːhpæw</form><pos>v</pos><sense><def><en>he is black at the head</en></def></sense></entry>
+<entry><form>apeːw</form><pos>v</pos><sense><def><en>he is there, he is in place, he sits</en></def></sense></entry>
+<entry><form>apeːwæːway</form><pos>n</pos><sense><def><en>down, feather</en></def></sense></entry>
+<entry><form>apeč</form><pos>NIL</pos><sense><def><en>exactly, evenly, fully, properly</en></def></sense></entry>
+<entry><form>apespæːč</form><pos>NIL</pos><sense><def><en>not a chance!</en></def></sense></entry>
+<entry><form>apiːsaːkamiw</form><pos>v</pos><sense><def><en>it is black liquid</en></def></sense></entry>
+<entry><form>apiːsanaːqsiahkiːhsæh</form><pos>n</pos><sense><def><en>negro girl</en></def></sense></entry>
+<entry><form>apiːsanaːqsiahkiw</form><pos>n</pos><sense><def><en>negro woman</en></def></sense></entry>
+<entry><form>apiːsemiyæːw</form><pos>n</pos><sense><def><en>negro (archaic)</en></def></sense></entry>
+<entry><form>apiːsemuːhkehkwan</form><pos>v</pos><sense><def><en>he has black eyebrows</en></def></sense></entry>
+<entry><form>apiːsiːkan</form><pos>n</pos><sense><def><en>black ceremonial robe</en></def></sense></entry>
+<entry><form>apiːsiːkanoːhsæh</form><pos>n</pos><sense><def><en>small black ceremonial robe</en></def></sense></entry>
+<entry><form>apiːsiːkat</form><pos>v</pos><sense><def><en>it is black cloth</en></def></sense></entry>
+<entry><form>apiːsiːw</form><pos>v</pos><sense><def><en>it is black</en></def></sense></entry>
+<entry><form>apiakan</form><pos>n</pos><sense><def><en>settee, seat (always possessed)</en></def></sense></entry>
+<entry><form>apoːw</form><pos>v</pos><sense><def><en>he roasts something</en></def></sense></entry>
+<entry><form>apuačekan</form><pos>n</pos><sense><def><en>roasting frame</en></def></sense></entry>
+<entry><form>apuahsokan</form><pos>n</pos><sense><def><en>roasting pan</en></def></sense></entry>
+<entry><form>apuahsow</form><pos>v</pos><sense><def><en>he makes a roast for himself</en></def></sense></entry>
+<entry><form>apuan</form><pos>n</pos><sense><def><en>roast</en></def></sense></entry>
+<entry><form>apuanæːw</form><pos>v</pos><sense><def><en>he makes a roast of him</en></def></sense></entry>
+<entry><form>apuanaːhtek</form><pos>n</pos><sense><def><en>roasting spit</en></def></sense></entry>
+<entry><form>apuasow</form><pos>v</pos><sense><def><en>it is roasted</en></def></sense></entry>
+<entry><form>apuatæːw</form><pos>v</pos><sense><def><en>it is roasted</en></def></sense></entry>
+<entry><form>apuatæːw</form><pos>n</pos><sense><def><en>roasted wild rice</en></def></sense></entry>
+<entry><form>apuatam</form><pos>v</pos><sense><def><en>he makes a roast of it</en></def></sense></entry>
+<entry><form>aqčekæːw</form><pos>v</pos><sense><def><en>he bets, makes a bet</en></def></sense></entry>
+<entry><form>aqčekaːsow</form><pos>v</pos><sense><def><en>he is placed, is put in place</en></def></sense></entry>
+<entry><form>aqčekaːtæːw</form><pos>v</pos><sense><def><en>it is had, placed, put in a place</en></def></sense></entry>
+<entry><form>aqčiahnæw</form><pos>v</pos><sense><def><en>he sneezes</en></def></sense></entry>
+<entry><form>aqnæw</form><pos>v</pos><sense><def><en>he has him at his disposal, places him</en></def></sense></entry>
+<entry><form>aqnaːhkamek</form><pos>n</pos><sense><def><en>moss</en></def></sense></entry>
+<entry><form>aqnaːhkamekoːwew</form><pos>v</pos><sense><def><en>he is covered with moss</en></def></sense></entry>
+<entry><form>aqnaːhkamekoːwew</form><pos>v</pos><sense><def><en>it is covered with moss</en></def></sense></entry>
+<entry><form>aqnap</form><pos>n</pos><sense><def><en>net</en></def></sense></entry>
+<entry><form>aqnapaːhkow</form><pos>v</pos><sense><def><en>he makes a cache, puts away stores</en></def></sense></entry>
+<entry><form>aqnapaːhkwan</form><pos>n</pos><sense><def><en>store of food, cache</en></def></sense></entry>
+<entry><form>aqnapehkæw</form><pos>v</pos><sense><def><en>he makes nets</en></def></sense></entry>
+<entry><form>aqnopiakan</form><pos>n</pos><sense><def><en>trough for maple sap, sugar camp</en></def></sense></entry>
+<entry><form>aqsæn</form><pos>n</pos><sense><def><en>stone</en></def></sense></entry>
+<entry><form>aqsæneːhsæh</form><pos>n</pos><sense><def><en>little stone, pebble</en></def></sense></entry>
+<entry><form>aqsæniːkat</form><pos>v</pos><sense><def><en>it is hand woven, fine woven cloth</en></def></sense></entry>
+<entry><form>aqsaneːhsæh</form><pos>n</pos><sense><def><en>little stone, pebble</en></def></sense></entry>
+<entry><form>aqsaniːkat</form><pos>v</pos><sense><def><en>it is hand wowen, finewowen cloth</en></def></sense></entry>
+<entry><form>aqsečehsen</form><pos>v</pos><sense><def><en>he lies close up</en></def></sense></entry>
+<entry><form>aqsečeqtaw</form><pos>v</pos><sense><def><en>he moves close up</en></def></sense></entry>
+<entry><form>aqsekæːhsæh</form><pos>n</pos><sense><def><en>small, pocket knife</en></def></sense></entry>
+<entry><form>aqsekænæːhnæw</form><pos>v</pos><sense><def><en>he picks up wood, firewood, chips</en></def></sense></entry>
+<entry><form>aqsekænæw</form><pos>v</pos><sense><def><en>he picks him up by hand</en></def></sense></entry>
+<entry><form>aqsekænam</form><pos>v</pos><sense><def><en>he picks it up by hand</en></def></sense></entry>
+<entry><form>aqsekaham</form><pos>v</pos><sense><def><en>he picks it up by tool, with his beak</en></def></sense></entry>
+<entry><form>aqsekahčekæːw</form><pos>v</pos><sense><def><en>he eats a pick up lunch (no fire made)</en></def></sense></entry>
+<entry><form>aqsekahtam</form><pos>v</pos><sense><def><en>he picks up bits of it and eats them</en></def></sense></entry>
+<entry><form>aqsekan</form><pos>n</pos><sense><def><en>bass (species of fish)</en></def></sense></entry>
+<entry><form>aqsemæːw</form><pos>v</pos><sense><def><en>he tempts him</en></def></sense></entry>
+<entry><form>aqset</form><pos>NIL</pos><sense><def><en>near</en></def></sense></entry>
+<entry><form>aqsetæmæːhkow</form><pos>v</pos><sense><def><en>he dips bread into broth</en></def></sense></entry>
+<entry><form>aqsetænæw</form><pos>v</pos><sense><def><en>he holds him close to something</en></def></sense></entry>
+<entry><form>aqsetænam</form><pos>v</pos><sense><def><en>he holds it close to something</en></def></sense></entry>
+<entry><form>aqsetænamowæw</form><pos>v</pos><sense><def><en>he places it close for him, to him</en></def></sense></entry>
+<entry><form>aqsetaːhkonæw</form><pos>v</pos><sense><def><en>he holds him fast against a solid</en></def></sense></entry>
+<entry><form>aqsetaːhkonam</form><pos>v</pos><sense><def><en>he holds it fast against a solid</en></def></sense></entry>
+<entry><form>aqsetaːhkwahpenæːw</form><pos>v</pos><sense><def><en>he ties him fast to a solid</en></def></sense></entry>
+<entry><form>aqsetaːhkwahpetaːw</form><pos>v</pos><sense><def><en>he ties it fast to a solid</en></def></sense></entry>
+<entry><form>aqsetaːhtek</form><pos>NIL</pos><sense><def><en>close to the wall or wood</en></def></sense></entry>
+<entry><form>aqsetahkiːskam</form><pos>v</pos><sense><def><en>he holds it down on ground with foot</en></def></sense></entry>
+<entry><form>aqsetahkiːskawew</form><pos>v</pos><sense><def><en>he holds him down with his foot</en></def></sense></entry>
+<entry><form>aqsetahkiːskosow</form><pos>v</pos><sense><def><en>he is held down by foot</en></def></sense></entry>
+<entry><form>aqsetahkiːskotæw</form><pos>v</pos><sense><def><en>it is held down on ground by foot</en></def></sense></entry>
+<entry><form>aqsetahpenæːw</form><pos>v</pos><sense><def><en>he ties him close to something</en></def></sense></entry>
+<entry><form>aqsetahpetaːw</form><pos>v</pos><sense><def><en>he ties it close up to something</en></def></sense></entry>
+<entry><form>aqsetakiːqtahtaw</form><pos>v</pos><sense><def><en>he pastes it fast on something</en></def></sense></entry>
+<entry><form>aqsetakiːqtaw</form><pos>v</pos><sense><def><en>he sticks fast on something sticks</en></def></sense></entry>
+<entry><form>aqsetakiːqtaw</form><pos>v</pos><sense><def><en>it sticks fast, is pasted fast on something</en></def></sense></entry>
+<entry><form>aqtæːhsiwak</form><pos>n</pos><sense><def><en>the lengthwise back muscle of animal</en></def></sense></entry>
+<entry><form>aqtæːhsiwakon</form><pos>n</pos><sense><def><en>lengthwise back muscle(s) of animal</en></def></sense></entry>
+<entry><form>aqtæh</form><pos>n</pos><sense><def><en>sinew</en></def></sense></entry>
+<entry><form>aqtænæːw</form><pos>v</pos><sense><def><en>he accuses him</en></def></sense></entry>
+<entry><form>aqtæw</form><pos>v</pos><sense><def><en>it is in a fixed place, in place, there</en></def></sense></entry>
+<entry><form>aqtaːqsow</form><pos>v</pos><sense><def><en>he makes a deposit, places something in pawn</en></def></sense></entry>
+<entry><form>aqtaːqswan</form><pos>n</pos><sense><def><en>cupboard</en></def></sense></entry>
+<entry><form>aqtatih</form><pos>NIL</pos><sense><def><en>at the county fair</en></def></sense></entry>
+<entry><form>aqtatowak</form><pos>v</pos><sense><def><en>they gamble, they compete</en></def></sense></entry>
+<entry><form>aqtaw</form><pos>v</pos><sense><def><en>he places it, she (hen) lays it (egg)</en></def></sense></entry>
+<entry><form>aqtaw</form><pos>v</pos><sense><def><en>he places it; (hen) lays an egg</en></def></sense></entry>
+<entry><form>aqtawæːw</form><pos>v</pos><sense><def><en>he gambles, competes with him</en></def></sense></entry>
+<entry><form>aqtawekow</form><pos>v</pos><sense><def><en>he gambles with people, he competes</en></def></sense></entry>
+<entry><form>aqtopow</form><pos>v</pos><sense><def><en>he puts away provisions</en></def></sense></entry>
+<entry><form>aqtopwan</form><pos>n</pos><sense><def><en>store of provisions,</en></def></sense></entry>
+<entry><form>aqtuwæːw</form><pos>v</pos><sense><def><en>he places it for him</en></def></sense></entry>
+<entry><form>as</form><pos>NIL</pos><sense><def><en>where, when, if (with conjunct verb)</en></def></sense></entry>
+<entry><form>asaːkeːhsæh</form><pos>n</pos><sense><def><en>sauk boy</en></def></sense></entry>
+<entry><form>asaːkeːw</form><pos>n</pos><sense><def><en>sauk</en></def></sense></entry>
+<entry><form>asaːkiahkiːhsæh</form><pos>n</pos><sense><def><en>sauk girl</en></def></sense></entry>
+<entry><form>asaːkiahkiw</form><pos>n</pos><sense><def><en>sauk woman</en></def></sense></entry>
+<entry><form>asaːqčekæːhsæh</form><pos>n</pos><sense><def><en>little mark; ounce</en></def></sense></entry>
+<entry><form>asaːqčekæw</form><pos>v</pos><sense><def><en>he writes, he makes marks</en></def></sense></entry>
+<entry><form>asaːqčekæwikamek</form><pos>n</pos><sense><def><en>office</en></def></sense></entry>
+<entry><form>asaːqčekan</form><pos>n</pos><sense><def><en>letter of the alphabet, graphic mark</en></def></sense></entry>
+<entry><form>asaːqčekanaːhtek</form><pos>n</pos><sense><def><en>pencil</en></def></sense></entry>
+<entry><form>asaːqčekanaːpoh</form><pos>n</pos><sense><def><en>ink</en></def></sense></entry>
+<entry><form>asaːqčekasow</form><pos>v</pos><sense><def><en>he is marked or written on</en></def></sense></entry>
+<entry><form>asaːqčekatæːw</form><pos>v</pos><sense><def><en>it is marked or written on</en></def></sense></entry>
+<entry><form>asaːqčekuwæːw</form><pos>v</pos><sense><def><en>he writes for him, to him</en></def></sense></entry>
+<entry><form>asaːqčekuwekow</form><pos>v</pos><sense><def><en>he writes for people, to people</en></def></sense></entry>
+<entry><form>asaːqnew</form><pos>v</pos><sense><def><en>he draws him, he marks him</en></def></sense></entry>
+<entry><form>asaːqsow</form><pos>v</pos><sense><def><en>he is marked, he is pictured</en></def></sense></entry>
+<entry><form>asaːqsuahsæh</form><pos>n</pos><sense><def><en>little picture</en></def></sense></entry>
+<entry><form>asaːqtæw</form><pos>v</pos><sense><def><en>it is marked</en></def></sense></entry>
+<entry><form>asaːqtaw</form><pos>v</pos><sense><def><en>he draws it, he marks it</en></def></sense></entry>
+<entry><form>asaːqtaw</form><pos>v</pos><sense><def><en>he slides down in his seat</en></def></sense></entry>
+<entry><form>asaːtiːhsæh</form><pos>n</pos><sense><def><en>little poplar</en></def></sense></entry>
+<entry><form>asaːtiːhseːhsæh</form><pos>n</pos><sense><def><en>poplar sapling</en></def></sense></entry>
+<entry><form>asaːtiːhsehkiw</form><pos>n</pos><sense><def><en>poplar grove</en></def></sense></entry>
+<entry><form>asaːtiy</form><pos>n</pos><sense><def><en>poplar</en></def></sense></entry>
+<entry><form>asaqswan</form><pos>n</pos><sense><def><en>picture; mark, marking</en></def></sense></entry>
+<entry><form>aseːhpes</form><pos>n</pos><sense><def><en>shoelace</en></def></sense></entry>
+<entry><form>aseːkanæːhkæw</form><pos>v</pos><sense><def><en>he makes hay</en></def></sense></entry>
+<entry><form>aseːkanæːhkatam</form><pos>v</pos><sense><def><en>he makes hay of it</en></def></sense></entry>
+<entry><form>aseːkanaseːwatakan</form><pos>n</pos><sense><def><en>hayseed</en></def></sense></entry>
+<entry><form>aseːkaneːhsæh</form><pos>n</pos><sense><def><en>blade of grass, wisp of hay</en></def></sense></entry>
+<entry><form>aseːkaneːhsewew</form><pos>v</pos><sense><def><en>it is grassy</en></def></sense></entry>
+<entry><form>aseːqtakan</form><pos>n</pos><sense><def><en>stalk of indian corn</en></def></sense></entry>
+<entry><form>aseːwačekæːw</form><pos>v</pos><sense><def><en>he sows or plants</en></def></sense></entry>
+<entry><form>aseːwačekan</form><pos>n</pos><sense><def><en>seeder, sower</en></def></sense></entry>
+<entry><form>aseːwanæw</form><pos>v</pos><sense><def><en>he sows him</en></def></sense></entry>
+<entry><form>aseːwatakan</form><pos>n</pos><sense><def><en>seed, grain</en></def></sense></entry>
+<entry><form>aseːwatakanewew</form><pos>v</pos><sense><def><en>he gets seeds</en></def></sense></entry>
+<entry><form>aseːwatakanewew</form><pos>v</pos><sense><def><en>it gets or has seeds</en></def></sense></entry>
+<entry><form>aseːwataw</form><pos>v</pos><sense><def><en>he sows or plants it</en></def></sense></entry>
+<entry><form>asiːčemæw</form><pos>v</pos><sense><def><en>he paddles back or backwards</en></def></sense></entry>
+<entry><form>asiːhæːw</form><pos>v</pos><sense><def><en>he pushes him back by tool</en></def></sense></entry>
+<entry><form>asiːham</form><pos>v</pos><sense><def><en>he pushes it back by tool</en></def></sense></entry>
+<entry><form>asiːhtahaːhnæw</form><pos>v</pos><sense><def><en>he follows the trail of him back</en></def></sense></entry>
+<entry><form>asiːhtahaːhtaw</form><pos>v</pos><sense><def><en>he follows the trail of it back</en></def></sense></entry>
+<entry><form>asiːkaːpowew</form><pos>v</pos><sense><def><en>he stands back</en></def></sense></entry>
+<entry><form>asiːkaniːhsehkiw</form><pos>v</pos><sense><def><en>it is marshy land</en></def></sense></entry>
+<entry><form>asiːkaniːhsehkiw</form><pos>n</pos><sense><def><en>marshland, marsh</en></def></sense></entry>
+<entry><form>asiːnæːw</form><pos>v</pos><sense><def><en>he pushes him back by hand</en></def></sense></entry>
+<entry><form>asiːnam</form><pos>v</pos><sense><def><en>he pushes it back by hand</en></def></sense></entry>
+<entry><form>asiːpahtaw</form><pos>v</pos><sense><def><en>he runs back or backwards</en></def></sense></entry>
+<entry><form>asiːpesow</form><pos>v</pos><sense><def><en>he speeds back</en></def></sense></entry>
+<entry><form>asiːpetæw</form><pos>v</pos><sense><def><en>it speeds, goes back or backwards</en></def></sense></entry>
+<entry><form>asiːqtaw</form><pos>v</pos><sense><def><en>he moves backwards, he backs out</en></def></sense></entry>
+<entry><form>asiːwæːpahæw</form><pos>v</pos><sense><def><en>he throws him back by tool</en></def></sense></entry>
+<entry><form>asiːwæːpaham</form><pos>v</pos><sense><def><en>he throws it back by tool</en></def></sense></entry>
+<entry><form>asiːwæːpenætowak</form><pos>v</pos><sense><def><en>they throw each other back</en></def></sense></entry>
+<entry><form>asiːwæːpenæw</form><pos>v</pos><sense><def><en>he flings him back from his hand</en></def></sense></entry>
+<entry><form>asiːwæːpenam</form><pos>v</pos><sense><def><en>he flings it back from his hand</en></def></sense></entry>
+<entry><form>asiːyæːqnemæw</form><pos>v</pos><sense><def><en>he blows him back</en></def></sense></entry>
+<entry><form>asiːyæːqnen</form><pos>v</pos><sense><def><en>it is blown back</en></def></sense></entry>
+<entry><form>asiːyæːqnetaw</form><pos>v</pos><sense><def><en>he blows it back</en></def></sense></entry>
+<entry><form>asiːyæːqsew</form><pos>v</pos><sense><def><en>he is blown back</en></def></sense></entry>
+<entry><form>asiahnæw</form><pos>v</pos><sense><def><en>he walks back, backwards</en></def></sense></entry>
+<entry><form>asiahotaw</form><pos>v</pos><sense><def><en>he pushes it back by tool</en></def></sense></entry>
+<entry><form>asiahow</form><pos>v</pos><sense><def><en>he paddles back, pushes back</en></def></sense></entry>
+<entry><form>asiaqtakæːhnen</form><pos>v</pos><sense><def><en>it rebounds from a hard surface</en></def></sense></entry>
+<entry><form>asiaqtakæːhsen</form><pos>v</pos><sense><def><en>he rebounds from a hard surface</en></def></sense></entry>
+<entry><form>askæːn</form><pos>v</pos><sense><def><en>he is raw, uncooked</en></def></sense></entry>
+<entry><form>askæːn</form><pos>v</pos><sense><def><en>it is raw, uncooked</en></def></sense></entry>
+<entry><form>askæːtæːmen</form><pos>n</pos><sense><def><en>lemon, orange, may apple</en></def></sense></entry>
+<entry><form>askæːtæːw</form><pos>v</pos><sense><def><en>it is unripe, underdone, uncooked</en></def></sense></entry>
+<entry><form>askaːh</form><pos>n</pos><sense><def><en>white pine</en></def></sense></entry>
+<entry><form>askaːhniy</form><pos>n</pos><sense><def><en>rawhide, piece of rawhide</en></def></sense></entry>
+<entry><form>askaːhtek</form><pos>n</pos><sense><def><en>green stick, stick of fresh wood</en></def></sense></entry>
+<entry><form>askaːqnem</form><pos>n</pos><sense><def><en>glutton</en></def></sense></entry>
+<entry><form>askaːqnemowew</form><pos>v</pos><sense><def><en>he is gluttonous</en></def></sense></entry>
+<entry><form>askeːh</form><pos>NIL</pos><sense><def><en>raw, green</en></def></sense></entry>
+<entry><form>askeːhkoman</form><pos>n</pos><sense><def><en>tin</en></def></sense></entry>
+<entry><form>askeːhnen</form><pos>v</pos><sense><def><en>it is fresh, raw</en></def></sense></entry>
+<entry><form>askeːhnen</form><pos>n</pos><sense><def><en>raw things</en></def></sense></entry>
+<entry><form>askeːhsen</form><pos>v</pos><sense><def><en>he is fresh, raw</en></def></sense></entry>
+<entry><form>askeːpak</form><pos>NIL</pos><sense><def><en>green</en></def></sense></entry>
+<entry><form>askeːpakaːqnem</form><pos>n</pos><sense><def><en>green dog</en></def></sense></entry>
+<entry><form>askeːpakehonæw</form><pos>v</pos><sense><def><en>he paints him green</en></def></sense></entry>
+<entry><form>askeːpakehosow</form><pos>v</pos><sense><def><en>he is painted green</en></def></sense></entry>
+<entry><form>askeːpakehotæw</form><pos>v</pos><sense><def><en>it is painted green</en></def></sense></entry>
+<entry><form>askeːpakehotaw</form><pos>v</pos><sense><def><en>he paints it green</en></def></sense></entry>
+<entry><form>askeːpakon</form><pos>v</pos><sense><def><en>he is green</en></def></sense></entry>
+<entry><form>askeːpow</form><pos>v</pos><sense><def><en>he eats raw things</en></def></sense></entry>
+<entry><form>askeːqtemæːhnak</form><pos>n</pos><sense><def><en>tree of white oak</en></def></sense></entry>
+<entry><form>askiːmæhkwan</form><pos>n</pos><sense><def><en>watermelon</en></def></sense></entry>
+<entry><form>askiːpakanahkwat</form><pos>n</pos><sense><def><en>green cloud</en></def></sense></entry>
+<entry><form>askiːpakiw</form><pos>v</pos><sense><def><en>it is green</en></def></sense></entry>
+<entry><form>askiːpuaw</form><pos>n</pos><sense><def><en>sweetroot</en></def></sense></entry>
+<entry><form>askiːqtemyah</form><pos>n</pos><sense><def><en>white oak</en></def></sense></entry>
+<entry><form>askiːw</form><pos>v</pos><sense><def><en>it is raw</en></def></sense></entry>
+<entry><form>askiːwakæːhkačekæːw</form><pos>v</pos><sense><def><en>he makes something move showing raw flesh</en></def></sense></entry>
+<entry><form>askiːwakæːhkaw</form><pos>v</pos><sense><def><en>it moves as</en></def></sense></entry>
+<entry><form>askiːwakan</form><pos>n</pos><sense><def><en>raw meat, fresh meat</en></def></sense></entry>
+<entry><form>atæːh</form><pos>n</pos><sense><def><en>caribou</en></def></sense></entry>
+<entry><form>atæːhemen</form><pos>n</pos><sense><def><en>strawberry</en></def></sense></entry>
+<entry><form>atæːhemenæhkæw</form><pos>v</pos><sense><def><en>he gathers strawberries</en></def></sense></entry>
+<entry><form>atæːhemenaːpoh</form><pos>n</pos><sense><def><en>strawberry water</en></def></sense></entry>
+<entry><form>atæːhsam</form><pos>v</pos><sense><def><en>he dyes, colors it</en></def></sense></entry>
+<entry><form>atæːhsekæw</form><pos>v</pos><sense><def><en>he dyes things</en></def></sense></entry>
+<entry><form>atæːhsekæw</form><pos>n</pos><sense><def><en>locust</en></def></sense></entry>
+<entry><form>atæːhsekan</form><pos>n</pos><sense><def><en>dye, coloring matter</en></def></sense></entry>
+<entry><form>atæːhsiw</form><pos>v</pos><sense><def><en>he dyes him</en></def></sense></entry>
+<entry><form>atæːhsow</form><pos>v</pos><sense><def><en>he is dyed, colored</en></def></sense></entry>
+<entry><form>atæːhtæw</form><pos>v</pos><sense><def><en>it is dyed, colored</en></def></sense></entry>
+<entry><form>atæːhtam</form><pos>v</pos><sense><def><en>he overtakes it</en></def></sense></entry>
+<entry><form>atæːmæːw</form><pos>v</pos><sense><def><en>he overtakes him</en></def></sense></entry>
+<entry><form>atæːmahæw</form><pos>v</pos><sense><def><en>he overtakes him by canoe, on the water</en></def></sense></entry>
+<entry><form>ataːwæːw</form><pos>v</pos><sense><def><en>he borrows, gets credit</en></def></sense></entry>
+<entry><form>ataːwæːwenæniw</form><pos>n</pos><sense><def><en>storekeeper</en></def></sense></entry>
+<entry><form>ataːwæːwenæniwew</form><pos>v</pos><sense><def><en>he is a storekeeper, he keeps a store</en></def></sense></entry>
+<entry><form>ataːwæːwikamek</form><pos>n</pos><sense><def><en>store, shop</en></def></sense></entry>
+<entry><form>ataːwaːw</form><pos>n</pos><sense><def><en>ottawa</en></def></sense></entry>
+<entry><form>ataːwamæw</form><pos>v</pos><sense><def><en>he borrows from him</en></def></sense></entry>
+<entry><form>atoːčehsen</form><pos>v</pos><sense><def><en>he lies on something</en></def></sense></entry>
+<entry><form>atoːhpow</form><pos>v</pos><sense><def><en>he eats from on top of something</en></def></sense></entry>
+<entry><form>atoːsæhkam</form><pos>v</pos><sense><def><en>he stands on it</en></def></sense></entry>
+<entry><form>atoːsæhkawæːw</form><pos>v</pos><sense><def><en>he stands on him</en></def></sense></entry>
+<entry><form>atoːtapew</form><pos>v</pos><sense><def><en>he sits on something</en></def></sense></entry>
+<entry><form>atuːhpuahsæh</form><pos>n</pos><sense><def><en>small table</en></def></sense></entry>
+<entry><form>atuːhpwan</form><pos>n</pos><sense><def><en>table</en></def></sense></entry>
+<entry><form>atuːhpwanik</form><pos>n</pos><sense><def><en>tablecloth</en></def></sense></entry>
+<entry><form>atuːsæhkyanæːw</form><pos>v</pos><sense><def><en>he steps on him</en></def></sense></entry>
+<entry><form>atuːsæhkyatam</form><pos>v</pos><sense><def><en>he steps on it</en></def></sense></entry>
+<entry><form>atuːtapyakan</form><pos>n</pos><sense><def><en>chair</en></def></sense></entry>
+<entry><form>aw</form><pos>NIL</pos><sense><def><en>shall, will</en></def></sense></entry>
+<entry><form>awæːhsakom</form><pos>n</pos><sense><def><en>bearskin</en></def></sense></entry>
+<entry><form>awæːhseːhsæh</form><pos>n</pos><sense><def><en>bear cub</en></def></sense></entry>
+<entry><form>awæːhseh</form><pos>n</pos><sense><def><en>bear</en></def></sense></entry>
+<entry><form>awæːkaːtæːw</form><pos>v</pos><sense><def><en>it is used</en></def></sense></entry>
+<entry><form>awæːmew</form><pos>v</pos><sense><def><en>he lacks something</en></def></sense></entry>
+<entry><form>awæːtok</form><pos>n</pos><sense><def><en>spirit, being or person with power</en></def></sense></entry>
+<entry><form>awæːtokaːqnem</form><pos>n</pos><sense><def><en>bloodhound</en></def></sense></entry>
+<entry><form>awæːtokeːhsæh</form><pos>n</pos><sense><def><en>insect, beetle, worm</en></def></sense></entry>
+<entry><form>awæːtokeːhsæhkæw</form><pos>v</pos><sense><def><en>he gathers insects</en></def></sense></entry>
+<entry><form>awæːtokeːhseːhsæh</form><pos>n</pos><sense><def><en>little insect or worm</en></def></sense></entry>
+<entry><form>awæːtokeːhsewew</form><pos>v</pos><sense><def><en>he is wormy, he has insects</en></def></sense></entry>
+<entry><form>awæːtokeːhsewew</form><pos>v</pos><sense><def><en>it has insects, is wormy</en></def></sense></entry>
+<entry><form>awæːtokeːqtaw</form><pos>v</pos><sense><def><en>he acts with supernatural power</en></def></sense></entry>
+<entry><form>awæːtokew</form><pos>v</pos><sense><def><en>he has spirit power</en></def></sense></entry>
+<entry><form>awæːtokkæːsoqnoːhsæh</form><pos>n</pos><sense><def><en>december</en></def></sense></entry>
+<entry><form>awæːtokohkoːmaːn</form><pos>n</pos><sense><def><en>steel</en></def></sense></entry>
+<entry><form>awæːtokomiːniːw</form><pos>n</pos><sense><def><en>turtle dove</en></def></sense></entry>
+<entry><form>awæːw</form><pos>v</pos><sense><def><en>he uses him</en></def></sense></entry>
+<entry><form>awaːčekasow</form><pos>v</pos><sense><def><en>he is taken away</en></def></sense></entry>
+<entry><form>awaːčekatæːw</form><pos>v</pos><sense><def><en>it is taken away</en></def></sense></entry>
+<entry><form>awaːčenekaːnæːw</form><pos>v</pos><sense><def><en>he carries him off on his shoulder</en></def></sense></entry>
+<entry><form>awaːčetačehtaw</form><pos>v</pos><sense><def><en>he drags or carts it away</en></def></sense></entry>
+<entry><form>awaːčetačehtuwæːw</form><pos>v</pos><sense><def><en>he drags it away for, from him</en></def></sense></entry>
+<entry><form>awaːčetačemæw</form><pos>v</pos><sense><def><en>he drags him away</en></def></sense></entry>
+<entry><form>awaːčewekaːtam</form><pos>v</pos><sense><def><en>he carries it off on his shoulder</en></def></sense></entry>
+<entry><form>awaːn</form><pos>n</pos><sense><def><en>fog</en></def></sense></entry>
+<entry><form>awaːn</form><pos>v</pos><sense><def><en>there is a fog</en></def></sense></entry>
+<entry><form>awaːnæːw</form><pos>v</pos><sense><def><en>he takes him away with him</en></def></sense></entry>
+<entry><form>awaːnepiːqnen</form><pos>v</pos><sense><def><en>there is a misty rain</en></def></sense></entry>
+<entry><form>awaːsihæw</form><pos>v</pos><sense><def><en>he makes him warm himself</en></def></sense></entry>
+<entry><form>awaːsow</form><pos>v</pos><sense><def><en>he warms himself (by the fire)</en></def></sense></entry>
+<entry><form>awaːsuakan</form><pos>n</pos><sense><def><en>heater</en></def></sense></entry>
+<entry><form>awaːtæhkiwæːw</form><pos>v</pos><sense><def><en>he takes a woman off with him</en></def></sense></entry>
+<entry><form>awaːtaːčemow</form><pos>v</pos><sense><def><en>he carries off a message</en></def></sense></entry>
+<entry><form>awaːtaːpowæw</form><pos>v</pos><sense><def><en>he carries off food</en></def></sense></entry>
+<entry><form>awaːtaːpowanæːw</form><pos>v</pos><sense><def><en>he takes a gift of food to him</en></def></sense></entry>
+<entry><form>awaːtaːw</form><pos>v</pos><sense><def><en>he takes it away with him</en></def></sense></entry>
+<entry><form>awaːtahæw</form><pos>v</pos><sense><def><en>he takes him away with him by tool</en></def></sense></entry>
+<entry><form>awaːtaham</form><pos>v</pos><sense><def><en>he takes it away with him by instrument</en></def></sense></entry>
+<entry><form>awaːtahekæːw</form><pos>v</pos><sense><def><en>he takes things away by instrument</en></def></sense></entry>
+<entry><form>awaːtahekuwæw</form><pos>v</pos><sense><def><en>he sends something to him</en></def></sense></entry>
+<entry><form>awaːtahonæːw</form><pos>v</pos><sense><def><en>he takes him away by canoe</en></def></sense></entry>
+<entry><form>awaːtahotaːw</form><pos>v</pos><sense><def><en>he takes it away by canoe</en></def></sense></entry>
+<entry><form>awaːtasaːqčekuwæːw</form><pos>v</pos><sense><def><en>he sends him a letter</en></def></sense></entry>
+<entry><form>awaːtasaːqčekuwekow</form><pos>v</pos><sense><def><en>he sends letters to people</en></def></sense></entry>
+<entry><form>awaːtuwæw</form><pos>v</pos><sense><def><en>he takes it off to him</en></def></sense></entry>
+<entry><form>aweːh</form><pos>NIL</pos><sense><def><en>go off to perform action</en></def></sense></entry>
+<entry><form>aweːhæːw</form><pos>v</pos><sense><def><en>he lends him something</en></def></sense></entry>
+<entry><form>aweːhewæw</form><pos>v</pos><sense><def><en>he lends to people</en></def></sense></entry>
+<entry><form>aweːkaːsow</form><pos>v</pos><sense><def><en>he is used</en></def></sense></entry>
+<entry><form>aweːmanasow</form><pos>v</pos><sense><def><en>he (deer) is rutting</en></def></sense></entry>
+<entry><form>awiːkenakwat</form><pos>v</pos><sense><def><en>it is morning twilight, dawn is breaking</en></def></sense></entry>
+<entry><form>ayaːčemiːqtawæw</form><pos>v</pos><sense><def><en>he tells him story, he narrates to him</en></def></sense></entry>
+<entry><form>ayaːčemow</form><pos>n</pos><sense><def><en>narrator</en></def></sense></entry>
+<entry><form>ayaːčemuahsæh</form><pos>n</pos><sense><def><en>little story told from time to time</en></def></sense></entry>
+<entry><form>ayaːčemwan</form><pos>n</pos><sense><def><en>story that is sometimes told</en></def></sense></entry>
+<entry><form>ayaːčkwat</form><pos>NIL</pos><sense><def><en>at the last, for the last time</en></def></sense></entry>
+<entry><form>ayaːh</form><pos>n</pos><sense><def><en>sort, kind, specimen</en></def></sense></entry>
+<entry><form>ayaːkiːhtaw</form><pos>NIL</pos><sense><def><en>far back in ancestry</en></def></sense></entry>
+<entry><form>ayaːkuamemæw</form><pos>v</pos><sense><def><en>he warns him</en></def></sense></entry>
+<entry><form>ayaːkuameqnæsew</form><pos>v</pos><sense><def><en>he speaks in warning, gives alarm</en></def></sense></entry>
+<entry><form>ayaːkuamesow</form><pos>v</pos><sense><def><en>he is on his guard</en></def></sense></entry>
+<entry><form>ayaːnæh</form><pos>NIL</pos><sense><def><en>repeatedly some, some now and then</en></def></sense></entry>
+<entry><form>ayaːnæhkow</form><pos>NIL</pos><sense><def><en>in adjunction, in continuation</en></def></sense></entry>
+<entry><form>ayaːnæhkowečikæn</form><pos>v</pos><sense><def><en>it grows in successive parts, lengths</en></def></sense></entry>
+<entry><form>ayaːpæːhsæh</form><pos>n</pos><sense><def><en>little male</en></def></sense></entry>
+<entry><form>ayaːpæːw</form><pos>n</pos><sense><def><en>male, stag, buck</en></def></sense></entry>
+<entry><form>ayaːpæhtaw</form><pos>NIL</pos><sense><def><en>half and half, halfway</en></def></sense></entry>
+<entry><form>ayaːpæhtawaːhtek</form><pos>NIL</pos><sense><def><en>halfway as high as the trees</en></def></sense></entry>
+<entry><form>ayaːpæhtawakam</form><pos>NIL</pos><sense><def><en>halfway across a space</en></def></sense></entry>
+<entry><form>ayaːpameːqtaw</form><pos>v</pos><sense><def><en>he turns sharply round, wheels back</en></def></sense></entry>
+<entry><form>ayaːsepæːhkihkiw</form><pos>v</pos><sense><def><en>there is a rock or cliff</en></def></sense></entry>
+<entry><form>ayaːskewanakeːčkow</form><pos>v</pos><sense><def><en>he has raw, sore eyes</en></def></sense></entry>
+<entry><form>ayaːskiwakæːhkačekæːw</form><pos>v</pos><sense><def><en>he makes smtg move showing raw fleshy</en></def></sense></entry>
+<entry><form>ayaːskiwakæːhkaw</form><pos>v</pos><sense><def><en>it moves as raw flesh</en></def></sense></entry>
+<entry><form>ayeːtæːn</form><pos>v</pos><sense><def><en>it is regrettable</en></def></sense></entry>
+<entry><form>ayoːčekæw</form><pos>v</pos><sense><def><en>he has objects of use</en></def></sense></entry>
+<entry><form>ayoːhoːwæːw</form><pos>n</pos><sense><def><en>member of the iowa tribe</en></def></sense></entry>
+<entry><form>ayoːwaːčepaːhtwanæw</form><pos>v</pos><sense><def><en>he runs back and forth conveying him</en></def></sense></entry>
+<entry><form>ayoːwaːčepaːhtwatam</form><pos>v</pos><sense><def><en>he runs back, forth conveying 'it'</en></def></sense></entry>
+<entry><form>ayoːwen</form><pos>n</pos><sense><def><en>tool</en></def></sense></entry>
+<entry><form>ayom</form><pos>n</pos><sense><def><en>this (animate)</en></def></sense></entry>
+<entry><form>ayow</form><pos>n</pos><sense><def><en>this</en></def></sense></entry>
+</lexicon>
+
