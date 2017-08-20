@@ -18,7 +18,7 @@ def cluster():
 def evaluateClusters():
     evaluateCommand = ("./CognateClustersEvaluator.py -d -i {0}/clusters_0.35Threshold.txt --purity".format(CLUSTERS_PATH))
     handleCommand(evaluateCommand)
-    totalRecallCommand = "./annotateOutput.py -d -e -i {0}/clusters_0.35Threshold.txt ".format(CLUSTERS_PATH )
+    totalRecallCommand = "./annotateOutput.py -e -i {0}/clusters_0.35Threshold.txt ".format(CLUSTERS_PATH )
     handleCommand(totalRecallCommand)
 
 
