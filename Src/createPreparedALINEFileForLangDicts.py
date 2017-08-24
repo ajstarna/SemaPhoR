@@ -9,8 +9,6 @@ example run:
 '''
 
 import sys
-sys.path.insert(0,'../Utils')
-
 import time
 
 from PreparedFileCreator import ALINEFileCreator

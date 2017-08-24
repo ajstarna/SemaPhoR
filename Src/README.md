@@ -1,5 +1,16 @@
 This directory contains the code needed to run the system.
 
+Most/all of the code is written in python3
+
+requirments.txt contains the list of python libraries required to run the system. 
+To download them all in one go, use the command:
+pip3 install -r requirements.txt
+
+
+============================
+
+Only proceed here once the requirments from above are good to go.
+
 There are a few script_* files, which are used to run the python commands for each corresponding stage of the system. 
 To get an idea of what commands will be run, use any script with a -d (debug) argument.
 
