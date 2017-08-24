@@ -2,8 +2,6 @@
 
 # this script runs the necessary files to create and evaluate the baselines
 
-
-
 BASELINES_PATH = "../Output/Baselines"
 
 import handleCommand

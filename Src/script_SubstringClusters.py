@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
-# this script runs the necessary files to create and evaluate the baselines
+# this script runs the necessary files to create the output clusters from the substring classified Algonquian pairs.
+# these final clusters come from a combination of the general and specific model scores.
+# use the -e argument to evaluate the clusters afterwards
 
 
 import handleCommand

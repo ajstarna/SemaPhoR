@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# this script runs the necessary files to train the general model
-
+# this script runs the necessary files to train the specific substring models for each Algonquian language pair.
+# use the -p argument for parallelizing. Otherwise, it is run sequential and takes longer.
 
 import handleCommand
 

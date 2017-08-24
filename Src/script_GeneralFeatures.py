@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
-# this script runs the necessary files to create and evaluate the baselines
-
+# this script runs the necessary files to create the features for each Algonquian language pair and then
+# classifies each pair using the general model that was trained on Polynesian data
+# use the -p argument for parallelizing. Otherwise, it is run sequential and takes longer.
 
 import handleCommand
 

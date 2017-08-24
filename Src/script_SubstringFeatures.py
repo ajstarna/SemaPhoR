@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
-# this script runs the necessary files to create and evaluate the baselines
-
+# this script runs the necessary files to create the substring features for each Algonquian language pair and then
+# classifies each pair using the specific substring models that were trained on each language pair
+# use the -p argument for parallelizing. Otherwise, it is run sequential and takes longer.
 
 
 import handleCommand
