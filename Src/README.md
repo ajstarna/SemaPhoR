@@ -8,14 +8,14 @@ pip3 install -r requirements.txt
 
 
 You also most download and make svm_light: http://svmlight.joachims.org/
-The executables svm_learn and svm_classify are expected to be in this Src/ directory (in fact they are now, which you could try using, but thye probably won't work on your machine)
+The executables svm_learn and svm_classify are expected to be in this Src/ directory (in fact they are now, which you could try using, but they probably won't work on your machine)
 
 ============================
 
 Only proceed here once the requirments from above are good to go.
 
 There are a few script_* files, which are used to run the python commands for each corresponding stage of the system. 
-To get an idea of what commands will be run, use any script with a -d (debug) argument.
+To get an idea of what commands will be run without actually running them, use any script with a -d (debug) argument.
 
 The scripts should be run in this order:
 
