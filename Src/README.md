@@ -12,7 +12,7 @@ The scripts should be run in this order:
 - Creates and evaluates some simple baseline clusterings, such as putting together words with identical definitions and first letters.
 
 ./script_AlignmentValues.py [-d]
-- Creates alignment value files for each pair of Alongquian languages. They will be read in later on, when featurizing the pairs.
+- Creates alignment value files for each pair of Algonquian languages. They will be read in later on, when featurizing the pairs.
 
 ./script_GeneralModel.py [-d]
 - Creates the general SVM model, using the Polynesian file as training data.
