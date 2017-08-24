@@ -7,6 +7,9 @@ To download them all in one go, use the command:
 pip3 install -r requirements.txt
 
 
+You also most download and make svm_light: http://svmlight.joachims.org/
+The executables svm_learn and svm_classify are expected to be in this Src/ directory (in fact they are now, which you could try using, but thye probably won't work on your machine)
+
 ============================
 
 Only proceed here once the requirments from above are good to go.
