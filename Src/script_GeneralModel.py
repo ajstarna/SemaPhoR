@@ -49,7 +49,7 @@ featurizeTrainCommand = ("./runGeneralFeaturizerOnExamplePairs.py -i {0}/trainin
 
 handleCommand(featurizeTrainCommand)
 
-learnCommand = "./svm_learn {0}/feature_values_polynesian.txt {0}/polynesian_model.txt".format(OUTPUT_PATH)
+learnCommand = "svm_learn {0}/feature_values_polynesian.txt {0}/polynesian_model.txt".format(OUTPUT_PATH)
 handleCommand(learnCommand)
 
 

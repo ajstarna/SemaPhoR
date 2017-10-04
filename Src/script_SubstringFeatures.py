@@ -59,7 +59,7 @@ def classifySubstringTestingPairs():
             otherTuple = langTuples[j]
             lang2, acc2 = otherTuple
 
-            classifyCommand = ("./svm_classify {0}/substring_feature_values_{2}_{3}.txt {1}/substring_model_{2}_{3}.txt "
+            classifyCommand = ("svm_classify {0}/substring_feature_values_{2}_{3}.txt {1}/substring_model_{2}_{3}.txt "
                                "{0}/substring_predictions_{2}_{3}.txt".format(SUBSTRING_FEATURES_PATH, MODEL_PATH, lang1, lang2))
             handleCommand(classifyCommand)
 

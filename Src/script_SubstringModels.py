@@ -49,7 +49,7 @@ def learnSubstringModels():
         for j in range(i, len(langTuples)):
             otherTuple = langTuples[j]
             lang2, acc2 = otherTuple
-            learnModelCommand = "./svm_learn {0}/substring_feature_values_{1}_{2}.txt {0}/substring_model_{1}_{2}.txt".format(OUTPUT_PATH, lang1, lang2)
+            learnModelCommand = "svm_learn {0}/substring_feature_values_{1}_{2}.txt {0}/substring_model_{1}_{2}.txt".format(OUTPUT_PATH, lang1, lang2)
             handleCommand(learnModelCommand)
             
 
