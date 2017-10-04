@@ -8,7 +8,7 @@ pip3 install -r requirements.txt
 
 
 You also most download and make svm_light: http://svmlight.joachims.org/
-The executables svm_learn and svm_classify are expected to be in this Src/ directory (in fact they are now, which you could try using, but they probably won't work on your machine)
+The executables svm_learn and svm_classify are expected to be in your `$PATH`.
 
 ============================
 
