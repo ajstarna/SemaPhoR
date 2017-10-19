@@ -42,7 +42,7 @@ def classify():
             otherTuple = langTuples[j]
             lang2, acc2 = otherTuple
             # we score the features using the pollex trained model
-            classifyCommand = ("./svm_classify {0}/feature_values_{2}_{3}.txt {1}/polynesian_model.txt "
+            classifyCommand = ("svm_classify {0}/feature_values_{2}_{3}.txt {1}/polynesian_model.txt "
                                "{0}/predictions_{2}_{3}.txt".format(GENERAL_FEATURES_PATH, MODEL_PATH, lang1, lang2))
             handleCommand(classifyCommand)
 
