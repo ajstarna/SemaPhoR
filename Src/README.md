@@ -30,10 +30,17 @@ The scripts should be run in this order:
 
 ./script_GeneralModel.py [-d]
 - Creates the general SVM model, using the Polynesian file as training data.
+- The script uses up to and including the WordNet Features (the -y wordNet argument given to ./runGeneralFeaturizerOnExamplePairs.py).
+  If you want to turn on word vector features as well, then switch all occurences of -y wordNet to -y allFeatures
+  Make sure to do the same in script_GeneralFeatures, since the testing pairs should be classified by a model trained on the same feature set.
+- Pretrained English word vectors can be downloaded from https://code.google.com/archive/p/word2vec/
+- Pretrained Spanish word vectors can be downloaded from http://crscardellino.me/SBWCE/
 
 ./script_GeneralFeatures.py [-d] [-p]
 - Featurizes and classifies the Algonquian language pairs based on the general features and model.
 - Use the -p argument for parallelizing. Otherwise, it is run sequentially and takes longer. 
+- See note above in script_GeneralModel about turning on word vector features.
+  It is critical that the same feature set is used for training the model as is for testing pairs.
 
 ./script_GeneralClusters.py [-d] [-e]
 - Creates the output clusters from the classified Algonquian pairs.

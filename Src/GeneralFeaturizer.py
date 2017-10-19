@@ -24,6 +24,12 @@ import editdistance
 
 DATA_PATH = "../Data"
 
+# download from https://code.google.com/archive/p/word2vec/
+ENGLISH_VECTORS = "GoogleNews-vectors-negative300.bin.gz"
+
+# download from http://crscardellino.me/SBWCE/
+SPANISH_VECTORS = "SBW-vectors-300-min5.bin"
+
 class GeneralFeaturizer(object):
 
     # define different feature sets
@@ -46,7 +52,7 @@ class GeneralFeaturizer(object):
             self.forms = WordNetFileHandler(DATA_PATH + "/en_forms.txt")
             self.synsets = WordNetFileHandler(DATA_PATH + "/en_synsets.txt")
             self.hyperonyms = WordNetFileHandler(DATA_PATH + "/en_hyperonyms.txt")
-            self.vectorsPath = "/local/chauvin1/ajstarna/WORD2VEC/trunk/GoogleNews-vectors-negative300.bin.gz"#en-wiki-vectors.bin"
+            self.vectorsPath = DATA_PATH + "/" + ENGLISH_VECTORS
             
         elif definitionLanguage == "es":
             self.stopWords = SpanishStopWords()
@@ -54,7 +60,7 @@ class GeneralFeaturizer(object):
             self.forms = WordNetFileHandler(DATA_PATH + "/es_forms.txt")
             self.synsets = WordNetFileHandler(DATA_PATH + "/es_synsets.txt")
             self.hyperonyms = WordNetFileHandler(DATA_PATH + "/es_hyperonyms.txt")
-            self.vectorsPath = "/local/chauvin1/ajstarna/WORD2VEC/trunk/SBW-vectors-300-min5.bin"
+            self.vectorsPath = DATA_PATH + "/" + SPANISH_VECTORS 
 
         # by default, features 11 and 12 (PREFIX and SUFFIX) are turned off
         if isinstance(featureNumbersToUse, str):
