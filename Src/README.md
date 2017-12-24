@@ -7,7 +7,7 @@ To download them all in one go, use the command:
 pip3 install -r requirements.txt
 
 
-You also most download and make svm_light: http://svmlight.joachims.org/
+You also must download and make svm_light: http://svmlight.joachims.org/
 The executables svm_learn and svm_classify are expected to be in your `$PATH`.
 
 ============================
@@ -38,7 +38,7 @@ The scripts should be run in this order:
 
 ./script_GeneralFeatures.py [-d] [-p]
 - Featurizes and classifies the Algonquian language pairs based on the general features and model.
-- Use the -p argument for parallelizing. Otherwise, it is run sequentially and takes longer. 
+- Use the -p argument for parallelizing (recommended). Otherwise, it is run sequentially and takes longer. 
 - See note above in script_GeneralModel about turning on word vector features.
   It is critical that the same feature set is used for training the model as is for testing pairs.
   i.e. to use word vector features in this script, remove all occurrences of "-y wordNet" when calling ./runGeneralFeaturizerOnLangDicts.py
@@ -49,11 +49,11 @@ The scripts should be run in this order:
 
 ./script_SubstringModels.py [-d] [-p]
 - Creates the specific substring SVM models for each Algonquian language pair
-- Use the -p argument for parallelizing. Otherwise, it is run sequential and takes longer.
+- Use the -p argument for parallelizing (recommended). Otherwise, it is run sequential and takes longer.
 
 ./script_SubstringFeatures.py [-d] [-p]
 - Featurizes and classifies the Algonquian language pairs based on the substring features and specific pairwise models.
-- Use the -p argument for parallelizing. Otherwise, it is run sequential and takes longer.
+- Use the -p argument for parallelizing (recommended). Otherwise, it is run sequential and takes longer.
 
 ./script_SubstringClusters.py [-d] [-e]
 - Creates the output clusters from the substring classified Algonquian pairs.
