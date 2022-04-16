@@ -6,4 +6,4 @@ See the Src/ directory Readme for instructions on how to run.
 If you use this system as part of your research, please cite:
 Adam St Arnaud, David Beck, Grzegorz Kondrak. Identifying Cognate Sets Across Dictionaries of Related Languages. EMNLP 2017
 
-A link to the pdf and bibtex can be found at http://aclweb.org/anthology/D/D17/
+A link to the pdf and bibtex can be found at https://aclanthology.org/D17-1267/
